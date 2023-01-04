@@ -4,6 +4,7 @@ date: 2011-07-05T19:00:00
 publishDate: 2011-07-05
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- cloud
 title: "Soirée Patrick Chanezon: le cloud"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx
@@ -41,6 +42,6 @@ google appengine, amazon, cloudbees, node, cloud9, eclipse orion, cloud foundry,
 
 ### Télécharger les présentations
 
-* [Cloud is such stuff as dreams are made on (format pdf)](/resources/2011/cloud-dreams.pdf)
-* [Création de valeur et de compétitivité avec le Cloud (format pdf)](/resources/2011/CloudetSSII.pdf)
-* [Cloud Foundry intro with Groovy](/resources/2011/CloudFoundryintrowithGroovy.pdf)
+* [Cloud is such stuff as dreams are made on (format pdf)](cloud-dreams.pdf)
+* [Création de valeur et de compétitivité avec le Cloud (format pdf)](CloudetSSII.pdf)
+* [Cloud Foundry intro with Groovy](CloudFoundryintrowithGroovy.pdf)

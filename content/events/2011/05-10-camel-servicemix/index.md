@@ -4,6 +4,7 @@ date: 2011-05-10T19:00:00
 publishDate: 2011-05-10
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- camel
 title: "Soirée Camel et ServiceMix"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx
@@ -50,4 +51,4 @@ Offert par la société [Fuse Source](http://fusesource.com/)
 
 ### Télécharger la présentation
 
-* [Presentation Camel et ServiceMix (format pdf)](/resources/2011/FuseSource-ParisJug-10052011.pdf)
+* [Presentation Camel et ServiceMix (format pdf)](FuseSource-ParisJug-10052011.pdf)

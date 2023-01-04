@@ -4,6 +4,7 @@ date: 2011-03-08T19:00:00
 publishDate: 2011-03-08
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- java
 title: "Evening with Stephen Colebourne"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx
@@ -38,6 +39,6 @@ I plan on this being a discussion, not just a talk!
 
 ### Télécharger la présentation
 
-* [Java Politics (format pdf)](/resources/2011/JavaPolitics.pdf)
-* [Joda Money (format pdf)](/resources/2011/Joda-Money.pdf) et [JSR 310 (format pdf)](/resources/2011/JSR-310-JavaOne2010.pdf)
-* [Next Big Language (format pdf)](/resources/2011/NextBig.pdf) et [Scala & Fantom (format pdf)](/resources/2011/Usability.pdf)
+* [Java Politics (format pdf)](JavaPolitics.pdf)
+* [Joda Money (format pdf)](Joda-Money.pdf) et [JSR 310 (format pdf)](JSR-310-JavaOne2010.pdf)
+* [Next Big Language (format pdf)](NextBig.pdf) et [Scala & Fantom (format pdf)](Usability.pdf)

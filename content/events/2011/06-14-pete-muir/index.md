@@ -4,6 +4,7 @@ date: 2011-06-14T19:00:00
 publishDate: 2011-06-14
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- cdi
 title: "Evening with Pete Muir"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx
@@ -48,5 +49,5 @@ In this talk, you'll discover that you don't have to wait for Java EE 7 to get t
 
 ### Télécharger la présentation
 
-* [CDI (format pdf)](/resources/2011/cdi-extensions.pdf)
-* [CDI Extensions (format pdf)](/resources/2011/JavaEEProgrammingModel.pdf)
+* [CDI (format pdf)](cdi-extensions.pdf)
+* [CDI Extensions (format pdf)](JavaEEProgrammingModel.pdf)

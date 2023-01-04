@@ -111,7 +111,7 @@ Karotz/Nabaztag sont mes animaux de compagnie. Retour d'experience..._
 
 ### Télécharger les présentations
 
-* [Introduction du JUG](/resources/2011/2011-02-28-SoireeAnniversaire-00-PresentationduParisJUG)
-* [L'indépendance - Mathilde Lemée (format pdf)](/resources/2011/freelance.pdf)
-* [Office code - Catherine Gall (format pdf)](/resources/2011/office_code.pdf)
-* [Réflexion sur le métier de développeur - Didier Girard (format pdf)](/resources/2011/developpeurs.pdf)
+* [Introduction du JUG](PresentationduParisJUG.pdf)
+* [L'indépendance - Mathilde Lemée (format pdf)](freelance.pdf)
+* [Office code - Catherine Gall (format pdf)](office_code.pdf)
+* [Réflexion sur le métier de développeur - Didier Girard (format pdf)](developpeurs.pdf)

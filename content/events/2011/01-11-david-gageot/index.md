@@ -4,6 +4,7 @@ date: 2011-01-11T19:00:00
 publishDate: 2011-01-11
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- test
 title: "Soirée David Gageot"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx
@@ -64,6 +65,6 @@ Offert par [Objectif Informatique](http://www.objectif-informatique.fr/)
 
 ### Télécharger la présentation
 
-* [Première partie (format pdf)](/resources/2011/FasterTests.pdf)
-* [Deuxième partie (format pdf)](/resources/2011/AdvancedTestingPJug.pdf)
+* [Première partie (format pdf)](FasterTests.pdf)
+* [Deuxième partie (format pdf)](AdvancedTestingPJug.pdf)
 * [Le code source](https://github.com/dgageot/jug)
