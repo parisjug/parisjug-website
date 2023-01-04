@@ -37,7 +37,7 @@ Che peut être installé de la même façon qu’un IDE classique pour n’impor
 
 Durant cette session, nous présenterons le projet Eclipse Che, son architecture ainsi que la notion de workspace portable. Nous montrerons également comment utiliser Che pour développer des applications Java ainsi que la plupart des fonctionnalités de l’IDE (debugger, java refactoring). Nous terminerons par l’introduction du plugin DevOps qui permet d’intégrer Che à votre workflow de continuous delivery.
 
-Intervenants : [Stevan Le Meur]({{< ref "/speakers/stevan-le-meur.md" >}}), [Stéphane Tournié]({{< ref "/speakers/stephane-tournieflo.md" >}}) et [Florent Benoit]({{< ref "/speakers/florent-benoit.md" >}})
+Intervenants : [Stevan Le Meur]({{< ref "/speakers/stevan-le-meur.md" >}}), [Stéphane Tournié]({{< ref "/speakers/stephane-tournie.md" >}}) et [Florent Benoit]({{< ref "/speakers/florent-benoit.md" >}})
 
 
 ### 20h30 à 21h00 : Buffet
@@ -52,7 +52,7 @@ hero-home.png
 
 L’objectif de cette session est de vous présenter l’architecture modulaire de Che et les différents cas d’extension d’Eclipse Che. Jean François Maury (RedHat) vous présentera le plugin OpenShift pour Che - coder dans le Cloud pour le Cloud.
 
-Intervenants : [Stevan Le Meur]({{< ref "/speakers/stevan-le-meur.md" >}}), [Stéphane Tournié]({{< ref "/speakers/stephane-tournieflo.md" >}}) et [Florent Benoit]({{< ref "/speakers/florent-benoit.md" >}})
+Intervenants : [Stevan Le Meur]({{< ref "/speakers/stevan-le-meur.md" >}}), [Stéphane Tournié]({{< ref "/speakers/stephane-tournie.md" >}}) et [Florent Benoit]({{< ref "/speakers/florent-benoit.md" >}})
 
 
 ### 22h00 à ...

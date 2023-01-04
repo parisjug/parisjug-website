@@ -39,14 +39,14 @@ A browsers' native behaviour is to never send URL hashes in HTTP requests. We ex
 
 I will demonstrate our most recent developments: arbitrary DOM synchronization via "HyperJSON", multi-user form applications, serverless collaboration using WebRTC, collaborative lists and maps via realtime JSON, and collaborative canvas editing via FabricJS. I'll discuss the challenges presented by each of these projects, their current status, what we'd like to accomplish next, and how developers can take advantage of our work in their own applications.
 
-Par [Ludovic Dubost]({{< ref "/speakers/ludovic-dubost.md" >}}) et [Aaron MacSween]({{< ref "/speakers/aaron-macsween.md" >}})
+Par [Ludovic Dubost]({{< ref "/speakers/ludovic-dubost.md" >}}) et [Aaron MacSween]({{< ref "/speakers/aaron-mac-sween.md" >}})
 
 
 ### 19h50 - D3 - Data-Driven Document (la Dataviz facile… ou pas!)
 
 D3 est une bibliothèque graphique JavaScript qui permet l'affichage de données numériques sous une forme graphique et dynamique. Successeur de Protoviz, elle utilise des technologies telles que le SVG, le Javascript et les CSS et facilite la manipulation du DOM.
 
-Par [Tom Conte]({{< ref "/speakers/tom-conte.md" >}})
+Par [Tom Comte]({{< ref "/speakers/tom-comte.md" >}})
 
 
 ### 20h10 - Loop, améliorez votre workflow de développement d'application Web
@@ -73,7 +73,7 @@ Supprimant le code inutile, Ocelotds permet de se concentrer sur le métier de l
 
 Avec websocket, Ocelotds inclut des fonctions de push/notification similaires aux topics JMS.
 
-Par [François Achache]({{< ref "/speakers/francois-achache.md" >}})
+Par [François Apache]({{< ref "/speakers/francois-apache.md" >}})
 
 ### 21h20 - Framework de Key Value Mapping chez les furets
 Model-map, le framework de Key Value Mapping développé chez LesFurets : Il nous offre un mapping bidirectionnel du modèle métier vers des structures de données plus simples (listes, tableaux et maps) pour que les manipulations de données deviennent alors extrêmement simples à réaliser
