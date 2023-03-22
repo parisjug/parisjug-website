@@ -10,10 +10,11 @@ title: "Soirée Scala"
 #- https://www.youtube.com/watch?v=xxxx
 ---
 
-{{< figure src="20100413scala.jpg" alt="Soirée Scala" class="sponsor-gold-svg-logo" >}}
-
+{{< figure src="newsflashlogo.png" alt="Scala" class="sponsor-gold-svg-logo" >}}
 
 ## Date et lieu
+
+{{< figure src="20100413scala.jpg" alt="Soirée Scala" class="sponsor-gold-svg-logo" >}}
 
 * Mardi 11 mai 2010
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
