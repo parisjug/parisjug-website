@@ -1,10 +1,10 @@
 ---
-date: 2023-10-10T19:00:00
+date: 2023-10-18T19:00:00
 publishDate: 2023-10-10
 tags:
 - java
-#register: "https://www.eventbrite.fr/tickets-external?eid=716434313317&ref=etckt"
-title: "Cloud, serverless et tests avec Google Cloud" 
+register: "https://www.eventbrite.fr/tickets-external?eid=736502026387&ref=etckt"
+title: "Soirée Cloud, Event Driven, Serverless et Tests BigQuery sur Google Cloud Platform"
 #videos:
 #- https://www.youtube.com/watch?v=q9qT8s01elY
 #- https://www.youtube.com/watch?v=uFj0_GWvdWs
@@ -12,8 +12,8 @@ title: "Cloud, serverless et tests avec Google Cloud"
 
 ## Date et lieu
 
-* Mardi 19 Septembre 2023 à 19h00
-* Dans [???]({{< ref "/location/agorapulse.md" >}})
+* Mercredi 18 Octobre 2023 à 19h00
+* Dans [les locaux de Agorapulse]({{< ref "/location/agorapulse.md" >}})
 
 > Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
 
@@ -46,7 +46,7 @@ Par [Mazlum Tosun]({{< ref "/speakers/mazium-tosun.md" >}})
 
 ### 20h30 : Buffet
 
-[{{< figure src="/img/sponsors/2023/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}](https://www.renaultgroup.com/talents/nos-metiers/digital/)
+[{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}](https://www.agorapulse.com/)
 
 ### 21h00 : BigTesty : voyageons dans le monde des tests d'intégration BigQuery
 
