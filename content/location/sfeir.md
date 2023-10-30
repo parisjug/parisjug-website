@@ -1,6 +1,5 @@
 ---
 title: "Sfeir"
-draft: true
 ---
 
 ## Adresse
