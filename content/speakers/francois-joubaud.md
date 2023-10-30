@@ -4,19 +4,17 @@ title: "Francois Joubaud"
 linkedin: "francois-joubaud"
 ---
 
-Dev leader @ Worldline
+Actuellement Dev leader chez [Worldline](https://worldline.com/)
 
-Passion pour l’observabilité avec Java, orientée production
+Passion pour l’observabilité avec Java, orientée production, avec 25 années d'experiences dans l’industrie du paiement sur des applications critiques en travaillans pour :
 
-25 années dans l’industrie du paiement sur des applications critiques
-
-chez Reuters, Trema, Wallstreet Systems, ION Trading et Worldline
+* Reuters
+* Trema
+* Wallstreet Systems
+* ION Trading
+* Worldline
  
-Auteur de [Jeyzer](https://jeyzer.org) : solution d’analyse d’incidents pour Java
-
-Open source, 12 ans de maturité, 10ieme release.
-
-Jeyzer 3.1 supporte l’analyse des threads virtuels
+Auteur de [Jeyzer](https://jeyzer.org) : solution d’analyse d’incidents pour Java, une solution Open source, ayant 12 ans de maturité (10ieme release). Jeyzer 3.1 supporte déjà l’analyse des threads virtuels
 
 Autres activités : incidents.. pompier volontaire, jeux de coop
 
