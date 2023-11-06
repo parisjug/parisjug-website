@@ -41,7 +41,7 @@ googleAnalytics = "UA-62610761-1"
   list = "right"  # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["mailinglist", "sponsors", "social", "taglist"]
+  widgets = ["mailinglist", "youngblood","sponsors", "social", "taglist"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
