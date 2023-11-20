@@ -7,7 +7,9 @@ tags:
 - kubernetes
 register: "https://eventbrite.fr/tickets-external?eid=576387599827&ref=etckt"
 title: "Soirée Serverless: Kafka, Quarkus et opérateur Kubernetes"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=UJqBGAPU4f8
+- https://www.youtube.com/watch?v=uLOCXKtPy4g
 ---
 
 ## Date et lieu
