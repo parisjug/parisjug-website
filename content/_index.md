@@ -10,7 +10,6 @@ Nous nous rencontrons le deuxième mardi du mois.
 Les réunions sont gratuites, ouvertes à tous et consistent en une présentation technique, une démonstration d'un produit, ou une table ronde.
 Après la réunion nous nous retrouvons généralement pour un échange informel autour d'un verre et d'un petit buffet.
 
-## Young blood 2024 > > > > >
 <!-- Partner event -->
 
 <hr>
