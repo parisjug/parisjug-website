@@ -14,8 +14,8 @@ videos:
 
 ## Date et lieu
 
-* {{< div id=datetime >}}Mercredi 18 Octobre 2023 à 19h00{{</ div >}}
-* {{< div id=location >}}Dans [les locaux de Agorapulse]({{< ref "/location/agorapulse.md" >}}){{</ div >}}
+* Mercredi 18 Octobre 2023 à 19h00
+* Dans [les locaux de Agorapulse]({{< ref "/location/agorapulse.md" >}})
 
 > Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
 
@@ -25,8 +25,6 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 **Toute inscription non confirmée ne sera pas prise en compte !**
 
 ## Détails
-
-{{< div id=part1 >}}
 
 ### 19h00 : Accueil
 
@@ -48,17 +46,10 @@ A la fin du talk, nous afficherons tous les champs calculés correspondant à no
 
 Par [Mazlum Tosun]({{< ref "/speakers/mazium-tosun.md" >}})
 
-{{</ div >}}
-
-
-{{< div id=buffet >}}
 ### 20h30 : Buffet offert par Agorapulse
-{{</ div >}}
+
 [{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}](https://www.agorapulse.com/)
 
-
-
-{{< div id=part2 >}}
 ### 21h00 : BigTesty : voyageons dans le monde des tests d'intégration BigQuery
 
 BigQuery est une base de données orientée analytics et full managée sur Google Cloud Platform.
@@ -78,7 +69,7 @@ BigTesty est en mode Work In Progress, néanmoins nous pensons qu’il est inté
 Behind the scene, Dagger est utilisé dans BigTesty en mode multi stages pour gérer la logique de CI CD et d’enchaîner les étapes.
 
 Par [Mazlum Tosun]({{< ref "/speakers/mazium-tosun.md" >}})
-{{</ div >}}
+
 ### 22h00 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
