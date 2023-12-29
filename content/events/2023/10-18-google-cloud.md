@@ -7,9 +7,9 @@ tags:
 - database
 register: "https://www.eventbrite.fr/tickets-external?eid=736502026387&ref=etckt"
 title: "Soirée Cloud, Event Driven, Serverless et Tests BigQuery sur Google Cloud Platform"
-#videos:
-#- https://www.youtube.com/watch?v=q9qT8s01elY
-#- https://www.youtube.com/watch?v=uFj0_GWvdWs
+videos:
+- https://www.youtube.com/watch?v=LPPln7MkFp0
+- https://www.youtube.com/watch?v=1gdcGQVYAVQ
 ---
 
 ## Date et lieu
