@@ -1,6 +1,8 @@
 ---
 date: 2023-02-07T20:38:00
 publishDate: 2023-02-01
+tags:
+- alternative languages
 title: "Rust pour les développeurs Java et le nouveau client Elasticsearch"
 videos:
 - https://www.youtube.com/watch?v=edwAwlFzbJ4

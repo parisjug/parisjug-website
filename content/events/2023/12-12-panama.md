@@ -2,10 +2,7 @@
 date: 2023-12-12T19:00:00
 publishDate: 2023-12-04
 tags:
-- panama
-- opengl
-- native
-- jna
+- java
 register: "https://www.eventbrite.fr/tickets-external?eid=772166880927&ref=etckt"
 title: "Soirée Panama (GL)"
 #videos:

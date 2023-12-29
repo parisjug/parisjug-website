@@ -2,7 +2,9 @@
 date: 2023-10-18T19:00:00
 publishDate: 2023-10-10
 tags:
-- java
+- architecture
+- cloud
+- database
 register: "https://www.eventbrite.fr/tickets-external?eid=736502026387&ref=etckt"
 title: "Soirée Cloud, Event Driven, Serverless et Tests BigQuery sur Google Cloud Platform"
 #videos:
