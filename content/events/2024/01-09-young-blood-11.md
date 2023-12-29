@@ -2,8 +2,11 @@
 date: 2024-01-09T19:00:00
 publishDate: 2024-01-04
 tags:
+- architecture
+- java
+- test
+- tools
 - young blood
-- parisJug academie
 #register: "https://eventbrite.fr/tickets-external?eid=504259292117&ref=etckt"
 title: "Soirée Young Blood 2024"
 # videos:
@@ -13,7 +16,8 @@ title: "Soirée Young Blood 2024"
 # - https://www.youtube.com/watch?v=UV9AHzLjJF8
 # - https://www.youtube.com/watch?v=jcPJWhM2Pxw
 ---
-## Participer au Young blood 2024
+
+<!-- ## Participer au Young blood 2024
 
 {{<figure src="/img/youngblood.png" alt="Young Blood 2024" class="sponsor-svg-logo" width="200px" link="https://forms.gle/XMd15eRSpirwxW817" target="_blank">}}
 
@@ -38,7 +42,7 @@ Les 4 ou 6 talks seront présentés lors de la session de janvier du JUG. À l'i
 - le ou la gagnante sera alors invité à présenter son talk lors de la conférence Devoxx France (du 17-19 avril 2023).
 - 4 ou 6 talks car nous ne savons pas si la soirée de janvier sera en présentielle ou en distancielle
 
-Les sessions des années précédentes sont consultables : https://www.youtube.com/channel/UCPNEu33xtYpKjQKcn9E5m0Q
+Les sessions des années précédentes sont consultables : https://www.youtube.com/channel/UCPNEu33xtYpKjQKcn9E5m0Q -->
 
 ## Date et lieu
 
@@ -48,7 +52,7 @@ Les sessions des années précédentes sont consultables : https://www.youtube.c
 
 > Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
 
-Comme chaque année depuis 10 ans, notre session du mois de janvier sera notre session Young Blood !
+Comme chaque année depuis 11 ans, notre session du mois de janvier sera notre session Young Blood !
 Le principe du Young Blood est que les présentations sont faites par des personnes qui n'ont jamais présenté auparavant, du moins en public.
 Notre but est de donner une première opportunité aux personnes qui souhaitent se lancer et de les aider dans leurs premiers pas.
 Parler en public peut paraître intimidant.
@@ -65,13 +69,10 @@ Notre soirée Young Blood se déroule toujours dans une très bonne ambiance, no
 ### 19h30 à 19h50 : Osez le no-Gradle: Partagez vos Java CLI Apps en mode KISS
 
 Oserez-vous le no-Gradle ?
-
 Dans une application Java, les outils de build Maven ou Gradle sont devenus incontournables.
-
 Pourtant, pour une application en ligne de commande nécessitant peu de développements, en a-t-on réellement besoin ?
 
 On verra avec une approche voisine du scripting qu'un packaging minimaliste est suffisant et vous permet de livrer plus rapidement de la valeur.
-
 Alors, vous passerez-vous réellement de Gradle ?
 
 Vous le découvrirez dans ce talk avec des applications, développées en mode « KISS », qui pourront être ensuite partagées dans les équipes aussi simplement qu'un script Python !
@@ -100,7 +101,7 @@ Dans cette conférence, nous ferons un peu d’archéologie sur l’éco-systèm
 
 Pour les moins connus nous les présenterons brièvement et essaierons de comprendre pour quelles raisons ces outils sont toujours utilisés aujourd’hui ou pourquoi ils sont en voie d’extinction. 
 
-Vous ne repartirez pas de ce talk avec le dernier framework à la mode mais avec une meilleure compréhension de ce qui fait un outil suffisamment intéressant pour qu’il survive 15 ans et plus
+Vous ne repartirez pas de ce talk avec le dernier framework à la mode mais avec une meilleure compréhension de ce qui fait un outil suffisamment intéressant pour qu’il survive 15 ans et plus.
 
 Par [Laurent Mercier]({{< ref "/speakers/laurent-mercier.md" >}})
 
