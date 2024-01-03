@@ -108,13 +108,7 @@ Par [Laurent Mercier]({{< ref "/speakers/laurent-mercier.md" >}})
 
 ### 20h50 à 21h10 : Functional Testing: cucumber
 
-Java a dépassé le quart siècle… 25 ans, à l’échelle de l’IT c’est la préhistoire. Et pourtant, aujourd’hui des frameworks, outils et pratiques ayant vu le jour il y a plus de 15 ans sont encore maintenus et utilisés activement par la communauté. 
-
-Dans cette conférence, nous ferons un peu d’archéologie sur l’éco-système Java et découvrir les frameworkosaures survivants de toutes les hypes que Java a traversé depuis 25 ans. 
-
-Pour les moins connus nous les présenterons brièvement et essaierons de comprendre pour quelles raisons ces outils sont toujours utilisés aujourd’hui ou pourquoi ils sont en voie d’extinction. 
-
-Vous ne repartirez pas de ce talk avec le dernier framework à la mode mais avec une meilleure compréhension de ce qui fait un outil suffisamment intéressant pour qu’il survive 15 ans et plus
+L'importance du testing, description / explication + implementation avec une demo complete du cucumber JS / ou java et qu'est ce qu'on peut faire avec, et l'importance de ce type de testing
 
 Par [Zoubair Saidi]({{< ref "/speakers/zoubair-saidi.md" >}})
 
