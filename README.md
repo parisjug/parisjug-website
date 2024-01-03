@@ -22,8 +22,8 @@ or
 docker run --rm -it \
   -v $(pwd):/src \
   -p 1313:1313 \
-  klakegg/hugo:0.101.0 \
-  server -D
+  hugomods/hugo \
+  server --bind 0.0.0.0
 ```  
 
 ## Creating Content
