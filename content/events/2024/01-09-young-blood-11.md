@@ -67,16 +67,17 @@ Notre soirée Young Blood se déroule toujours dans une très bonne ambiance, no
 
 ### 18h45 à 19h30: Accueil
 
-### 19h30 à 19h50 : Osez le no-Gradle: Partagez vos Java CLI Apps en mode KISS
+### 19h30 à 19h50 : Partagez simplement vos Java CLI Apps
 
-Oserez-vous le no-Gradle ?
 Dans une application Java, les outils de build Maven ou Gradle sont devenus incontournables.
-Pourtant, pour une application en ligne de commande nécessitant peu de développements, en a-t-on réellement besoin ?
+
+Pourtant, pour une application en ligne de commande nécessitant peu de développements, en a-t-on forcément besoin ?
 
 On verra avec une approche voisine du scripting qu'un packaging minimaliste est suffisant et vous permet de livrer plus rapidement de la valeur.
+
 Alors, vous passerez-vous réellement de Gradle ?
 
-Vous le découvrirez dans ce talk avec des applications, développées en mode « KISS », qui pourront être ensuite partagées dans les équipes aussi simplement qu'un script Python !
+Vous le découvrirez dans ce talk avec des CLI Apps qui pourront être partagées dans les équipes aussi simplement qu'un script Python !
 
 Par [Pierre-Yves Fourmond]({{< ref "/speakers/pierre-yves-fourmond.md" >}})
 
