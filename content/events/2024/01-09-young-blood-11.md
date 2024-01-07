@@ -128,4 +128,6 @@ Par [Clarence Dimtri Charles]({{< ref "/speakers/clarence-dimtri-charles.md" >}}
 
 ## Feedback
 
+{{< sponsor-section >}}
+
 {{% coc-section %}}
