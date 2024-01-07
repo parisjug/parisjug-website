@@ -131,6 +131,12 @@ The `coc-section` shortcode renders a page section with our code of conduct:
 
 `{{% coc-section %}}`
 
+#### Section: Register
+
+The `section-register` shortcode generates a registration frame for an event:
+
+`{{< section-register >}}`
+
 #### Section: Replay
 
 The `replay-section` shortcode renders a page section with YouTube thumbnails and links of an event videos:

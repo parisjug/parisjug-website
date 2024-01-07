@@ -121,6 +121,8 @@ Par [Clarence Dimtri Charles]({{< ref "/speakers/clarence-dimtri-charles.md" >}}
 ### 21h40: Vote et remise des diplômes
 
 ### 22h00 : 3ème mi-temps des juggers
+
+{{< register-section >}}
  
 {{< replay-section >}}
 
