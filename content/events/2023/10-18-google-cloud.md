@@ -76,6 +76,9 @@ Par [Mazlum Tosun]({{< ref "/speakers/mazium-tosun.md" >}})
 
 ## Feedback
 
+{{< tweet user="parisjug" id="1714697035893354638">}}
+{{< tweet user="parisjug" id="1714720453200150767">}}
+
 {{< sponsor-section >}}
 
 {{% coc-section %}}

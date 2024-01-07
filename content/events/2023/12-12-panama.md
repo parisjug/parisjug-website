@@ -40,6 +40,9 @@ Par [Brice Dutheil]({{< ref "/speakers/brice-dutheil.md" >}}) et [Martin Pernoll
 
 {{< replay-section >}}
 
+## Feedback
+
+{{< tweet user="kanedafromparis" id="1734646121316684191">}}
 
 {{< sponsor-section >}}
 
