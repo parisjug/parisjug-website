@@ -8,7 +8,6 @@ tags:
 - test
 - tools
 - young blood
-#register: "https://eventbrite.fr/tickets-external?eid=504259292117&ref=etckt"
 title: "Soirée ParisJug Academy 2024"
 # videos:
 # - https://www.youtube.com/watch?v=rXOwlOgojwQ
@@ -51,7 +50,7 @@ Les sessions des années précédentes sont consultables : https://www.youtube.c
 
 * Dans [les locaux de Microsoft]({{< ref "/location/microsoft.md" >}})
 
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
+> Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
 
 Comme chaque année depuis 11 ans, notre session du mois de janvier sera notre session Young Blood !
 Le principe du Young Blood est que les présentations sont faites par des personnes qui n'ont jamais présenté auparavant, du moins en public.
