@@ -3,7 +3,4 @@ title: "Clarence Dimtri Charles"
 #twitter: "twitter-handle"
 ---
 
-Technical Officer chez Carbon IT, je suis en charge de la montée en compétences des développeurs sur des sujets qui me tiennent à coeur tels que Spring, OAuth 2.1, OpenID Connect et le Cloud.  
-J'interviens également auprès de clients pour les convaincre des bienfaits des pratiques Clean Code et Secure Coding.
-
-Le reste de mon temps est partagé entre les challenges techniques et les conférences/articles sur mes sujets de prédilection.
+Développeur sénior chez Rakuten, et également intéressé par l'artisanat logiciel. Je développe principalement en Java mais j'explore également de nouveaux langages tels que Rust. Je pratique également Docker, Kubernetes, et bien d'autres. 

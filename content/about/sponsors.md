@@ -7,7 +7,7 @@ toc: true
 
 ### Agorapulse
 
-{{< figure src="/img/sponsors/2023/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2024/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}
 
 Depuis 2011, Agorapulse propose une solution de Social Media Management, pour aider les marques, entreprises et agences à gérer efficacement leur présence sur les réseaux sociaux.
 
@@ -15,19 +15,10 @@ Afin de supporter sa croissance (plus de 8 000 clients), la plate-forme techniqu
 
 [Site Web](https://www.agorapulse.com) - [Blog technique]( https://medium.com/agorapulse-stories/tech/home)
 
-### Microsoft
-
-{{< figure src="/img/sponsors/2023/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}
-
-Microsoft s’engage en faveur d’un numérique de confiance, inclusif et durable.
-Sa mission est de donner à chaque individu et chaque organisation les moyens de réaliser ses ambitions, à l’ère du cloud intelligent et de l’intelligent edge.
-Avec plus de 1 800 collaborateurs et 10 500 partenaires économiques, technologiques, acteurs du secteur public, chercheurs ou start-ups, Microsoft France contribue au développement de l’économie et des compétences numériques sur l’ensemble du territoire français.
-
-[Site Web](https://www.microsoft.com/fr-fr)
 
 ### Mirakl
 
-{{< figure src="/img/sponsors/2023/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2024/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
 
 Nous développons une solution logicielle de marketplace en SaaS qui façonne l’e-commerce de demain.
 Déjà utilisée par des clients comme Carrefour, Darty, Galeries Lafayette ou Macy's, notre solution est développée par une équipe technique expérimentée pour supporter de fortes charges et volumétries de données en s’appuyant principalement sur les technologies Java, Go, PostgreSQL, Kafka, Elasticsearch…
@@ -36,7 +27,7 @@ Envie d'en savoir plus? Rendez-vous sur, visitez [www.mirakl.com](http://www.mir
 
 ### Oxiane
 
-{{< figure src="/img/sponsors/2023/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2024/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
 
 Oxiane est depuis près de 20 ans une société de services en informatique qui s’attache à constituer une équipe de talents, autocritique et solidaire, animée par des gens qui cherchent à comprendre et à partager ce qu’ils font.  
 Notre activité porte sur l’ingénierie, le conseil et la formation autour des nouvelles technologies informatiques.  
@@ -50,7 +41,7 @@ Composée de plus de 50 consultants experts passionnés par le développement, n
 
 ### Renault Digital
 
-{{< figure src="/img/sponsors/2023/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2024/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
 
 Le développement du digital fait avancer notre métier de constructeur : les véhicules sont de plus en plus connectés et les outils de conception numérique, la robotique, l’analyse des données d’usage de nos véhicules ou des comportements des clients sont autant de moyens pour développer l’entreprise.
 Les outils de travail bénéficient de l’évolution des technologies; ils sont plus connectés, plus collaboratifs.
@@ -61,7 +52,7 @@ Elle doit devenir une communauté d’experts en terme de pratiques digitales, c
 
 ### Sciam
 
-{{< figure src="/img/sponsors/2023/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2024/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
 
 SCIAM est une société de conseil en innovation et transformation des organisations fondée sur le dialogue entre technologies et sciences humaines.
 
@@ -75,19 +66,10 @@ Nous observons que les entreprises qui dominent leurs marchés se reposent sur u
 
 Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SCIAM_FR) - [LinkedIn](https://www.linkedin.com/company/sciamfr/)
 
-### SOFTEAM
-
-{{< figure src="/img/sponsors/2023/softeam.svg" alt="SOFTEAM" class="sponsor-svg-logo" >}}
-
-SOFTEAM Group fédère une communauté de développeurs, d’architectes, de Tech Leader… passionnés par les nouvelles technologies.  
-Le développement des compétences de nos collaborateurs se fait tout au long de la carrière par notre politique dynamique de formations, de certifications (OCJP, Scrum Master, PMP…) et lors de nos soirées de veille technologique.
-Chaque Softeamien(ne) est également suivi(e) par un ancien consultant de SOFTEAM Group, aujourd’hui manager, pour un accompagnement de carrière personnalisé. Partage des connaissances, innovation, enthousiasme définissent notre communauté !
-
-Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SofteamGroup) - [Facebook](https://www.facebook.com/SofteamGroup) - [LinkedIn](https://www.linkedin.com/company/softeam-group/).
 
 ### Worldline
 
-{{< figure src="/img/sponsors/2023/worldline.svg" alt="Sciam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2024/worldline.svg" alt="Sciam" class="sponsor-svg-logo" >}}
 
 Worldline est un leader mondial des paiements et le partenaire technologique de choix des commerçants, des banques et des acquéreurs.
 Avec 18 000 collaborateurs dans 40 pays, Worldline fournit à ses clients des solutions durables, fiables et innovantes qui contribuent à leur croissance. 
@@ -108,3 +90,5 @@ Le Paris JUG a différents types de sponsors (et nous sommes toujours intéress�
 * **Avant vente** : le sponsor fait une courte présentation de 15 minutes lors d'une des réunions du Paris JUG.
 
 Si vous êtes intéressés et que vous voulez sponsoriser d'une manière ou d'une autre le Paris JUG, contactez-nous afin de recevoir notre plaquette.
+
+[Télécharger au format PDF](../marketing-materials/ParisJUG_Plaquette_Sponsors_2023.pdf)

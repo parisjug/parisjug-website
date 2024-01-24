@@ -16,7 +16,13 @@ git submodule update --init
 hugo server -D
 ```
 
-or
+or for full rebuilds on change
+
+```shell
+hugo server --disableFastRender
+```
+
+or with docker
 
 ```shell
 docker run --rm -it \
