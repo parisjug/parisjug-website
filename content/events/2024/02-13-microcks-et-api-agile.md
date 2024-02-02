@@ -1,7 +1,7 @@
 ---
 date: 2024-02-13T19:00:00
 publishDate: 2024-01-30
-# register: "https://eventbrite.fr/tickets-external?eid=789156467237&ref=etckt"
+register: "https://eventbrite.fr/tickets-external?eid=818085554917&ref=etckt"
 tags:
 - cloud
 - test
