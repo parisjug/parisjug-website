@@ -3,12 +3,7 @@ date: 2024-02-13T19:00:00
 publishDate: 2024-01-30
 # register: "https://eventbrite.fr/tickets-external?eid=789156467237&ref=etckt"
 tags:
-- Microcks
-- java
-- microservices
-- API
-- Testcontainers
-- DevOps
+- cloud
 - test
 title: "Soirée APIs : Microcks et API Agile"
 # videos:
