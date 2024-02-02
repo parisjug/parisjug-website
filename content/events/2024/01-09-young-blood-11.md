@@ -9,12 +9,13 @@ tags:
 - tools
 - young blood
 title: "Soirée ParisJug Academy 2024"
-# videos:
-# - https://www.youtube.com/watch?v=rXOwlOgojwQ
-# - https://www.youtube.com/watch?v=xAVeCWSdH7k
-# - https://www.youtube.com/watch?v=GKzjHdY2D9c
-# - https://www.youtube.com/watch?v=UV9AHzLjJF8
-# - https://www.youtube.com/watch?v=jcPJWhM2Pxw
+videos:
+- https://www.youtube.com/watch?v=Disp1KJDKzA
+- https://www.youtube.com/watch?v=koEZPJURm9k
+- https://www.youtube.com/watch?v=1uGFjRA7qPM
+- https://www.youtube.com/watch?v=xus3lBIrU7o
+- https://www.youtube.com/watch?v=BeefHR1nnUw
+- https://www.youtube.com/watch?v=Wigkrzrw8xk
 ---
 
 <!-- ## Participer au Young blood 2024

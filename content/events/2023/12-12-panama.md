@@ -5,8 +5,9 @@ tags:
 - java
 register: "https://www.eventbrite.fr/tickets-external?eid=772166880927&ref=etckt"
 title: "Soirée Panama (GL)"
-#videos:
-#- 
+videos:
+- https://www.youtube.com/watch?v=sptXasb7EM8
+- https://www.youtube.com/watch?v=_C2lOvncWjs
 ---
 
 ## Date et lieu
