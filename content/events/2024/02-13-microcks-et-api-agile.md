@@ -6,12 +6,9 @@ tags:
 - cloud
 - test
 title: "Soirée APIs : Microcks et API Agile"
-# videos:
-# - https://www.youtube.com/watch?v=rXOwlOgojwQ
-# - https://www.youtube.com/watch?v=xAVeCWSdH7k
-# - https://www.youtube.com/watch?v=GKzjHdY2D9c
-# - https://www.youtube.com/watch?v=UV9AHzLjJF8
-# - https://www.youtube.com/watch?v=jcPJWhM2Pxw
+videos:
+- https://www.youtube.com/watch?v=UkiYb6ZKD4k
+- https://www.youtube.com/watch?v=MrPhe--agKw
 ---
 
 ## Date et lieu
