@@ -3,12 +3,9 @@ date: 2024-05-14T19:00:00
 publishDate: 2024-05-01
 register: "https://eventbrite.fr/tickets-external?eid=896349765277&ref=etckt"
 tags:
-- llm
-- springIA
 - spring
-- lang4j
-- IA
-title: "Soirée IA & LLM : lang4J & Spring AI"
+- ai
+title: "Soirée IA & LLM : lang4chainJ & Spring AI"
 # videos:
 #- https://www.youtube.com/watch?v=EM80_EW8nSQ
 #- https://www.youtube.com/watch?v=dbEoOF6czLk 
@@ -33,9 +30,12 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 ### 19h30 : Utiliser la puissance du LLM dans une application Java avec Spring AI
 
 
-Dans le paysage technologique en évolution rapide d'aujourd'hui, l'intégration de l'intelligence artificielle et des modèles de langage (LLM) dans les applications devient une nécessité pour rester compétitif. Cette présentation explore les nouvelles possibilités qu’apporte la combinaison de la puissance des LLM avec la robustesse et la flexibilité de Spring Boot, en se concentrant sur le nouveau module Spring AI. Ce dernier est conçu pour faciliter l'utilisation des capacités d'IA, y compris les LLM, dans vos applications Spring Boot et fournit un Framework ETL servant de backbone dans le cas de conception d’un RAG (Retrieval Augmented Generation).
+Dans le paysage technologique en évolution rapide d'aujourd'hui, l'intégration de l'intelligence artificielle et des modèles de langage (LLM) dans les applications devient une nécessité pour rester compétitif.
+Cette présentation explore les nouvelles possibilités qu’apporte la combinaison de la puissance des LLM avec la robustesse et la flexibilité de Spring Boot, en se concentrant sur le nouveau module Spring AI.
+Ce dernier est conçu pour faciliter l'utilisation des capacités d'IA, y compris les LLM, dans vos applications Spring Boot et fournit un Framework ETL servant de backbone dans le cas de conception d’un RAG (Retrieval Augmented Generation).
 
-Nous débuterons par une brève introduction à la notion des LLM, en soulignant leur rôle croissant dans l'interprétation du langage naturel, la génération de texte, et la prise de décision basée sur des données complexes. L'accent sera mis sur l’approche du RAG, comment augmenter la connaissance des LLM avec nos données privées pour dégager des insights pertinents.
+Nous débuterons par une brève introduction à la notion des LLM, en soulignant leur rôle croissant dans l'interprétation du langage naturel, la génération de texte, et la prise de décision basée sur des données complexes.
+L'accent sera mis sur l’approche du RAG, comment augmenter la connaissance des LLM avec nos données privées pour dégager des insights pertinents.
 
 Au cœur de cette présentation, nous discuterons de l'intégration de Spring AI, nous explorerons des démonstrations illustrant comment intégrer des LLM dans une application Spring Boot.
 
@@ -50,7 +50,7 @@ Par [Ricken Bazolo]({{< ref "/speakers/ricken-bazolo.md" >}})
 ### 21h00 : quarkus-langchain4j in action
 
 GenAI est un sujet brûlant et n'est plus réservé à Python/JavaScript.
-langchain4j permet de développer des applications Java à l'aide de LLM.
+Langchain4j permet de développer des applications Java à l'aide de LLM.
 
 Voyons avec un exemple concret, comment nous pouvons le faire avec Quarkus.
 
