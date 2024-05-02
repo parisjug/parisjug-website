@@ -3,9 +3,9 @@ date: 2024-05-14T19:00:00
 publishDate: 2024-05-01
 register: "https://eventbrite.fr/tickets-external?eid=896349765277&ref=etckt"
 tags:
-- spring
 - ai
-title: "Soirée IA & LLM : lang4chainJ & Spring AI"
+- spring
+title: "Soirée IA & LLM : Spring AI et Quarkus Lanchain4J"
 # videos:
 #- https://www.youtube.com/watch?v=EM80_EW8nSQ
 #- https://www.youtube.com/watch?v=dbEoOF6czLk 
