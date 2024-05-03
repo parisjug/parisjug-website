@@ -13,7 +13,7 @@ title: "Soirée IA & LLM : Spring AI et Quarkus Lanchain4J"
 
 ## Date et lieu
 
-* Mardi 12 Mars 2024 à 19h00
+* Mardi 14 Mai 2024 à 19h00
 * Dans [les locaux de Worldline]({{< ref "/location/worldline.md" >}})
 
 > Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
