@@ -43,9 +43,9 @@ Pour finir, nous ouvrirons un débat sur l'avenir de l'intégration IA dans le d
 
 Par [Ricken Bazolo]({{< ref "/speakers/ricken-bazolo.md" >}})
 
-### 20h30 : Buffet offert par [WorldLine]({{< ref "/location/worldline.md" >}})
+### 20h30 : Buffet offert par [Worldline]({{< ref "/location/worldline.md" >}})
 
-[{{< figure src="/img/sponsors/2024/worldline.svg" alt="WorldLine" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/worldline.md" >}})
+[{{< figure src="/img/sponsors/2024/worldline.svg" alt="Worldline" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/worldline.md" >}})
 
 ### 21h00 : quarkus-langchain4j in action
 
