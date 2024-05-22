@@ -4,7 +4,6 @@ publishDate: 2024-06-01
 register: "https://eventbrite.fr/tickets-external?eid=911292238617&ref=etckt"
 tags:
 - kafka
-- pattern
 - spring
 title: "Soirée Kafaka Stream & Demystification de Spring"
 # videos:
@@ -32,10 +31,10 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 Encore une conférence autour de Kafka ? Pas vraiment ici on parle de Kafka Streams !
 
-Dans mon travail, je croise énormément de développeurs qui connaissent Kafka et ont déjà utilisé des Producers et/ou Consumers Kafka, cependant dans la boite à outils Kafka il existe un outil moins exploité appelé Kafka Streams … Cet outil est parfois jugé trop compliqué, ou n’apportant pas de plus value par rapport a ces éléments “plus simples”. 
+Dans mon travail, je croise énormément de développeurs·euses qui connaissent Kafka et ont déjà utilisé des Producers et/ou Consumers Kafka, cependant dans la boite à outils Kafka il existe un outil moins exploité appelé Kafka Streams…
+Cet outil est parfois jugé trop compliqué, ou n’apportant pas de plus-value par rapport à ces éléments “plus simples”. 
 
-Dans ce talk, je vais tenter d'expliquer le fonctionnement général de Kafka Streams et surtout, les avantages qu'on peut en tirer, quelle utilisation on peut en faire dans la vraie vie.
-
+Dans ce talk, je tenterai d'expliquer le fonctionnement général de Kafka Streams et surtout, les avantages qu'on peut en tirer, quelles utilisations on peut en faire dans la vraie vie.
 
 Par [Paul Le Guillou]({{< ref "/speakers/paul-le-guillou.md" >}})
 
@@ -45,17 +44,22 @@ Par [Paul Le Guillou]({{< ref "/speakers/paul-le-guillou.md" >}})
 
 ### 21h00 : Demystification de Spring : Une Histoire de Pattern
 
-Spring est un Framework très populaire dans l'écosystème Java. Il est donc tout naturelle de poser cette question : Pouvez vous me donner une définition de Spring ? On obtient souvent cette réponse : Un Framework magique qui simplifie le développement. Rien n'est magique et la simplification ne vient pas sans un coût.
+Spring est un Framework très populaire dans l'écosystème Java.
+Il est donc tout naturelle de poser cette question : Pouvez vous me donner une définition de Spring ?
+On obtient souvent cette réponse : Un Framework magique qui simplifie le développement.
+Rien n'est magique et la simplification ne vient pas sans un coût.
 
-Une réponse simple pourrait être : Un conteneur IoC. Derrière cette réponse se cache un concept non trivial mais qui est la fondation du Framework : L'inversion de contrôle. Spring a implémenté l'inversion de contrôle avec l'injection de dépendance.
+Une réponse simple pourrait être : Un conteneur IoC.
+Derrière cette réponse se cache un concept non trivial mais qui est la fondation du Framework : L'inversion de contrôle.
+Spring a implémenté l'inversion de contrôle avec l'injection de dépendance.
 
-Cette présentation explique comment le moteur de Spring fonctionne à travers une série de Design Pattern et son application dans les modules populaire de la galaxie Spring.
+Cette présentation explique comment le moteur de Spring fonctionne à travers une série de Design Patterns et son application dans les modules populaires de la galaxie Spring.
 
 La connaissance de ce moteur permet :
 
--   De donner plus aisément une définition juste de Spring
--   Une meilleure utilisation du Framework
--   Un choix plus éclairé du Framework ou de l'un de ses modules
+-   De donner plus aisément une définition juste de Spring,
+-   Une meilleure utilisation du Framework,
+-   Un choix plus éclairé du Framework ou de l'un de ses modules.
 
 Par [Hervé Letourneur]({{< ref "/speakers/herve-letourneur.md" >}})
 
