@@ -68,7 +68,7 @@ Supprimant le code inutile, Ocelotds permet de se concentrer sur le métier de l
 
 Avec websocket, Ocelotds inclut des fonctions de push/notification similaires aux topics JMS.
 
-Par [François Apache]({{< ref "/speakers/francois-apache.md" >}})
+Par [François Achache]({{< ref "/speakers/francois-achache.md" >}})
 
 ### 21h20 - Framework de Key Value Mapping chez les furets
 Model-map, le framework de Key Value Mapping développé chez LesFurets : Il nous offre un mapping bidirectionnel du modèle métier vers des structures de données plus simples (listes, tableaux et maps) pour que les manipulations de données deviennent alors extrêmement simples à réaliser
