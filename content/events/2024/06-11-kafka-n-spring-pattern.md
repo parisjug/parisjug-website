@@ -5,7 +5,7 @@ register: "https://eventbrite.fr/tickets-external?eid=911292238617&ref=etckt"
 tags:
 - kafka
 - spring
-title: "Soirée Kafaka Stream & Demystification de Spring"
+title: "Soirée Kafka Stream & Demystification de Spring"
 # videos:
 #- https://www.youtube.com/watch?v=EM80_EW8nSQ
 #- https://www.youtube.com/watch?v=dbEoOF6czLk 
