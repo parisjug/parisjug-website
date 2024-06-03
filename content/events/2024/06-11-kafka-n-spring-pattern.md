@@ -1,6 +1,6 @@
 ---
 date: 2024-06-11T19:00:00
-publishDate: 2024-06-01
+publishDate: 2024-06-02
 register: "https://eventbrite.fr/tickets-external?eid=911292238617&ref=etckt"
 tags:
 - kafka
