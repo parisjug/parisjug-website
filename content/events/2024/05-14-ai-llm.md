@@ -6,9 +6,9 @@ tags:
 - ai
 - spring
 title: "Soirée IA & LLM : Spring AI et Quarkus Lanchain4J"
-# videos:
-#- https://www.youtube.com/watch?v=EM80_EW8nSQ
-#- https://www.youtube.com/watch?v=dbEoOF6czLk 
+videos:
+- https://www.youtube.com/watch?v=eK6mQBFj42Q
+- https://www.youtube.com/watch?v=48xQdS7o3JU
 ---
 
 ## Date et lieu
