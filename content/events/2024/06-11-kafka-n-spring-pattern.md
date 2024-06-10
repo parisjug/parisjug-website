@@ -3,9 +3,11 @@ date: 2024-06-11T19:00:00
 publishDate: 2024-06-02
 register: "https://eventbrite.fr/tickets-external?eid=911292238617&ref=etckt"
 tags:
+- architecture
 - kafka
+- reactive programming
 - spring
-title: "Soirée Kafka Stream & Demystification de Spring"
+title: "Soirée Kafka Stream & Démystification de Spring"
 # videos:
 #- https://www.youtube.com/watch?v=EM80_EW8nSQ
 #- https://www.youtube.com/watch?v=dbEoOF6czLk 
@@ -42,7 +44,7 @@ Par [Paul Le Guillou]({{< ref "/speakers/paul-le-guillou.md" >}})
 
 [{{< figure src="/img/sponsors/2024/octo.svg" alt="octo" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/octo.md" >}})
 
-### 21h00 : Demystification de Spring : Une Histoire de Pattern
+### 21h00 : Démystification de Spring : Une Histoire de Pattern
 
 Spring est un Framework très populaire dans l'écosystème Java.
 Il est donc tout naturelle de poser cette question : Pouvez vous me donner une définition de Spring ?
