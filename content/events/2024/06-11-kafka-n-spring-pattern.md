@@ -8,7 +8,7 @@ tags:
 - reactive programming
 - spring
 title: "Soirée Kafka Stream & Démystification de Spring"
- videos:
+videos:
 - https://www.youtube.com/watch?v=leLaPhSppps
 - https://www.youtube.com/watch?v=GaG5dpA6Pbk
 ---
