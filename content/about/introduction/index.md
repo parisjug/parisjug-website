@@ -77,7 +77,7 @@ Ils s’occupent également des entrées, des vidéos et du site :
     </tr>
     <tr>
         <td><img src="loic.png" alt="Loïc" class="avatar"></td>
-        <td><img src="unknown.png" alt="Mathieu" class="avatar"></td>
+        <td><img src="mathieu.png" alt="Mathieu" class="avatar"></td>
         <td><img src="sun.png" alt="Sun" class="avatar"></td>
     </tr>
     <tr>
