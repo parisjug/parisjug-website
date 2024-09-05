@@ -1,26 +1,337 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on Paris Java User Group</title><link>https://www.parisjug.org/tags/cloud/</link><description>Recent content in Cloud on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 13 Feb 2024 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée APIs : Microcks et API Agile</title><link>https://www.parisjug.org/events/2024/02-13-microcks-et-api-agile/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/02-13-microcks-et-api-agile/</guid><description>Date et lieu Mardi 13 février 2024 à 19h00 Dans les locaux de Renault Digital Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
-Les inscrits à l&amp;rsquo;évènement non présents 5 minutes avant le début de la session, soit à 19h25, verront leurs places remises à disposition.</description></item><item><title>Soirée Cloud, Event Driven, Serverless et Tests BigQuery sur Google Cloud Platform</title><link>https://www.parisjug.org/events/2023/10-18-google-cloud/</link><pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/10-18-google-cloud/</guid><description>Date et lieu Mercredi 18 Octobre 2023 à 19h00 Dans les locaux de Agorapulse Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
-Les inscrits à l&amp;rsquo;évènement non présents 5 minutes avant le début de la session, soit à 19h25, verront leurs places remises à disposition.</description></item><item><title>Soirée Serverless: Kafka, Quarkus et opérateur Kubernetes</title><link>https://www.parisjug.org/events/2023/05-09-serverless/</link><pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/05-09-serverless/</guid><description>Date et lieu Mardi 9 Mai 2023 à 19h00 Dans les locaux de Mirakl Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
-Détails 19h00 : Accueil 19h30 : La quête de Bob, l&amp;rsquo;appli en fin de cycle Bob est une vieille application, conçue en 2010, elle est encore la vache à lait et c’est bien l’unique raison pour laquelle Bob n’a pas été décommissionné.</description></item><item><title>Soirée Micronaut</title><link>https://www.parisjug.org/events/2022/05-10-micronaut/</link><pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2022/05-10-micronaut/</guid><description>Date et lieu Mardi 10 Mai 2022 à 19h30 Dans les locaux d&amp;rsquo;Agorapluse Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
-Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition.</description></item><item><title>Soirée Virtuelle : Déployer un microservice Vert-x sur Kubernetes avec Knative et GitLab CI</title><link>https://www.parisjug.org/events/2022/03-08-microservice-vertx-knative/</link><pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2022/03-08-microservice-vertx-knative/</guid><description>Date et lieu Mardi 8 Mars 2022 à 19h00 Dans les locaux de notre chaîne Twitch Détails 18h45 : Accueil 19h00 à 20h30 : Déployer un microservice Vert-x sur Kubernetes avec Knative et GitLab CI Je suis un développeur depuis toujours et franchement Kubernetes, je trouve ça compliqué (même si j’ai fait des progrès) mais j’ai découvert Knative serving et ce fut une révélation. Knative masque complètement les choses ennuyeuses de Kubernetes.</description></item><item><title>Soirée virtuelle : Intégration à l'ère du cloud avec Camel Quarkus</title><link>https://www.parisjug.org/events/2022/02-08-cloud-camel-quarkus/</link><pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2022/02-08-cloud-camel-quarkus/</guid><description>Date et lieu Mardi 08 février 2022 à 19h00 Dans les locaux de notre chaîne Twitch Détails 18h45 : Accueil 19h00 : Intégration à l&amp;rsquo;ère du cloud avec Camel Quarkus Dans un univers informatique dont l&amp;rsquo;expansion ne cesse d&amp;rsquo;accélérer, le besoin de faire communiquer des systèmes disparates se renforce jour après jour. Développé en Java, le projet Open Source Apache Camel fournit avec ses 350 connecteurs une réponse prouvée à ce besoin toujours croissant d&amp;rsquo;intégration entre systèmes.</description></item><item><title>Soirée Virtuelle : JKube - Packager Java pour Kubernetes</title><link>https://www.parisjug.org/events/2020/11-10-jkube/</link><pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/11-10-jkube/</guid><description>Date et lieu Mardi 10 Novembre 2020 - 19h00 Dans les locaux de notre chaîne Twitch Google Calendar Détails 18h45 à 19h00 : Accueil 19h00 à 20h00 : JKube - Packager Java pour Kubernetes En octobre 2018, nous vous avions présenté comment migrer une application java vers docker et Kubernetes à l&amp;rsquo;aide du plugin Maven dmp fabric8.
-Depuis, cet outil a été repris par la fondation Eclipse dans le projet JKube.</description></item><item><title>Soirée Virtuelle : Microsoft Azure, JHipster et Github Codespaces</title><link>https://www.parisjug.org/events/2020/05-12-azure-jhipster/</link><pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/05-12-azure-jhipster/</guid><description>Date et lieu Mardi 12 Mai 2020 - 19h00 Dans les locaux virtuels de Microsoft Teams Détails 18h45 à 19h00 : Accueil 19h00 à 20h00 : Développer en Java dans le cloud En cette période de pandémie, nous allons voir comment mieux développer en Java &amp;ldquo;dans le cloud&amp;rdquo;. Pas que pour le déploiement en production, mais également pour développer au jour le jour.
-Nous parlerons évidemment de JHipster et d&amp;rsquo;Azure, mais ce sera l&amp;rsquo;occasion de faire une première démo de Codespaces, l&amp;rsquo;IDE intégré à GitHub qui vient tout juste d&amp;rsquo;être annoncé (cela devrait être une première en France, voire mondiale&amp;hellip;).</description></item><item><title>Quarkus ... Supersonic Subatomic Java</title><link>https://www.parisjug.org/events/2019/05-14-quarkus/</link><pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/05-14-quarkus/</guid><description>Date et lieu Mardi 14 Mai 2019 Dans les locaux de l&amp;rsquo;Ecole 42 Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>(D)DDD and CQ(R)S to Cloud Architectures</title><link>https://www.parisjug.org/events/2019/04-24-ddd-cqrs/</link><pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/04-24-ddd-cqrs/</guid><description>Date et lieu Mardi 24 Avril 2019 Dans les locaux de Renault Digital Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Soirée Edson Yanaga</title><link>https://www.parisjug.org/events/2019/01-21-edson-yanaga/</link><pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/01-21-edson-yanaga/</guid><description>Date et lieu Mardi 21 Janvier 2019 Dans les locaux de Red Hat Paris Soirée exceptionnelle.
-Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Container Tools</title><link>https://www.parisjug.org/events/2018/10-09-container-tools/</link><pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/10-09-container-tools/</guid><description>Date et lieu Mardi 9 Octobre 2018 Dans les locaux de Renault Digital Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Tools In Action</title><link>https://www.parisjug.org/events/2018/06-27-tools-in-action/</link><pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/06-27-tools-in-action/</guid><description>Date et lieu Mardi 27 Juin 2018 Dans les locaux de Renault Digital Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Analyseurs de code et Qualité logicielle avec Sonar</title><link>https://www.parisjug.org/events/2017/11-14-sonar/</link><pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/11-14-sonar/</guid><description>Date et lieu Mardi 12 décembre 2017 Dans les locaux de l&amp;rsquo;ESIEA Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Soirée LRH</title><link>https://www.parisjug.org/events/2017/09-12-lrh/</link><pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/09-12-lrh/</guid><description>Date et lieu Mardi 12 septembre 2017 Dans les locaux de l&amp;rsquo;ESIEA Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Soirée Eclipse Che</title><link>https://www.parisjug.org/events/2016/03-22-eclipse-che/</link><pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/03-22-eclipse-che/</guid><description>Date et lieu Mardi 22 Mars 2016
-Dans les locaux de l&amp;rsquo;ESIEA
-Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Young blood III : No Retreat</title><link>https://www.parisjug.org/events/2016/01-12-young-blood-3/</link><pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/01-12-young-blood-3/</guid><description>Date et lieu Mardi 12 janvier 2016 Dans les locaux de l&amp;rsquo;ESIEA Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Soirée Java/Azure</title><link>https://www.parisjug.org/events/2015/05-12-java-azure/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/05-12-java-azure/</guid><description>Date et lieu Mardi 12 Mai 2015 Dans les locaux de l&amp;rsquo;ESIEA Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Soirée Cloud First sur la Google Plateform</title><link>https://www.parisjug.org/events/2014/09-09-google-cloud/</link><pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/09-09-google-cloud/</guid><description>Date et lieu Mardi 09 septembre 2014 Dans les locaux de l&amp;rsquo;ESIEA Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Soirée Cloud</title><link>https://www.parisjug.org/events/2014/05-06-cloud/</link><pubDate>Tue, 03 Jun 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/05-06-cloud/</guid><description>Date et lieu Mardi 10 juin 2014 Dans les locaux de l&amp;rsquo;ISEP Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Introduction à la virtualisation pour les développeurs</title><link>https://www.parisjug.org/events/2014/03-11-virtualisation/</link><pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/03-11-virtualisation/</guid><description>Date et lieu Mercredi 11 mars 2014 Dans les locaux de l&amp;rsquo;ISEP Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Hibernate Search</title><link>https://www.parisjug.org/events/2014/02-11-search/</link><pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/02-11-search/</guid><description>Date et lieu Mardi 11 février 2014 Dans les locaux de l&amp;rsquo;ISEP Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Soirée Patrick Chanezon: le cloud</title><link>https://www.parisjug.org/events/2011/07-05-patrick-chanezon/</link><pubDate>Tue, 05 Jul 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/07-05-patrick-chanezon/</guid><description>Date et lieu Mardi 5 Juillet 2011 Dans les locaux de l&amp;rsquo;ISEP Inscriptions closes
-Détails 19h15 à 19h30 : Accueil 19h30 à 22h00 : La mode cloud, collections d&amp;rsquo;été google appengine, amazon, cloudbees, node, cloud9, eclipse orion, cloud foundry, etc.
-Cloud is such stuff as dreams are made on Création de valeur et de compétitivité avec le Cloud Cloud Foundry intro with Groovy Courte intro sur CloudBees La résilliance de Run My Process Rapide présentation de l&amp;rsquo;IDE full web Intervenant : Patrick Chanezon</description></item><item><title>Soirée Grid Computing</title><link>https://www.parisjug.org/events/2009/05-12-grid-computing/</link><pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/05-12-grid-computing/</guid><description>Date et lieu Mardi 12 mai 2009 Dans les locaux de la ISEP ATTENTION Victime de son succès, le Paris JUG ne se contient plus dans la salle qui l&amp;rsquo;accueille. Pour des raisons évidentes de sécurité, les personnes non inscrites à l&amp;rsquo;évènement ne pourront donc plus y assister. L&amp;rsquo;inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on Paris Java User Group</title><link>https://www.parisjug.org/tags/cloud/</link><description>Recent content in Cloud on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 13 Feb 2024 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée APIs : Microcks et API Agile</title><link>https://www.parisjug.org/events/2024/02-13-microcks-et-api-agile/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/02-13-microcks-et-api-agile/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 13 février 2024 à 19h00&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/renault-digital/">les locaux de Renault Digital&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
+Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
+&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Cloud, Event Driven, Serverless et Tests BigQuery sur Google Cloud Platform</title><link>https://www.parisjug.org/events/2023/10-18-google-cloud/</link><pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/10-18-google-cloud/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mercredi 18 Octobre 2023 à 19h00&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agorapulse&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
+Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
+&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Serverless: Kafka, Quarkus et opérateur Kubernetes</title><link>https://www.parisjug.org/events/2023/05-09-serverless/</link><pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/05-09-serverless/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 9 Mai 2023 à 19h00&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h00--accueil">19h00 : Accueil&lt;/h3>
+&lt;h3 id="19h30--la-quête-de-bob-lappli-en-fin-de-cycle">19h30 : La quête de Bob, l&amp;rsquo;appli en fin de cycle&lt;/h3>
+&lt;p>Bob est une vieille application, conçue en 2010, elle est encore la vache à lait et c’est bien l’unique raison pour laquelle Bob n’a pas été décommissionné.
+Mais Bob sait qu’il est fragile, tous ses devs ont quitté la boite depuis bien longtemps et il se sent comme une tour de Jenga après 20 tours de jeu.&lt;/p></description></item><item><title>Soirée Micronaut</title><link>https://www.parisjug.org/events/2022/05-10-micronaut/</link><pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2022/05-10-micronaut/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 10 Mai 2022 à 19h30&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux d&amp;rsquo;Agorapluse&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25, verront leur &lt;strong>place remise à disposition&lt;/strong>.&lt;br>
+Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. &lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Virtuelle : Déployer un microservice Vert-x sur Kubernetes avec Knative et GitLab CI</title><link>https://www.parisjug.org/events/2022/03-08-microservice-vertx-knative/</link><pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2022/03-08-microservice-vertx-knative/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 8 Mars 2022 à 19h00&lt;/li>
+&lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug">Twitch&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="18h45--accueil">18h45 : Accueil&lt;/h3>
+&lt;h3 id="19h00-à-20h30--déployer-un-microservice-vert-x-sur-kubernetes-avec-knative-et-gitlab-ci">19h00 à 20h30 : Déployer un microservice Vert-x sur Kubernetes avec Knative et GitLab CI&lt;/h3>
+&lt;p>Je suis un développeur depuis toujours et franchement Kubernetes, je trouve ça compliqué (même si j’ai fait des progrès) mais j’ai découvert Knative serving et ce fut une révélation. Knative masque complètement les choses ennuyeuses de Kubernetes.&lt;/p></description></item><item><title>Soirée virtuelle : Intégration à l'ère du cloud avec Camel Quarkus</title><link>https://www.parisjug.org/events/2022/02-08-cloud-camel-quarkus/</link><pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2022/02-08-cloud-camel-quarkus/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 08 février 2022 à 19h00&lt;/li>
+&lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug">Twitch&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="18h45--accueil">18h45 : Accueil&lt;/h3>
+&lt;h3 id="19h00--intégration-à-lère-du-cloud-avec-camel-quarkus">19h00 : Intégration à l&amp;rsquo;ère du cloud avec Camel Quarkus&lt;/h3>
+&lt;p>Dans un univers informatique dont l&amp;rsquo;expansion ne cesse d&amp;rsquo;accélérer, le besoin de faire communiquer des systèmes disparates se renforce jour après jour.
+Développé en Java, le projet Open Source Apache Camel fournit avec ses 350 connecteurs une réponse prouvée à ce besoin toujours croissant d&amp;rsquo;intégration entre systèmes.&lt;/p></description></item><item><title>Soirée Virtuelle : JKube - Packager Java pour Kubernetes</title><link>https://www.parisjug.org/events/2020/11-10-jkube/</link><pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/11-10-jkube/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 10 Novembre 2020 - 19h00&lt;/li>
+&lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug">Twitch&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.google.com/calendar/render?action=TEMPLATE&amp;amp;text=ParisJUG+-+JKube+-+Packager+Java+pour+Kubernetes&amp;amp;details=19h00+%C3%A0+20h00%3A+JKube+-+Packager+Java+pour+Kubernetes%0A%0AEn+octobre+2018%2C+nous+vous+avions+pr%C3%A9sent%C3%A9+comment+migrer+une+application+java+vers+docker+et+Kubernetes+%C3%A0+l%27aide+du+plugin+Maven+dmp+fabric8.%0A%0ADepuis%2C+cet+outil+a+%C3%A9t%C3%A9+repris+par+la+fondation+Eclipse+dans+le+projet+JKube.%0A%0ANous+vous+proposons+de+reprendre+notre+exemple+et+de+refaire+l%27exercice+%C3%A0+l%27aide+du+nouveau+projet+JKube.%0A%0Apar+Charles+Sabourdin%0A%0Ahttps%3A%2F%2Fwww.parisjug.org%2Fxwiki%2Fwiki%2Foldversion%2Fview%2FMeeting%2F20201110&amp;amp;location=https%3A%2F%2Fwww.twitch.tv%2Fparisjug&amp;amp;dates=20201110T174500Z%2F20201110T191500Z">Google Calendar&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="18h45-à-19h00--accueil">18h45 à 19h00 : Accueil&lt;/h3>
+&lt;h3 id="19h00-à-20h00--jkube---packager-java-pour-kubernetes">19h00 à 20h00 : JKube - Packager Java pour Kubernetes&lt;/h3>
+&lt;p>En octobre 2018, nous vous avions présenté comment migrer une application java vers docker et Kubernetes à l&amp;rsquo;aide du plugin Maven dmp fabric8.&lt;/p>
+&lt;p>Depuis, cet outil a été repris par la fondation Eclipse dans le projet JKube.&lt;/p></description></item><item><title>Soirée Virtuelle : Microsoft Azure, JHipster et Github Codespaces</title><link>https://www.parisjug.org/events/2020/05-12-azure-jhipster/</link><pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/05-12-azure-jhipster/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 12 Mai 2020 - 19h00&lt;/li>
+&lt;li>Dans les locaux virtuels de &lt;a href="https://aka.ms/parisjuglive">Microsoft Teams&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;figure class="sponsor-svg-logo">&lt;img src="https://www.parisjug.org/img/sponsors/2020/msteams.png"
+ alt="Microsoft Teams">
+&lt;/figure>
+
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="18h45-à-19h00--accueil">18h45 à 19h00 : Accueil&lt;/h3>
+&lt;h3 id="19h00-à-20h00--développer-en-java-dans-le-cloud">19h00 à 20h00 : Développer en Java dans le cloud&lt;/h3>
+&lt;p>En cette période de pandémie, nous allons voir comment mieux développer en Java &amp;ldquo;dans le cloud&amp;rdquo;. Pas que pour le déploiement en production, mais également pour développer au jour le jour.&lt;/p></description></item><item><title>Quarkus ... Supersonic Subatomic Java</title><link>https://www.parisjug.org/events/2019/05-14-quarkus/</link><pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/05-14-quarkus/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 14 Mai 2019&lt;/li>
+&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/ecole42/">Ecole 42&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---de-java-à-un-exécutable-natif--graalvm-et-quarkus-changent-la-donne">19h30 - De Java à un exécutable natif : GraalVM et Quarkus changent la donne&lt;/h3>
+&lt;p>Les microservices, la scalabilité instantanée et les plates-formes à haute densité comme Kubernetes nécessitent des applications à faible empreinte mémoire et démarrage rapide. Java n&amp;rsquo;était pas bien positionné car il favorise les temps de traitement aux dépens du CPU et de la RAM.&lt;/p></description></item><item><title>(D)DDD and CQ(R)S to Cloud Architectures</title><link>https://www.parisjug.org/events/2019/04-24-ddd-cqrs/</link><pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/04-24-ddd-cqrs/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 24 Avril 2019&lt;/li>
+&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/">Renault Digital&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---applying-dddd-and-cqrs-to-cloud-architectures-with-java-spring-boot-kafka-and-docker">19h30 - Applying (D)DDD and CQ(R)S to Cloud Architectures with Java, Spring Boot, Kafka and Docker&lt;/h3>
+&lt;p>Many software architectures may benefit from the introduction of (Distributed) Domain-Driven Design and Command Query (Responsibility) Separation.&lt;br>
+No matter if you are maintaining large legacy software systems whether you start a new microservices platform as greenfield approach one always has to think about the domain language and service design.&lt;br>
+In this session I want to show you at a given example application how to get started with introducing domain models, bounded contexts and implementing CQRS where it makes most sense while trying to avoid the technical debt trap e.g. misconceptions and fallacies.&lt;/p></description></item><item><title>Soirée Edson Yanaga</title><link>https://www.parisjug.org/events/2019/01-21-edson-yanaga/</link><pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/01-21-edson-yanaga/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 21 Janvier 2019&lt;/li>
+&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/red-hat/">Red Hat Paris&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Soirée exceptionnelle.&lt;/p>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---revisiting-effective-java-in-2019">19h30 - Revisiting Effective Java in 2019&lt;/h3>
+&lt;p>Joshua Bloch just gifted us with the 3rd edition of &amp;ldquo;Effective Java&amp;rdquo;, but almost 10 years have been past since the last edition.&lt;br>
+Now we have a whole generation of Java developers that could benefit from this knowledge - but lost the past wave.&lt;br>
+It&amp;rsquo;s about time to revisit all of this wonderful content, and upgrade your skills to the latest versions of the Java platform.&lt;br>
+Join us on this deep dive session to check what is the updated Effective Java, and even add some more tips not included in the book!&lt;/p></description></item><item><title>Container Tools</title><link>https://www.parisjug.org/events/2018/10-09-container-tools/</link><pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/10-09-container-tools/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 9 Octobre 2018&lt;/li>
+&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/">Renault Digital&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---google-container-tools-life-of-a-developer-in-a-container-world">19h30 - Google Container Tools: Life of a developer in a container world&lt;/h3>
+&lt;p>Kubernetes has become the orchestrator of choice to deploy applications.&lt;br>
+But what about developer&amp;rsquo;s day to day job of developing those applications.&lt;br>
+The more they leverage the platform, the more difficult it is to develop outside of the platform.&lt;br>
+And developing inside containers is not always easy nor enjoyable.&lt;br>
+Google has launched multiple Open-Source projects that focus on Developer User Experience in a Container World:&lt;/p></description></item><item><title>Tools In Action</title><link>https://www.parisjug.org/events/2018/06-27-tools-in-action/</link><pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/06-27-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 27 Juin 2018&lt;/li>
+&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/">Renault Digital&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---ksql">19h30 - KSQL&lt;/h3>
+&lt;p>Apache Kafka est une plateforme de streaming dont on connait les qualités de performance, robustesse, resilience, securité, etc.&lt;br>
+Je vous propose de faire une demo de KSQL qui permet de manipuler les données qui passent dans les tuyaux avec le seul langage que tout le monde connait: SQL.&lt;/p></description></item><item><title>Analyseurs de code et Qualité logicielle avec Sonar</title><link>https://www.parisjug.org/events/2017/11-14-sonar/</link><pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/11-14-sonar/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 12 décembre 2017&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---développer-un-moteur-dexécution-symbolique-en-partant-de-rien">19h30 - Développer un moteur d&amp;rsquo;exécution symbolique en partant de rien&lt;/h3>
+&lt;p>En chaque développeur a sommeillé un jour ce doux rêve d&amp;rsquo;écrire son propre compilateur pour un language de domaine ou voir même pour créer un nouveau language de programmation. Or le développement d&amp;rsquo;un analyseur de code ressemble étrangement au développement du front-end d&amp;rsquo;un compilateur. Durant cette session, Freddy présentera les différentes étapes du développement d&amp;rsquo;un analyseur de code jusqu&amp;rsquo;à la capacité à exécuter symboliquement tous les chemins d&amp;rsquo;exécutions. Ce concept avancé d&amp;rsquo;interprétation abstraite est un pré-requis à la détection des bugs et vulnérabilités les plus profonds dans tous les languages.&lt;/p></description></item><item><title>Soirée LRH</title><link>https://www.parisjug.org/events/2017/09-12-lrh/</link><pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/09-12-lrh/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 12 septembre 2017&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;p>Notre orateur &lt;a href="https://www.parisjug.org/speakers/adam-bien/">Adam Bien&lt;/a> a eu un souci et nous avons néanmoins proposer d&amp;rsquo;autres sujets.&lt;/p></description></item><item><title>Soirée Eclipse Che</title><link>https://www.parisjug.org/events/2016/03-22-eclipse-che/</link><pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/03-22-eclipse-che/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Mardi 22 Mars 2016&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Young blood III : No Retreat</title><link>https://www.parisjug.org/events/2016/01-12-young-blood-3/</link><pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/01-12-young-blood-3/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 12 janvier 2016&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="comment-se-déroule-un-quicky-young-blood-">Comment se déroule un Quicky Young Blood ?&lt;/h2>
+&lt;ul>
+&lt;li>C&amp;rsquo;est une présentation entre 15 et 20 minutes avec 1 seul speaker.&lt;/li>
+&lt;li>Il y a 15 minutes de présentation et 5 minutes de questions&lt;/li>
+&lt;li>Le speaker répond aux questions pendant que le suivant s&amp;rsquo;installe.&lt;/li>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://www.parisjug.org/tags/young-blood/">Consulter toutes nos soirées Young Blood.&lt;/a>&lt;/p></description></item><item><title>Soirée Java/Azure</title><link>https://www.parisjug.org/events/2015/05-12-java-azure/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/05-12-java-azure/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 12 Mai 2015&lt;/li>
+&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Cloud First sur la Google Plateform</title><link>https://www.parisjug.org/events/2014/09-09-google-cloud/</link><pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/09-09-google-cloud/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 09 septembre 2014&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="photos">Photos&lt;/h2>
+&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131930460@N04/albums/72157648859630535" title="Soirée Cloud First sur la Google Plateform">&lt;img src="https://live.staticflickr.com/3954/15386693348_45fec0878f_h.jpg" width="640" height="480" alt="Soirée Cloud First sur la Google Plateform">&lt;/a>&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">&lt;/script>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---20h25--cloud-first-sur-la-google-cloud-platform---première-partie">19h30 - 20h25 : “Cloud First” sur la Google Cloud Platform - Première partie&lt;/h3>
+&lt;p>Une entreprise est “Cloud First” lorsqu’elle héberge ses données d’abord, mais pas exclusivement, sur le Cloud. Ceci demande un système d’informations facilitant l’échange des données entre des datacenters cloud et des datacenters privés.Penser “Cloud First” amène à revoir sa façon de construire et de déployer les applications. De la même manière, la façon de collecter, traiter et analyser les données s’en trouve grandement transformée.La présentation sera illustrée par des exemples concrets s’appuyant sur la Google Cloud Platform.#Cloud #Plateforme&lt;/p></description></item><item><title>Soirée Cloud</title><link>https://www.parisjug.org/events/2014/05-06-cloud/</link><pubDate>Tue, 03 Jun 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/05-06-cloud/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 10 juin 2014&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---20h25--patterns-darchitectures-dans-le-cloud">19h30 - 20h25 : Patterns d&amp;rsquo;architectures dans le cloud&lt;/h3>
+&lt;p>Si le Cloud apporte beaucoup de bénéfices, il a aussi ses règles du jeu. Venez découvrir les design patterns des applications &amp;ldquo;production ready&amp;rdquo; sur le Cloud. Nous ne nous limiterons pas aux sujets glamours comme la scalabilité ou la haute disponibilité ; nous couvrirons aussi les sujets &amp;ldquo;prod&amp;rdquo; comme monitoring, l&amp;rsquo;automatisation, et la réversibilité. CloudBees, Heroku, Amazon Beanstalk &amp;hellip; vous aurez les clefs pour réussir vos applications Java sur ces plateformes.&lt;/p></description></item><item><title>Introduction à la virtualisation pour les développeurs</title><link>https://www.parisjug.org/events/2014/03-11-virtualisation/</link><pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/03-11-virtualisation/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mercredi 11 mars 2014&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="photos">Photos&lt;/h2>
+&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131930460@N04/albums/72157642262022563" title="Introduction à la virtualisation pour les développeurs">&lt;img src="https://live.staticflickr.com/3718/13110208015_a2adf6d2c2_h.jpg" width="640" height="480" alt="Introduction à la virtualisation pour les développeurs">&lt;/a>&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">&lt;/script>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---20h30--introduction-à-la-virtualisation-pour-les-développeurs">19h30 - 20h30 : Introduction à la virtualisation pour les développeurs&lt;/h3>
+&lt;p>L&amp;rsquo;objectif de cette soirée est de donner un panorama assez complet sur la virtualisation, avec une première partie théorique sur les technologies existantes (contexte d&amp;rsquo;utilisation, avantages / inconvénients), et une seconde partie axée sur les outils.&lt;/p></description></item><item><title>Hibernate Search</title><link>https://www.parisjug.org/events/2014/02-11-search/</link><pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/02-11-search/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 11 février 2014&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="photos">Photos&lt;/h2>
+&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131930460@N04/albums/72157642257606244" title="Hibernate Search">&lt;img src="https://live.staticflickr.com/2233/13108109505_75370258bd_h.jpg" width="640" height="480" alt="Hibernate Search">&lt;/a>&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">&lt;/script>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---20h00--hibernate-search--le-full-text-puissance-hibernate">19h30 - 20h00 : Hibernate Search : le full text puissance Hibernate&lt;/h3>
+&lt;p>La recherche en texte intégral s&amp;rsquo;invite dans nos applications Java. Venez découvrir comment la bibliothèque Hibernate Search vous aide à incorporer des fonctionnalités avancées de recherche, facettage, recherche géographique dans une intégration naturelle avec l&amp;rsquo;ORM Hibernate.
+La gestion transparente des mises à jour, la distribution de l&amp;rsquo;index dans Infinispan, les événements de mise à jour, les transformations pour l&amp;rsquo;indexation à la volée et bien plus encore vous seront dévoilées dans cette présentation.&lt;/p></description></item><item><title>Soirée Patrick Chanezon: le cloud</title><link>https://www.parisjug.org/events/2011/07-05-patrick-chanezon/</link><pubDate>Tue, 05 Jul 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/07-05-patrick-chanezon/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 5 Juillet 2011&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Inscriptions closes&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
+&lt;h3 id="19h30-à-22h00--la-mode-cloud-collections-dété">19h30 à 22h00 : La mode cloud, collections d&amp;rsquo;été&lt;/h3>
+&lt;p>google appengine, amazon, cloudbees, node, cloud9, eclipse orion, cloud foundry, etc.&lt;/p>
+&lt;ul>
+&lt;li>Cloud is such stuff as dreams are made on&lt;/li>
+&lt;li>Création de valeur et de compétitivité avec le Cloud&lt;/li>
+&lt;li>Cloud Foundry intro with Groovy&lt;/li>
+&lt;li>Courte intro sur CloudBees&lt;/li>
+&lt;li>La résilliance de Run My Process&lt;/li>
+&lt;li>Rapide présentation de l&amp;rsquo;IDE full web&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Intervenant&lt;/strong> : &lt;a href="https://www.parisjug.org/speakers/patrick-chanezon/">Patrick Chanezon&lt;/a>&lt;/p></description></item><item><title>Soirée Grid Computing</title><link>https://www.parisjug.org/events/2009/05-12-grid-computing/</link><pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/05-12-grid-computing/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 12 mai 2009&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="attention">ATTENTION&lt;/h2>
+&lt;p>Victime de son succès, le Paris JUG ne se contient plus dans la salle qui l&amp;rsquo;accueille. Pour des raisons évidentes de sécurité, les personnes non inscrites à l&amp;rsquo;évènement ne pourront donc plus y assister. L&amp;rsquo;inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.&lt;/p></description></item></channel></rss>

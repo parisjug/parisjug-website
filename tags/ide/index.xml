@@ -1,6 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ide on Paris Java User Group</title><link>https://www.parisjug.org/tags/ide/</link><description>Recent content in Ide on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 09 Mar 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/ide/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Virtuelle : La fondation Eclipse, au-delà de l’IDE !</title><link>https://www.parisjug.org/events/2021/03-09-eclipse/</link><pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2021/03-09-eclipse/</guid><description>Date et lieu Mardi 9 Mars 2021 à 19h00 Dans les locaux de notre chaîne Twitch Détails 18h45 à 19h00: Accueil 19h00 à 19h30 : Au-delà de l’IDE: de plus en plus de projets de l’écosystème Java ont rejoint la fondation Eclipse. Ces dernières années, un certain nombre de projets bien connus de l’écosystème Java ont rejoint la fondation Eclipse. Emblématique, Java EE s’est émancipé du giron d’Oracle en 2017, en devenant Jakarta EE.</description></item><item><title>Soirée Virtuelle : Tools in Action</title><link>https://www.parisjug.org/events/2020/06-30-tools-in-action/</link><pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/06-30-tools-in-action/</guid><description>Date et lieu Mardi - 19h00 Dans les locaux de notre chaîne Youtube Détails 18h45 à 19h00 : Accueil 19h00 à 19h20 : Pression aval dans RxJava Cette technique issue de la mécanique des fluides a été adaptée à l&amp;rsquo;informatique pour gérer les flux de données. Elle fait partie de la boite à outil de la programmation réactive. A l&amp;rsquo;aide de quelques exemples avec RxJava, on va essayer de comprendre comment ça marche et ce que ça peut apporter.</description></item><item><title>Tooling OSS ... et pourquoi pas y contribuer ?</title><link>https://www.parisjug.org/events/2019/06-13-oss-tooling/</link><pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/06-13-oss-tooling/</guid><description>Date et lieu Exceptionnellement le JEUDI 13 JUIN 2019 Dans les locaux de Renault Digital Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Langages pour tous ... les IDE</title><link>https://www.parisjug.org/events/2018/12-11-languages-ide/</link><pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/12-11-languages-ide/</guid><description>Date et lieu Mardi 11 Décembre 2018 Dans les locaux de Soat Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Soirée Eclipse Che</title><link>https://www.parisjug.org/events/2016/03-22-eclipse-che/</link><pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/03-22-eclipse-che/</guid><description>Date et lieu Mardi 22 Mars 2016
-Dans les locaux de l&amp;rsquo;ESIEA
-Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ide on Paris Java User Group</title><link>https://www.parisjug.org/tags/ide/</link><description>Recent content in Ide on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 09 Mar 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/ide/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Virtuelle : La fondation Eclipse, au-delà de l’IDE !</title><link>https://www.parisjug.org/events/2021/03-09-eclipse/</link><pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2021/03-09-eclipse/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 9 Mars 2021 à 19h00&lt;/li>
+&lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug">Twitch&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="18h45-à-19h00-accueil">18h45 à 19h00: Accueil&lt;/h3>
+&lt;h3 id="19h00-à-19h30--au-delà-de-lide-de-plus-en-plus-de-projets-de-lécosystème-java-ont-rejoint-la-fondation-eclipse">19h00 à 19h30 : Au-delà de l’IDE: de plus en plus de projets de l’écosystème Java ont rejoint la fondation Eclipse.&lt;/h3>
+&lt;p>Ces dernières années, un certain nombre de projets bien connus de l’écosystème Java ont rejoint la fondation Eclipse. Emblématique, Java EE s’est émancipé du giron d’Oracle en 2017, en devenant Jakarta EE. Avant ça, Eclipse Microprofile avait montré la voie pour définir de façon plus agile les nouvelles specs pour les microservices. Et plus récemment, AdoptOpenJDK a rejoint la fondation Eclipse sous le nom d’Adoptium.&lt;/p></description></item><item><title>Soirée Virtuelle : Tools in Action</title><link>https://www.parisjug.org/events/2020/06-30-tools-in-action/</link><pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/06-30-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi - 19h00&lt;/li>
+&lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.youtube.com/@ParisJUG">Youtube&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="18h45-à-19h00--accueil">18h45 à 19h00 : Accueil&lt;/h3>
+&lt;h3 id="19h00-à-19h20--pression-aval-dans-rxjava">19h00 à 19h20 : Pression aval dans RxJava&lt;/h3>
+&lt;p>Cette technique issue de la mécanique des fluides a été adaptée à l&amp;rsquo;informatique pour gérer les flux de données. Elle fait partie de la boite à outil de la programmation réactive.
+A l&amp;rsquo;aide de quelques exemples avec RxJava, on va essayer de comprendre comment ça marche et ce que ça peut apporter.&lt;/p></description></item><item><title>Tooling OSS ... et pourquoi pas y contribuer ?</title><link>https://www.parisjug.org/events/2019/06-13-oss-tooling/</link><pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/06-13-oss-tooling/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Exceptionnellement le &lt;font color="red">JEUDI 13 JUIN 2019&lt;/font>&lt;/strong>&lt;/li>
+&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/">Renault Digital&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;figure>&lt;img src="https://www.parisjug.org/events/2019/06-13-oss-tooling/hackcommitpush.png" width="150px">
+&lt;/figure>
+
+&lt;p>Cette soirée Paris JUG se composera de 5 quickies sur 5 projets opensource qui seront présents lors de l&amp;rsquo;initiative &lt;a href="https://hack-commit-pu.sh/">hack-commit-pu.sh&lt;/a>.&lt;/p></description></item><item><title>Langages pour tous ... les IDE</title><link>https://www.parisjug.org/events/2018/12-11-languages-ide/</link><pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/12-11-languages-ide/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 11 Décembre 2018&lt;/li>
+&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/soat/">Soat&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---le-domaine-des-outils-de-développement-passe-à-léchelle-grâce-au-language-server-protocol">19h30 - Le domaine des outils de développement passe à l&amp;rsquo;échelle grâce au Language Server Protocol&lt;/h3>
+&lt;p>Il existait dans le monde des outils de développement -composé d’une multitude d’outils et d’une myriades de langages et framework à outiller- un objectif, un challenge à surmonter, un Saint-Graal du domaine qui avait été maintes fois recherché, plusieurs fois approché mais jamais entièrement dompté: des APIs qui pourraient être utilisées entre tous les langages/compilateurs/linters et tous les éditeurs de code ou IDEs pour fournir les services attendus des développeurs. Sous le capot de VSCode, son équipe forte d&amp;rsquo;expérience des IDEs a développé un tel protocole pour l&amp;rsquo;édition de code (completion, validation de code, documentation contextuelle, refactorings&amp;hellip;.) qui s&amp;rsquo;est rapidement établi comme un pseudo-standard supporté par beaucoup d&amp;rsquo;IDEs et de langages, garantissant son succes immediat et durable; il s&amp;rsquo;agit du Language Server Protocol.&lt;/p></description></item><item><title>Soirée Eclipse Che</title><link>https://www.parisjug.org/events/2016/03-22-eclipse-che/</link><pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/03-22-eclipse-che/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Mardi 22 Mars 2016&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item></channel></rss>

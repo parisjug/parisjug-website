@@ -1,6 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Functional Programming on Paris Java User Group</title><link>https://www.parisjug.org/tags/functional-programming/</link><description>Recent content in Functional Programming on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 15 May 2018 12:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/functional-programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Anniversaire du Paris JUG : 10 ans</title><link>https://www.parisjug.org/events/2018/05-15-10-ans/</link><pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/05-15-10-ans/</guid><description>Date et lieu Mardi 15 Mai 2018 Dans un lieu mémorable : Les inscriptions seront ouvertes le jeudi 03 mai 2018, 12 jours avant l&amp;rsquo;évènement.
-Nos Sponsors Platines auront 10 places à donner avant le jeudi 03 mai 2018. Pour être informé rapidement, vous pouvez :
-Suivre le Parisjug sur Twitter (@parisjug) Vous inscrire à la mailling-list Parisjug (announce). L’inscription implique de posséder une adresse mail valide à laquelle nous vous enverrons une demande de confirmation.</description></item><item><title>Young blood V</title><link>https://www.parisjug.org/events/2018/01-09-young-blood-5/</link><pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/01-09-young-blood-5/</guid><description>Date et lieu Mardi 9 Janvier 2018 Dans les locaux de l&amp;rsquo;ESIEA Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (@parisjug) pour être informé rapidement.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item><item><title>Soirée Young blood II</title><link>https://www.parisjug.org/events/2015/01-13-young-blood-2/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/01-13-young-blood-2/</guid><description>Date et lieu Mardi 13 janvier 2015 Dans les locaux de l&amp;rsquo;ESIEA Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 via ce lien.
-Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.
-Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Functional Programming on Paris Java User Group</title><link>https://www.parisjug.org/tags/functional-programming/</link><description>Recent content in Functional Programming on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 15 May 2018 12:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/functional-programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Anniversaire du Paris JUG : 10 ans</title><link>https://www.parisjug.org/events/2018/05-15-10-ans/</link><pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/05-15-10-ans/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 15 Mai 2018&lt;/li>
+&lt;li>Dans un lieu mémorable : 
+ &lt;a href="https://www.toureiffel.paris/fr/entreprise/salon-gustave-eiffel">
+ &lt;img src="https://www.toureiffel.paris/themes/custom/tour_eiffel/img/tour-eiffel-icon-w.svg " style="background-color: lightblue;" alt="Tour Eiffel" width="64">
+ &lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi 03 mai 2018, 12 jours avant l&amp;rsquo;évènement.&lt;/p>
+&lt;ul>
+&lt;li>Nos Sponsors Platines auront 10 places à donner avant le jeudi 03 mai 2018.&lt;/li>
+&lt;/ul>
+&lt;p>Pour être informé rapidement, vous pouvez :&lt;/p></description></item><item><title>Young blood V</title><link>https://www.parisjug.org/events/2018/01-09-young-blood-5/</link><pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/01-09-young-blood-5/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 9 Janvier 2018&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="comment-se-déroule-un-quicky-young-blood-">Comment se déroule un Quicky Young Blood ?&lt;/h2>
+&lt;ul>
+&lt;li>C&amp;rsquo;est une présentation entre 15 et 20 minutes avec 1 seul speaker.&lt;/li>
+&lt;li>Il y a 15 minutes de présentation et 5 minutes de questions&lt;/li>
+&lt;li>Le speaker répond aux questions pendant que le suivant s&amp;rsquo;installe.&lt;/li>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://www.parisjug.org/tags/young-blood/">Consulter toutes nos soirées Young Blood.&lt;/a>&lt;/p></description></item><item><title>Soirée Young blood II</title><link>https://www.parisjug.org/events/2015/01-13-young-blood-2/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/01-13-young-blood-2/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 13 janvier 2015&lt;/li>
+&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 &lt;a href="https://www.eventbrite.fr/e/billets-soiree-young-blood-ii-15060592638">via ce lien&lt;/a>.&lt;/p>
+&lt;blockquote>
+&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item></channel></rss>
