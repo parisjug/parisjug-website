@@ -61,14 +61,14 @@ Ils s’occupent également des entrées, des vidéos et du site :
 {{< unsafe >}}
 <table class="team">
     <tr>
-        <td><img src="anthony.png" alt="Anthony" class="avatar"></td>
+        <td><img src="christophe-agoero.png" alt="Christophe" class="avatar"></td>
         <td><img src="bruce.png" alt="Bruce" class="avatar"></td>
         <td><img src="jean-christophe.png" alt="Jean-Christophe" class="avatar"></td>
     </tr>
     <tr>
-        <td>Anthony Guillé</td>
+        <td>Christophe Agoero</td>
         <td>Bruce Bujon</td>
-        <td>Jean-Christophe Sirot</td>
+        <td>Jean-Christophe Sirot</td>       
     </tr>
     <tr>
         <td></td>
@@ -77,13 +77,13 @@ Ils s’occupent également des entrées, des vidéos et du site :
     </tr>
     <tr>
         <td><img src="loic.png" alt="Loïc" class="avatar"></td>
+        <td><img src="mathieu.png" alt="Mathieu" class="avatar"></td>
         <td><img src="sun.png" alt="Sun" class="avatar"></td>
-        <td></td>
     </tr>
     <tr>
         <td>Loïc Ledoyen</td>
+        <td>Mathieu Avril</td>
         <td>Sun Seng David Tan</td>
-        <td></td>
     </tr>
 </table>
 {{< /unsafe >}}
