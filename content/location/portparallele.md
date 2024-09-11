@@ -4,8 +4,7 @@ title: "Port Parallèle"
 
 ## Adresse
 
-[70, rue Amelot
-75011 Paris](http://maps.google.fr/maps?q=70%2C+rue+amelot+75011+paris)
+[70, rue Amelot, 75011 Paris](http://maps.google.fr/maps?q=70%2C+rue+amelot+75011+paris)
 
 Entre Bastille et République
 

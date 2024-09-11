@@ -4,8 +4,7 @@ title: "Espace Lancelot"
 
 ## Adresse
 
-[29 rue des Trois Bornes
-75011 Paris](https://maps.google.fr/maps?f=q&hl=fr&geocode=&q=29+rue+des+Trois+Bornes+-+75011+PARIS&sll=47.15984,2.988281&sspn=12.972543,29.53125&ie=UTF8&ll=48.867128,2.370386&spn=0.006126,0.01442&z=16)
+[29 rue des Trois Bornes, 75011 Paris](https://maps.google.fr/maps?f=q&hl=fr&geocode=&q=29+rue+des+Trois+Bornes+-+75011+PARIS&sll=47.15984,2.988281&sspn=12.972543,29.53125&ie=UTF8&ll=48.867128,2.370386&spn=0.006126,0.01442&z=16)
 
 ### Metro
 
