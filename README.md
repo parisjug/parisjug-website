@@ -128,8 +128,8 @@ Using the following parameters:
 
 - `src`: The target of the frame,
 - `title` _recommanded_: The description of the frame content for accessibility,
-- `width` _optional_: The width of the frame (in pixel),
-- `height` _optional_: The height of the frame (in pixel).
+- `width` _optional_: The width of the frame (using [CSS values](https://developer.mozilla.org/en-US/docs/Web/CSS/width#values) like `300px`or `100%`),
+- `height` _optional_: The height of the frame (using CSS values](https://developer.mozilla.org/en-US/docs/Web/CSS/height#values) like `300px` or `100%`).
 
 #### Section: Code of Conduct
 

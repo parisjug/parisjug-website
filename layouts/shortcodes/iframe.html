@@ -2,12 +2,10 @@
     marginheight="0" 
     marginwidth="0" 
     src="{{.Get `src`}}"
-    style="border:0;"
+    style="border:0;width:{{.Get `width` | default "auto"}};height:{{.Get `height` | default "auto"}};"
     allowfullscreen=""
     loading="lazy"
     {{if .Get "title"}}title="{{.Get `title`}}"{{end}}
     referrerpolicy="no-referrer-when-downgrade"
-    {{if .Get "width"}}width="{{.Get `width`}}"{{end}}
-    {{if .Get "height"}}height="{{.Get `height`}}"{{end}}
     frameborder="0"
 ></iframe>
