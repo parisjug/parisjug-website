@@ -61,18 +61,18 @@ Ils s’occupent également des entrées, des vidéos et du site :
 {{< unsafe >}}
 <table class="team">
     <tr>
-        <td><img src="christophe-agoero.png" alt="Christophe" class="avatar"></td>
         <td><img src="bruce.png" alt="Bruce" class="avatar"></td>
+        <td><img src="christophe-agoero.png" alt="Christophe" class="avatar"></td>
         <td><img src="jean-christophe.png" alt="Jean-Christophe" class="avatar"></td>
     </tr>
     <tr>
-        <td>Christophe Agoero</td>
         <td>Bruce Bujon</td>
-        <td>Jean-Christophe Sirot</td>       
+        <td>Christophe Agoero</td>
+        <td>Jean-Christophe Sirot</td>
     </tr>
     <tr>
-        <td></td>
         <td><i>JUG Leader</i></td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
