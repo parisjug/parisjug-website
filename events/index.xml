@@ -70,7 +70,13 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Panama (GL)</title><link>https://www.parisjug.org/events/2023/12-12-panama/</link><pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/12-12-panama/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
+&lt;/blockquote>
+&lt;p>Comme chaque année depuis 11 ans, notre session du mois de janvier sera notre session Young Blood !
+Le principe du Young Blood est que les présentations sont faites par des personnes qui n&amp;rsquo;ont jamais présenté auparavant, du moins en public.
+Notre but est de donner une première opportunité aux personnes qui souhaitent se lancer et de les aider dans leurs premiers pas.
+Parler en public peut paraître intimidant.
+Afin de les aider, nous leur proposons une présentation de 20mn, et un accompagnement dans la préparation avec des séances d&amp;rsquo;entraînement en privé et en petit comité.&lt;/p></description></item><item><title>Soirée Panama (GL)</title><link>https://www.parisjug.org/events/2023/12-12-panama/</link><pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/12-12-panama/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 12 Décembre 2023 à 19h00&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
@@ -161,7 +167,12 @@ Mais Bob sait qu’il est fragile, tous ses devs ont quitté la boite depuis bie
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
 &lt;/blockquote>
-&lt;p>Pour cet évènement, &lt;a href="https://www.parisjug.org/speakers/sylvain-wallez/">Sylvain Wallez&lt;/a> nous fait l&amp;rsquo;honneur de venir depuis Toulouse.&lt;/p></description></item><item><title>Soirée Young Blood X</title><link>https://www.parisjug.org/events/2023/01-10-young-blood-10/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/01-10-young-blood-10/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Pour cet évènement, &lt;a href="https://www.parisjug.org/speakers/sylvain-wallez/">Sylvain Wallez&lt;/a> nous fait l&amp;rsquo;honneur de venir depuis Toulouse.&lt;/p>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="18h45-à-19h00-accueil">18h45 à 19h00: Accueil&lt;/h3>
+&lt;h3 id="19h30--400-endpoints-dapi-et-2000-types--le-nouveau-client-java-pour-elasticsearch">19h30 : 400 endpoints d&amp;rsquo;API et 2000 types : le nouveau client Java pour Elasticsearch&lt;/h3>
+&lt;p>Un nouveau client Java pour Elasticsearch est sorti en octobre 2021.&lt;br>
+Plus léger, plus rapide, plus ergonomique et… généré à 99% !&lt;/p></description></item><item><title>Soirée Young Blood X</title><link>https://www.parisjug.org/events/2023/01-10-young-blood-10/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/01-10-young-blood-10/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 10 janvier 2023 à 19h00&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agora Pulse&lt;/a>&lt;/li>
@@ -330,7 +341,8 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="18h45-à-19h00-accueil">18h45 à 19h00: Accueil&lt;/h3>
 &lt;h3 id="19h00-à-20h00--nouveautés-de-java-16">19h00 à 20h00 : Nouveautés de Java 16.&lt;/h3>
-&lt;p>Java 16 est disponible depuis mars 2021. Java évolue rapidement avec cette cadence de sortie tous les 6 mois. Chaque version apporte son lot de nouveautés et la version 16 ne déroge pas à la règle.&lt;/p></description></item><item><title>Soirée Virtuelle : Quarkus World Tour - L'interview du groupe Quarkus</title><link>https://www.parisjug.org/events/2021/05-25-quarkus-world-tour-part2/</link><pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2021/05-25-quarkus-world-tour-part2/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Java 16 est disponible depuis mars 2021. Java évolue rapidement avec cette cadence de sortie tous les 6 mois. Chaque version apporte son lot de nouveautés et la version 16 ne déroge pas à la règle.&lt;/p>
+&lt;p>Chaque version est intéressante, la version 16 est très intéressante à deux titres :&lt;/p></description></item><item><title>Soirée Virtuelle : Quarkus World Tour - L'interview du groupe Quarkus</title><link>https://www.parisjug.org/events/2021/05-25-quarkus-world-tour-part2/</link><pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2021/05-25-quarkus-world-tour-part2/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 25 mai 2021 à 19h00&lt;/li>
 &lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug">Twitch&lt;/a>&lt;/li>
@@ -451,7 +463,8 @@ A l&amp;rsquo;aide de quelques exemples avec RxJava, on va essayer de comprendre
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="18h45-à-19h00--accueil">18h45 à 19h00 : Accueil&lt;/h3>
 &lt;h3 id="19h00-à-20h00--développer-en-java-dans-le-cloud">19h00 à 20h00 : Développer en Java dans le cloud&lt;/h3>
-&lt;p>En cette période de pandémie, nous allons voir comment mieux développer en Java &amp;ldquo;dans le cloud&amp;rdquo;. Pas que pour le déploiement en production, mais également pour développer au jour le jour.&lt;/p></description></item><item><title>[Annulée] Soirée Cloud Function: riff et Spring Cloud Function</title><link>https://www.parisjug.org/events/2020/03-10-cloud-function/</link><pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/03-10-cloud-function/</guid><description>&lt;h2 id="-soirée-annulée-suite-aux-dispositifs-anti-coronavirus">⚠️ Soirée annulée suite aux dispositifs anti-coronavirus&lt;/h2>
+&lt;p>En cette période de pandémie, nous allons voir comment mieux développer en Java &amp;ldquo;dans le cloud&amp;rdquo;. Pas que pour le déploiement en production, mais également pour développer au jour le jour.&lt;/p>
+&lt;p>Nous parlerons évidemment de JHipster et d&amp;rsquo;Azure, mais ce sera l&amp;rsquo;occasion de faire une première démo de Codespaces, l&amp;rsquo;IDE intégré à GitHub qui vient tout juste d&amp;rsquo;être annoncé (cela devrait être une première en France, voire mondiale&amp;hellip;).&lt;/p></description></item><item><title>[Annulée] Soirée Cloud Function: riff et Spring Cloud Function</title><link>https://www.parisjug.org/events/2020/03-10-cloud-function/</link><pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/03-10-cloud-function/</guid><description>&lt;h2 id="-soirée-annulée-suite-aux-dispositifs-anti-coronavirus">⚠️ Soirée annulée suite aux dispositifs anti-coronavirus&lt;/h2>
 &lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 10 Mars 2020 - 19h00&lt;/li>
@@ -823,7 +836,12 @@ Cette session vous donnera de nombreux conseils pratiques qui ne sont pas direct
 &lt;ul>
 &lt;li>Nos Sponsors Platines auront 10 places à donner avant le jeudi 03 mai 2018.&lt;/li>
 &lt;/ul>
-&lt;p>Pour être informé rapidement, vous pouvez :&lt;/p></description></item><item><title>Lean Java EE Style</title><link>https://www.parisjug.org/events/2018/03-13-jee/</link><pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/03-13-jee/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Pour être informé rapidement, vous pouvez :&lt;/p>
+&lt;ul>
+&lt;li>Suivre le Parisjug sur Twitter (&lt;a href="http://www.twitter.com/parisjug">@parisjug&lt;/a>)&lt;/li>
+&lt;li>Vous inscrire à la mailling-list Parisjug (&lt;a href="https://my.sendinblue.com/users/subscribe/js_id/2zu5c/id/1">announce&lt;/a>).&lt;/li>
+&lt;/ul>
+&lt;p>L’inscription implique de posséder une adresse mail valide à laquelle nous vous enverrons une demande de confirmation. Votre inscription ne sera effective qu’une fois cette confirmation validée.&lt;/p></description></item><item><title>Lean Java EE Style</title><link>https://www.parisjug.org/events/2018/03-13-jee/</link><pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/03-13-jee/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 13 Mars 2018&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
@@ -1775,7 +1793,10 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-19h50--gpars">19h30 à 19h50 : GPars&lt;/h3>
-&lt;p>Pour utiliser vos CPUs et vos Cores au max, la librairie GPars vous permettra d&amp;rsquo;écrire en Java ou en Groovy vos fork/join, map/filter/reduce, vos parallel arrays, vos actors, vos agents, etc., pour tous vos besoins de concurrence et de parallélisme.&lt;/p></description></item><item><title>Le métier de développeur</title><link>https://www.parisjug.org/events/2011/10-11-metier-developpeur/</link><pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/10-11-metier-developpeur/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Pour utiliser vos CPUs et vos Cores au max, la librairie GPars vous permettra d&amp;rsquo;écrire en Java ou en Groovy vos fork/join, map/filter/reduce, vos parallel arrays, vos actors, vos agents, etc., pour tous vos besoins de concurrence et de parallélisme.&lt;/p>
+&lt;p>&lt;strong>Intervenant&lt;/strong> : &lt;a href="https://www.parisjug.org/speakers/guillaume-laforge/">Guillaume Laforge&lt;/a>&lt;/p>
+&lt;h3 id="19h50-à-20h10--ocpsoft-prettytime">19h50 à 20h10 : OcpSoft PrettyTime&lt;/h3>
+&lt;p>Si vous voulez avoir de jolies dates style &amp;ldquo;3 days ago&amp;rdquo; très webdeuesques, PrettyTime vient à votre secours.&lt;/p></description></item><item><title>Le métier de développeur</title><link>https://www.parisjug.org/events/2011/10-11-metier-developpeur/</link><pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/10-11-metier-developpeur/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 11 Octobre 2011&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
@@ -1859,7 +1880,17 @@ We will finish the session by looking at what is coming in next in Java EE 7 and
 &lt;figure class="sponsor-gold-svg-logo">&lt;img src="https://www.parisjug.org/img/sponsors/2011/fusesourceLogoBuffet.JPG"
  alt="Fuse Source">
 &lt;/figure>
-&lt;/p></description></item><item><title>Soirée Git</title><link>https://www.parisjug.org/events/2011/04-12-git/</link><pubDate>Tue, 12 Apr 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/04-12-git/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;/p>
+&lt;h3 id="21h05-à-22h00-deuxième-partie">21h05 à 22h00: Deuxième partie&lt;/h3>
+&lt;ul>
+&lt;li>Making of the demo solution&lt;/li>
+&lt;li>Transpose it into camel DSL language&lt;/li>
+&lt;li>Coding of WebService (using Apache CXF), DAO and Persistence layer (Spring + Hibernate JPA) and Web layer (Apache Wicket),&lt;/li>
+&lt;li>Development of Camel routes,&lt;/li>
+&lt;li>Packaging and Deployment&lt;/li>
+&lt;li>Demo&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Intervenant&lt;/strong> : &lt;a href="https://www.parisjug.org/speakers/charles-moulliard/">Charles Moulliard&lt;/a>&lt;/p></description></item><item><title>Soirée Git</title><link>https://www.parisjug.org/events/2011/04-12-git/</link><pubDate>Tue, 12 Apr 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/04-12-git/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 12 Avril 2011&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
@@ -2225,7 +2256,10 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>La gouvernance de l&amp;rsquo;OSGI Alliance et les relations avec le JCP&lt;/li>
 &lt;li>Les champs d&amp;rsquo;applications d&amp;rsquo;hier, d&amp;rsquo;aujourd&amp;rsquo;hui et demain (Enterprise Expert Group)&lt;/li>
 &lt;/ul>
-&lt;p>Par &lt;a href="https://www.parisjug.org/speakers/cyrille-le-clerc/">Cyrille Le Clerc&lt;/a> et &lt;a href="https://www.parisjug.org/speakers/nicolas-griso/">Nicolas Griso&lt;/a>&lt;/p></description></item><item><title>JUG2B - Les Juggers viennent de Mars et les commerciaux de Venus</title><link>https://www.parisjug.org/events/2008/09-11-mars-venus/</link><pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/09-11-mars-venus/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Par &lt;a href="https://www.parisjug.org/speakers/cyrille-le-clerc/">Cyrille Le Clerc&lt;/a> et &lt;a href="https://www.parisjug.org/speakers/nicolas-griso/">Nicolas Griso&lt;/a>&lt;/p>
+&lt;h3 id="20h30-à-21h--buffet">20h30 à 21h : Buffet&lt;/h3>
+&lt;h3 id="21h-à-22h--osgi-appliqué">21h à 22h : OSGI appliqué&lt;/h3>
+&lt;p>Côté client graphique, côté serveur. Quelles promesses, quelle valeur ajoutée, quels défis ?&lt;/p></description></item><item><title>JUG2B - Les Juggers viennent de Mars et les commerciaux de Venus</title><link>https://www.parisjug.org/events/2008/09-11-mars-venus/</link><pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/09-11-mars-venus/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 11 septembre 2008&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/portparallele/">les locaux de Port Parallèle&lt;/a>&lt;/li>
@@ -2261,7 +2295,8 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="18h45-à-19h00--accueil">18h45 à 19h00 : Accueil&lt;/h3>
 &lt;h3 id="19h00-à-20h00--meilleurs-développeurs">19h00 à 20h00 : Meilleurs Développeurs&lt;/h3>
-&lt;p>On améliore les compétences des développeurs en leur donnant un budget annuel de 5 jours de cours dans un centre de formation, vrai ? Faux ! Qu&amp;rsquo;est-ce que les 10% meilleurs développeurs ont en commun ?&lt;/p></description></item><item><title>Soirée Spring</title><link>https://www.parisjug.org/events/2008/06-10-spring/</link><pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/06-10-spring/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>On améliore les compétences des développeurs en leur donnant un budget annuel de 5 jours de cours dans un centre de formation, vrai ? Faux ! Qu&amp;rsquo;est-ce que les 10% meilleurs développeurs ont en commun ?&lt;/p>
+&lt;p>Cette présentation s&amp;rsquo;adresse aux développeurs concernés par la qualité de leur travail, et aux leaders concernés pas la qualité de leur équipe.&lt;/p></description></item><item><title>Soirée Spring</title><link>https://www.parisjug.org/events/2008/06-10-spring/</link><pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/06-10-spring/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 10 juin 2008&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/fiap/">les locaux de la Fiapp&lt;/a>&lt;/li>

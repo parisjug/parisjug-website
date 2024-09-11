@@ -22,7 +22,13 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée OpenTelemetry</title><link>https://www.parisjug.org/events/2023/06-13-opentelemetry/</link><pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/06-13-opentelemetry/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
+&lt;/blockquote>
+&lt;p>Comme chaque année depuis 11 ans, notre session du mois de janvier sera notre session Young Blood !
+Le principe du Young Blood est que les présentations sont faites par des personnes qui n&amp;rsquo;ont jamais présenté auparavant, du moins en public.
+Notre but est de donner une première opportunité aux personnes qui souhaitent se lancer et de les aider dans leurs premiers pas.
+Parler en public peut paraître intimidant.
+Afin de les aider, nous leur proposons une présentation de 20mn, et un accompagnement dans la préparation avec des séances d&amp;rsquo;entraînement en privé et en petit comité.&lt;/p></description></item><item><title>Soirée OpenTelemetry</title><link>https://www.parisjug.org/events/2023/06-13-opentelemetry/</link><pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/06-13-opentelemetry/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 13 Juin 2023 à 19h00&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
@@ -297,7 +303,10 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-19h50--gpars">19h30 à 19h50 : GPars&lt;/h3>
-&lt;p>Pour utiliser vos CPUs et vos Cores au max, la librairie GPars vous permettra d&amp;rsquo;écrire en Java ou en Groovy vos fork/join, map/filter/reduce, vos parallel arrays, vos actors, vos agents, etc., pour tous vos besoins de concurrence et de parallélisme.&lt;/p></description></item><item><title>Soirée Camel et ServiceMix</title><link>https://www.parisjug.org/events/2011/05-10-camel-servicemix/</link><pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/05-10-camel-servicemix/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Pour utiliser vos CPUs et vos Cores au max, la librairie GPars vous permettra d&amp;rsquo;écrire en Java ou en Groovy vos fork/join, map/filter/reduce, vos parallel arrays, vos actors, vos agents, etc., pour tous vos besoins de concurrence et de parallélisme.&lt;/p>
+&lt;p>&lt;strong>Intervenant&lt;/strong> : &lt;a href="https://www.parisjug.org/speakers/guillaume-laforge/">Guillaume Laforge&lt;/a>&lt;/p>
+&lt;h3 id="19h50-à-20h10--ocpsoft-prettytime">19h50 à 20h10 : OcpSoft PrettyTime&lt;/h3>
+&lt;p>Si vous voulez avoir de jolies dates style &amp;ldquo;3 days ago&amp;rdquo; très webdeuesques, PrettyTime vient à votre secours.&lt;/p></description></item><item><title>Soirée Camel et ServiceMix</title><link>https://www.parisjug.org/events/2011/05-10-camel-servicemix/</link><pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/05-10-camel-servicemix/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 10 Mai 2011&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
@@ -319,7 +328,17 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;figure class="sponsor-gold-svg-logo">&lt;img src="https://www.parisjug.org/img/sponsors/2011/fusesourceLogoBuffet.JPG"
  alt="Fuse Source">
 &lt;/figure>
-&lt;/p></description></item><item><title>Les BRMS (Business Rules Management System) ou plus simplement les moteurs de règles</title><link>https://www.parisjug.org/events/2010/11-09-moteur-de-regles/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/11-09-moteur-de-regles/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;/p>
+&lt;h3 id="21h05-à-22h00-deuxième-partie">21h05 à 22h00: Deuxième partie&lt;/h3>
+&lt;ul>
+&lt;li>Making of the demo solution&lt;/li>
+&lt;li>Transpose it into camel DSL language&lt;/li>
+&lt;li>Coding of WebService (using Apache CXF), DAO and Persistence layer (Spring + Hibernate JPA) and Web layer (Apache Wicket),&lt;/li>
+&lt;li>Development of Camel routes,&lt;/li>
+&lt;li>Packaging and Deployment&lt;/li>
+&lt;li>Demo&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Intervenant&lt;/strong> : &lt;a href="https://www.parisjug.org/speakers/charles-moulliard/">Charles Moulliard&lt;/a>&lt;/p></description></item><item><title>Les BRMS (Business Rules Management System) ou plus simplement les moteurs de règles</title><link>https://www.parisjug.org/events/2010/11-09-moteur-de-regles/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/11-09-moteur-de-regles/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 9 novembre 2010&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>

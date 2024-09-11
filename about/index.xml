@@ -25,7 +25,13 @@ L&amp;rsquo;adresse exacte pouvant évoluer suivant le nombre de participants. P
 &lt;h2 id="format-des-logos-pour-les-sponsors">Format des logos (pour les sponsors)&lt;/h2>
 &lt;h3 id="les-sources">Les sources&lt;/h3>
 &lt;p>Les sponsors ont accès à des espaces d&amp;rsquo;affichage.&lt;/p>
-&lt;p>Nous utilisons pour cela un rectangle de ratio &lt;code>2:1&lt;/code> :&lt;/p></description></item><item><title>Donner une présentation</title><link>https://www.parisjug.org/about/give-a-talk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/give-a-talk/</guid><description>&lt;h2 id="proposer-une-présentation">Proposer une présentation&lt;/h2>
+&lt;p>Nous utilisons pour cela un rectangle de ratio &lt;code>2:1&lt;/code> :&lt;/p>
+&lt;ul>
+&lt;li>largeur : 600 pixels maximum&lt;/li>
+&lt;li>hauteur : 300 pixels maximum&lt;/li>
+&lt;/ul>
+&lt;p>Les impressions, site (page des présentation), mail et présentation sont sur fond blanc.
+Dans le site le panel sponsors est sur fond gris, un fond transparent est donc préférable.&lt;/p></description></item><item><title>Donner une présentation</title><link>https://www.parisjug.org/about/give-a-talk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/give-a-talk/</guid><description>&lt;h2 id="proposer-une-présentation">Proposer une présentation&lt;/h2>
 &lt;p>Le Paris Java User Group est l&amp;rsquo;endroit idéal pour venir présenter une nouvelle technologie, un framework ou un logiciel (open source ou commercial), une méthode d&amp;rsquo;analyse, de test, de programmation, d&amp;rsquo;enseignement, de concepts architecturaux, de retour d&amp;rsquo;expériences… en fait, tout ce qui attrait à Java (au sens large).
 Nous avons donc besoin d&amp;rsquo;experts dans tous ces domaines pour venir animer des sessions.
 Si vous êtes intéressés pour nous exposer votre expertise, contactez-nous en précisant les détails suivants :&lt;/p></description></item><item><title>Les sponsors du JUG</title><link>https://www.parisjug.org/about/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/sponsors/</guid><description>&lt;h2 id="sponsors-platinium">Sponsors Platinium&lt;/h2>
@@ -35,4 +41,12 @@ Si vous êtes intéressés pour nous exposer votre expertise, contactez-nous en 
 &lt;/figure>
 
 &lt;p>Depuis 2011, Agorapulse propose une solution de Social Media Management, pour aider les marques, entreprises et agences à gérer efficacement leur présence sur les réseaux sociaux.&lt;/p>
-&lt;p>Afin de supporter sa croissance (plus de 8 000 clients), la plate-forme technique s&amp;rsquo;appuie sur AWS pour l&amp;rsquo;infra, Angular pour le front et Java pour le back, notamment le framework Micronaut.&lt;/p></description></item></channel></rss>
+&lt;p>Afin de supporter sa croissance (plus de 8 000 clients), la plate-forme technique s&amp;rsquo;appuie sur AWS pour l&amp;rsquo;infra, Angular pour le front et Java pour le back, notamment le framework Micronaut.&lt;/p>
+&lt;p>&lt;a href="https://www.agorapulse.com">Site Web&lt;/a> - &lt;a href="https://medium.com/agorapulse-stories/tech/home">Blog technique&lt;/a>&lt;/p>
+&lt;h3 id="mirakl">Mirakl&lt;/h3>
+&lt;figure class="sponsor-svg-logo">&lt;img src="https://www.parisjug.org/img/sponsors/2024/mirakl.svg"
+ alt="Mirakl">
+&lt;/figure>
+
+&lt;p>Nous développons une solution logicielle de marketplace en SaaS qui façonne l’e-commerce de demain.
+Déjà utilisée par des clients comme Carrefour, Darty, Galeries Lafayette ou Macy&amp;rsquo;s, notre solution est développée par une équipe technique expérimentée pour supporter de fortes charges et volumétries de données en s’appuyant principalement sur les technologies Java, Go, PostgreSQL, Kafka, Elasticsearch…&lt;/p></description></item></channel></rss>
