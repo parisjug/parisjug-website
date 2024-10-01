@@ -42,7 +42,7 @@ Par [Alban Clevy]({{< ref "/speakers/alban-clevy" >}}) et [Hervé Letourneur]({{
 
 {{< figure src="/img/sponsors/2024/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
 
-### 21h00 : API REST: CRUDP du endPoint à la BDD
+### 21h00 : API REST CRUDP du endPoint à la BDD
 
 Dans cette présentation, on va développer un CRUDP de A à Z (Create, Read, Update, Delete, Patch) pour une resource.
 L'implémentation se base sur spring-boot-starter-web, spring-boot-starter-data-jpa et spring-boot-starter-validation.
