@@ -1314,24 +1314,7 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;p>Cette année, le Paris JUG change de salle. Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Java 8 l'API Stream</title><link>https://www.parisjug.org/events/2014/10-14-java8-stream/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/10-14-java8-stream/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 14 octobre 2014&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="photos">Photos&lt;/h2>
-&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131930460@N04/albums/72157648438417527" title="Soirée Java 8 l&amp;#39;API Stream">&lt;img src="https://live.staticflickr.com/3956/15573915152_1d839bb48c_h.jpg" width="640" height="480" alt="Soirée Java 8 l&amp;#39;API Stream">&lt;/a>&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">&lt;/script>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---20h25--java-8--lapi-stream">19h30 - 20h25 : Java 8 : l&amp;rsquo;API Stream&lt;/h3>
-&lt;p>Java 8 est la, on en parle au présent. La nouveauté majeure de Java 8 est bien sûr l&amp;rsquo;introduction des lambda expressions. Cette introduction n&amp;rsquo;aurait pas été utile si l&amp;rsquo;API Collection n&amp;rsquo;avait été revue. Cette révision s&amp;rsquo;appelle l&amp;rsquo;API Stream, qui, ajoutée à la notion de Collector, rend un peu vieillot notre bon vieux pattern Iterator. le but est de présenter les patterns construits sur les Streams, et de montrer sur de nombreux exemples, simples et complexes, les nouveaux patterns proposés par cette API. On parlera patterns, parallélisation, implémentation et performances. On montrera du code et du live coding.&lt;/p></description></item><item><title>Soirée Cassandra</title><link>https://www.parisjug.org/events/2015/02-10-cassandra/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/02-10-cassandra/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Cassandra</title><link>https://www.parisjug.org/events/2015/02-10-cassandra/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/02-10-cassandra/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 10 février 2015&lt;/li>
 &lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
@@ -1381,7 +1364,24 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
 &lt;h3 id="19h30---20h25--ternjava--utilisation-du-moteur-dinférence-javascript-tern-dans-eclipse">19h30 - 20h25 : tern.java : utilisation du moteur d&amp;rsquo;inférence JavaScript tern dans Eclipse&lt;/h3>
-&lt;p>Imaginez la complétion, la validation, la navigation, le refactoring JavaScript disponibles dans votre éditeur de code préféré pour jQuery, AngularJS, node.js ou autres frameworks JavaScript.&lt;/p></description></item><item><title>Soirée Cloud First sur la Google Plateform</title><link>https://www.parisjug.org/events/2014/09-09-google-cloud/</link><pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/09-09-google-cloud/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Imaginez la complétion, la validation, la navigation, le refactoring JavaScript disponibles dans votre éditeur de code préféré pour jQuery, AngularJS, node.js ou autres frameworks JavaScript.&lt;/p></description></item><item><title>Soirée Java 8 l'API Stream</title><link>https://www.parisjug.org/events/2014/10-14-java8-stream/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/10-14-java8-stream/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 14 octobre 2014&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
+&lt;ul>
+&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
+&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
+&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
+&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
+&lt;/ul>
+&lt;h2 id="photos">Photos&lt;/h2>
+&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131930460@N04/albums/72157648438417527" title="Soirée Java 8 l&amp;#39;API Stream">&lt;img src="https://live.staticflickr.com/3956/15573915152_1d839bb48c_h.jpg" width="640" height="480" alt="Soirée Java 8 l&amp;#39;API Stream">&lt;/a>&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">&lt;/script>
+&lt;h2 id="détails">Détails&lt;/h2>
+&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
+&lt;h3 id="19h30---20h25--java-8--lapi-stream">19h30 - 20h25 : Java 8 : l&amp;rsquo;API Stream&lt;/h3>
+&lt;p>Java 8 est la, on en parle au présent. La nouveauté majeure de Java 8 est bien sûr l&amp;rsquo;introduction des lambda expressions. Cette introduction n&amp;rsquo;aurait pas été utile si l&amp;rsquo;API Collection n&amp;rsquo;avait été revue. Cette révision s&amp;rsquo;appelle l&amp;rsquo;API Stream, qui, ajoutée à la notion de Collector, rend un peu vieillot notre bon vieux pattern Iterator. le but est de présenter les patterns construits sur les Streams, et de montrer sur de nombreux exemples, simples et complexes, les nouveaux patterns proposés par cette API. On parlera patterns, parallélisation, implémentation et performances. On montrera du code et du live coding.&lt;/p></description></item><item><title>Soirée Cloud First sur la Google Plateform</title><link>https://www.parisjug.org/events/2014/09-09-google-cloud/</link><pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/09-09-google-cloud/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 09 septembre 2014&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>

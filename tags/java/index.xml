@@ -258,7 +258,17 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
 &lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://www.parisjug.org/tags/young-blood/">Consulter toutes nos soirées Young Blood.&lt;/a>&lt;/p></description></item><item><title>Soirée Java 8 l'API Stream</title><link>https://www.parisjug.org/events/2014/10-14-java8-stream/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/10-14-java8-stream/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>&lt;a href="https://www.parisjug.org/tags/young-blood/">Consulter toutes nos soirées Young Blood.&lt;/a>&lt;/p></description></item><item><title>Soirée Young blood II</title><link>https://www.parisjug.org/events/2015/01-13-young-blood-2/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/01-13-young-blood-2/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 13 janvier 2015&lt;/li>
+&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 &lt;a href="https://www.eventbrite.fr/e/billets-soiree-young-blood-ii-15060592638">via ce lien&lt;/a>.&lt;/p>
+&lt;blockquote>
+&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Java 8 l'API Stream</title><link>https://www.parisjug.org/events/2014/10-14-java8-stream/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/10-14-java8-stream/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 14 octobre 2014&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
@@ -275,17 +285,7 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
 &lt;h3 id="19h30---20h25--java-8--lapi-stream">19h30 - 20h25 : Java 8 : l&amp;rsquo;API Stream&lt;/h3>
-&lt;p>Java 8 est la, on en parle au présent. La nouveauté majeure de Java 8 est bien sûr l&amp;rsquo;introduction des lambda expressions. Cette introduction n&amp;rsquo;aurait pas été utile si l&amp;rsquo;API Collection n&amp;rsquo;avait été revue. Cette révision s&amp;rsquo;appelle l&amp;rsquo;API Stream, qui, ajoutée à la notion de Collector, rend un peu vieillot notre bon vieux pattern Iterator. le but est de présenter les patterns construits sur les Streams, et de montrer sur de nombreux exemples, simples et complexes, les nouveaux patterns proposés par cette API. On parlera patterns, parallélisation, implémentation et performances. On montrera du code et du live coding.&lt;/p></description></item><item><title>Soirée Young blood II</title><link>https://www.parisjug.org/events/2015/01-13-young-blood-2/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/01-13-young-blood-2/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 13 janvier 2015&lt;/li>
-&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 &lt;a href="https://www.eventbrite.fr/e/billets-soiree-young-blood-ii-15060592638">via ce lien&lt;/a>.&lt;/p>
-&lt;blockquote>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Classloaders et JVM optimisation</title><link>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</link><pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;p>Java 8 est la, on en parle au présent. La nouveauté majeure de Java 8 est bien sûr l&amp;rsquo;introduction des lambda expressions. Cette introduction n&amp;rsquo;aurait pas été utile si l&amp;rsquo;API Collection n&amp;rsquo;avait été revue. Cette révision s&amp;rsquo;appelle l&amp;rsquo;API Stream, qui, ajoutée à la notion de Collector, rend un peu vieillot notre bon vieux pattern Iterator. le but est de présenter les patterns construits sur les Streams, et de montrer sur de nombreux exemples, simples et complexes, les nouveaux patterns proposés par cette API. On parlera patterns, parallélisation, implémentation et performances. On montrera du code et du live coding.&lt;/p></description></item><item><title>Soirée Classloaders et JVM optimisation</title><link>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</link><pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 12 décembre 2013&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
