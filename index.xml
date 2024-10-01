@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bienvenue on Paris Java User Group</title><link>https://www.parisjug.org/</link><description>Recent content in Bienvenue on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 10 Sep 2024 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Le Paris JUG</title><link>https://www.parisjug.org/about/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/introduction/</guid><description>&lt;h2 id="quest-ce-que-le-paris-jug-">Qu&amp;rsquo;est-ce que le Paris JUG ?&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bienvenue on Paris Java User Group</title><link>https://www.parisjug.org/</link><description>Recent content in Bienvenue on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 08 Oct 2024 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Le Paris JUG</title><link>https://www.parisjug.org/about/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/introduction/</guid><description>&lt;h2 id="quest-ce-que-le-paris-jug-">Qu&amp;rsquo;est-ce que le Paris JUG ?&lt;/h2>
 &lt;p>Le Paris Java User Group (JUG) est un groupe d&amp;rsquo;utilisateurs Java ayant pour but de réunir les acteurs du langage (professionnels, communautés open source, institutions, étudiants, enseignants&amp;hellip;) afin d&amp;rsquo;échanger des idées et de discuter des avancées technologiques de la plateforme Java. Ces réunions consistent en :&lt;/p>
 &lt;ul>
 &lt;li>des présentations techniques faites par des experts français ou internationaux,&lt;/li>
@@ -7,7 +7,19 @@
 &lt;li>ainsi qu&amp;rsquo;un buffet nous permettant de nous retrouver de manière informelle.&lt;/li>
 &lt;/ul>
 &lt;p>Nous nous rencontrons tous les deuxièmes mardi du mois à Paris.
-L&amp;rsquo;adresse exacte pouvant évoluer suivant le nombre de participants. Pour rester informé, abonnez-vous à la Mailing list.&lt;/p></description></item><item><title>Soirée JVM Warmup and Pattern Matching</title><link>https://www.parisjug.org/events/2024/09-10-azul/</link><pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/09-10-azul/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+L&amp;rsquo;adresse exacte pouvant évoluer suivant le nombre de participants. Pour rester informé, abonnez-vous à la Mailing list.&lt;/p></description></item><item><title>Soirée Javalin et CRUDP API REST</title><link>https://www.parisjug.org/events/2024/10-08-javalin-crudp/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/10-08-javalin-crudp/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 08 Octobre 2024 à 19h00&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/renault-digital/">les locaux de Renault Digital&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
+Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
+&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée JVM Warmup and Pattern Matching</title><link>https://www.parisjug.org/events/2024/09-10-azul/</link><pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/09-10-azul/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 10 Septembre 2024 à 19h00&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
@@ -2434,7 +2446,12 @@ leurs débuts, Alain Duval est directeur technique chez
 &lt;a href="http://www.objectif-informatique.fr/">OBJECTIF&lt;/a>. Intervenant en conseil
 &amp;amp; expertise JAVA EE, il se partage entre le développement des offres
 (Android, GWT2, Software Factory, Performance) auprès des clients &amp;amp;  la
-diffusion des connaissances en interne.&lt;/p></description></item><item><title>Alexandre Bertails</title><link>https://www.parisjug.org/speakers/alexandre-bertails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/alexandre-bertails/</guid><description>&lt;p>&lt;a href="http://www.bertails.org/">Alexandre&lt;/a> est ingénieur système et logiciel
+diffusion des connaissances en interne.&lt;/p></description></item><item><title>Alban Clevy</title><link>https://www.parisjug.org/speakers/alban-clevy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/alban-clevy/</guid><description>&lt;p>Cela va bientôt faire 20 ans qu&amp;rsquo;Alban pratique la programmation informatique.
+Il a commencé durant ses études par le langage C.
+Cela fait maintenant 18 qu&amp;rsquo;il&amp;rsquo; pratique le Java.
+Il a occupé différents postes au cours de ma carrière : développeur, chef de projet, responsable d’équipe, architecte, techlead.
+Toutes ces fonctions ont toujours été en rapport avec le langage Java et lui ont permis de développer un large éventail de compétence mise au service auprès de différents clients.
+Il est actuellement en mission en tant que tech lead à la Société Générale.&lt;/p></description></item><item><title>Alexandre Bertails</title><link>https://www.parisjug.org/speakers/alexandre-bertails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/alexandre-bertails/</guid><description>&lt;p>&lt;a href="http://www.bertails.org/">Alexandre&lt;/a> est ingénieur système et logiciel
 dans la Systems Team au &lt;a href="https://www.w3.org/">W3C MIT&lt;/a>. Il s&amp;rsquo;agit d&amp;rsquo;un
 groupe exceptionnel responsable de l&amp;rsquo;architecture globale du W3C. Nous
 développons et déployons les outils du W3C, ouverts aussi bien à la
@@ -2683,7 +2700,10 @@ depuis 2004.&lt;/p>
 d&amp;rsquo;applications JEE pour de grands comptes français et accompagne
 aujourd&amp;rsquo;hui des équipes à la mise en place de la méthodologie Scrum.&lt;/p>
 &lt;p>Sa quête actuelle ? Améliorer la productivité des développements Java.&lt;/p></description></item><item><title>Christian Nader</title><link>https://www.parisjug.org/speakers/christian-nader/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/christian-nader/</guid><description>&lt;p>Christian Nader, Libanais d&amp;rsquo;origine, 30 ans, Ingénieur SI - Decathlon&amp;quot;&lt;/p>
-&lt;p>&lt;a href="https://www.linkedin.com/in/christian-nader/">LinkedIn&lt;/a> - &lt;a href="https://github.com/cleitus">GitHub&lt;/a>&lt;/p></description></item><item><title>Cité Internationale Universitaire</title><link>https://www.parisjug.org/location/ciup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/location/ciup/</guid><description>&lt;h2 id="adresse">Adresse&lt;/h2>
+&lt;p>&lt;a href="https://www.linkedin.com/in/christian-nader/">LinkedIn&lt;/a> - &lt;a href="https://github.com/cleitus">GitHub&lt;/a>&lt;/p></description></item><item><title>Christophe Agoero</title><link>https://www.parisjug.org/speakers/christophe-agoero/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/christophe-agoero/</guid><description>&lt;p>Christophe Agoero est un ingénieur logiciel avec 20 ans d’expérience dans le développement logiciel, en tant que développeur, lead dev puis architecte actuellement dans le domaine des médias.
+Il a construit son expérience autour du Framework Spring puis Spring Boot.
+Il a une appétence pour la culture devops.
+Aujourd’hui, il travaille sur le développement et le maintient d&amp;rsquo;architecture logicielle.&lt;/p></description></item><item><title>Cité Internationale Universitaire</title><link>https://www.parisjug.org/location/ciup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/location/ciup/</guid><description>&lt;h2 id="adresse">Adresse&lt;/h2>
 &lt;p>&lt;a href="https://goo.gl/maps/SUmgpnDGLD57EV6L7">Boulevard Jourdan, 75014 Paris&lt;/a>&lt;/p>
 &lt;iframe scrolling="no" 
  marginheight="0" 
