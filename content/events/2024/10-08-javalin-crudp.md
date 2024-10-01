@@ -37,7 +37,7 @@ Dans cette présentation, nous vous partageons un morceau de notre boite à outi
 
 Par [Alban Clevy]({{< ref "/speakers/alban-clevy" >}}) et [Hervé Letourneur]({{< ref "/speakers/herve-letourneur.md" >}})
 
-### 20h30 : Buffet offert par [Renault Digitalo]({{< ref "/location/renault-digital.md" >}})
+### 20h30 : Buffet offert par [Renault Digital]({{< ref "/location/renault-digital.md" >}})
 
 
 {{< figure src="/img/sponsors/2024/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
