@@ -3,7 +3,7 @@ date: 2024-10-08T19:00:00
 publishDate: 2024-10-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/octobre-2024"
 tags:
-- Todo
+- Javalin API REST
 owner: Christophe
 title: "Soirée Javalin et CRUDP API REST"
 #videos:
@@ -37,7 +37,7 @@ Dans cette présentation, nous vous partageons un morceau de notre boite à outi
 
 Par [Alban Clevy]({{< ref "/speakers/alban-clevy" >}}) et [Hervé Letourneur]({{< ref "/speakers/herve-letourneur.md" >}})
 
-### 20h30 : Buffet offert par [todRenault Digitalo]({{< ref "/location/renault-digital.md" >}})
+### 20h30 : Buffet offert par [Renault Digitalo]({{< ref "/location/renault-digital.md" >}})
 
 
 {{< figure src="/img/sponsors/2024/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
