@@ -165,7 +165,7 @@ The `unsafe` shortcode allows to insert raw HTML content in Markdown pages:
 {{< /unsafe >}}
 ```
 
-## Third Parties 
+## Third Parties
 
 - [Mainroad](https://github.com/Vimux/Mainroad) (GLP 2.0)
 - [medium-zoom](https://github.com/francoischalifour/medium-zoom) (MIT)
