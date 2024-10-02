@@ -3,7 +3,9 @@ date: 2024-10-08T19:00:00
 publishDate: 2024-10-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/octobre-2024"
 tags:
-- Javalin API REST
+- architecture
+- spring
+- tools
 owner: Christophe
 title: "Soirée Javalin et CRUDP API REST"
 #videos:
@@ -29,10 +31,13 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h30 : Javalin
 
-Savez-vous planter un clou ? Il existe plusieurs outils pour le faire, un marteau, une cloueuse pneumatique, un tournevis.
+Savez-vous planter un clou ?
+Il existe plusieurs outils pour le faire, un marteau, une cloueuse pneumatique, un tournevis.
+
 C'est pareil en programmation, on peut faire beaucoup de choses avec de simples librairies ou seulement le langage, sans utiliser de gros frameworks.
 On garde le contrôle sur ce que l'on fait, on comprend mieux ce qui se passe et l'on apprend.
 Les temps de démarrages peuvent être réduits, l'empreinte mémoire également, et l'on diminue les coûts de maintenance.
+
 Dans cette présentation, nous vous partageons un morceau de notre boite à outils, parce que certains problèmes se règlent avec un tournevis et d'autres avec un marteau.
 
 Par [Alban Clevy]({{< ref "/speakers/alban-clevy" >}}) et [Hervé Letourneur]({{< ref "/speakers/herve-letourneur.md" >}})
@@ -45,10 +50,11 @@ Par [Alban Clevy]({{< ref "/speakers/alban-clevy" >}}) et [Hervé Letourneur]({{
 ### 21h00 : API REST CRUDP du endPoint à la BDD
 
 Dans cette présentation, on va développer un CRUDP de A à Z (Create, Read, Update, Delete, Patch) pour une resource.
-L'implémentation se base sur spring-boot-starter-web, spring-boot-starter-data-jpa et spring-boot-starter-validation.
-Une attention particulière est apportée pour le respect des normes REST (URI, méthode, body, code http).
-Est abordé la gestion des erreurs en utilisant la RFC 7807.
-La RFC 7807 préconise un body d'erreur à structure unique pour une API.
+
+L'implémentation se basera sur `spring-boot-starter-web`, `spring-boot-starter-data-jpa` et `spring-boot-starter-validation`.
+Une attention particulière sera apportée pour le respect des normes REST (URI, méthode, body, code http).
+Sera abordée la gestion des erreurs en utilisant la RFC 7807 qui préconise un body d'erreur à structure unique pour une API.
+
 On verra comment réaliser la validation des DTO par annotation et la gestion des erreurs métiers.
 La couche d'accès à la base peut paraitre triviale et pourtant le save et le delete peuvent être problématique.
 
