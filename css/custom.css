@@ -129,6 +129,7 @@ figure.sponsor-svg-logo img {
 /* Sponsor widget */
 .widget-sponsors .widget__list .widget__item {
     text-align: center;
+    border-bottom: 0px;
 }
 
 .widget-sponsors .widget__list .widget__item img {
