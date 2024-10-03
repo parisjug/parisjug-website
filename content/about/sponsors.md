@@ -82,8 +82,6 @@ Avec 18 000 collaborateurs dans 40 pays, Worldline fournit à ses clients des so
 
 - Digital thinkers & doers.
 - Cabinet de conseil et de réalisation it
-- School of product
-
 
 Une communauté de passionnés complices de vos succès.
 
