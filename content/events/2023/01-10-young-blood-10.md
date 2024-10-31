@@ -2,7 +2,7 @@
 date: 2023-01-10T19:00:00
 publishDate: 2023-01-03
 tags:
-- young blood
+- academy
 register: "https://eventbrite.fr/tickets-external?eid=504259292117&ref=etckt"
 title: "Soirée Young Blood X"
 videos:
@@ -27,7 +27,7 @@ Afin de les aider, nous leur proposons une présentation de 20mn, et un accompag
 
 Notre soirée Young Blood se déroule toujours dans une très bonne ambiance, nous organisons un vote du public et la meilleure présentation est donnée en quickie à Devoxx France.
 
-[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/academy" >}})
 
 ## Détails
 

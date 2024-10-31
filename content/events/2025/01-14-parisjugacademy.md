@@ -3,10 +3,9 @@ date: 2025-01-14T19:00:00
 publishDate: 2025-01-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/janvier-2025"
 tags:
-- young-blood
 - academy
 owner: Charles
-title: "Soirée ParisJug Academy 2025"
+title: "Soirée ParisJUG Academy 2025"
 #videos:
 ---
 
@@ -17,15 +16,15 @@ title: "Soirée ParisJug Academy 2025"
 
 > Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
 
-Comme chaque année depuis 10 ans, notre session du mois de janvier sera notre session Young Blood !
-Le principe du Young Blood est que les présentations sont faites par des personnes qui n'ont jamais présenté auparavant, du moins en public.
+Comme chaque année depuis 10 ans, notre session du mois de janvier sera notre session ParisJUG Academy !
+Le principe de l'Academy est que les présentations sont faites par des personnes qui n'ont jamais présenté auparavant, du moins en public.
 Notre but est de donner une première opportunité aux personnes qui souhaitent se lancer et de les aider dans leurs premiers pas.
 Parler en public peut paraître intimidant.
 Afin de les aider, nous leur proposons une présentation de 20mn, et un accompagnement dans la préparation avec des séances d'entraînement en privé et en petit comité.
 
-Notre soirée Young Blood se déroule toujours dans une très bonne ambiance, nous organisons un vote du public et la meilleure présentation est donnée en quickie à Devoxx France.
+Notre soirée ParisJUG Academy se déroule toujours dans une très bonne ambiance, nous organisons un vote du public et la meilleure présentation est donnée en quickie à Devoxx France.
 
-[Consulter toutes nos soirées précedentes.]({{< ref "/tags/young-blood" >}})
+[Consulter toutes nos soirées précedentes.]({{< ref "/tags/academy" >}})
 
 > Les **inscrits** à l'évènement non présents **5 minutes avant le début de la session**, soit à 19h25, verront leurs **places remises à disposition**.  
 Les **non inscrits** à l'évènement ne pourront donc y assister que sous réserve de **places disponibles** sur place **5 min avant le début de la session**, soit à 19h25.  

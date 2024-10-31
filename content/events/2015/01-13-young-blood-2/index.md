@@ -3,10 +3,10 @@ date: 2015-01-13T19:30:00
 publishDate: 2016-01-18
 register: "https://www.eventbrite.fr/e/billets-soiree-young-blood-ii-15060592638"
 tags:
+- academy
 - functional programming
 - java
 - spring
-- young blood
 title: "Soirée Young blood II"
 videos:
 - https://www.youtube.com/watch?v=ObdwEuA2Ffw
@@ -33,7 +33,7 @@ Les inscriptions seront ouvertes le jeudi avant l'évènement à 7h00 [via ce li
 > L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
 > **Toute inscription non confirmée ne sera pas prise en compte !**
 
-[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/academy" >}})
 
 ## Détails
 
