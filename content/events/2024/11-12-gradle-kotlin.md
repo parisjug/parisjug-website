@@ -1,7 +1,7 @@
 ---
 date: 2024-11-12T19:00:00
 publishDate: 2024-10-30
-#register: "https://www.helloasso.com/associations/bjpc/evenements/novembre-2024"
+register: "https://www.helloasso.com/associations/bjpc/evenements/novembre-2024"
 tags:
 - alternative languages
 owner: Sun
