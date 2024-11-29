@@ -3,8 +3,8 @@ date: 2024-12-10T19:00:00
 publishDate: 2024-11-29
 #register: "https://www.helloasso.com/associations/bjpc/evenements/decembre-2024"
 tags:
+- kubernetes
 - tools
-- Docker
 owner: Loic
 title: "Soirée Podman"
 #videos:
