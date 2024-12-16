@@ -4,6 +4,13 @@ publishDate: 2025-01-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/janvier-2025"
 tags:
 - academy
+- camunda
+- cucumber
+- open source
+- asynchronous test
+- test
+- IA
+- TDD
 owner: Charles
 title: "Soirée ParisJUG Academy 2025"
 #videos:
@@ -37,67 +44,57 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h00 : Accueil
 
-### 19h30 à 19h50 : Todo
+### 19h30 à 19h50 : Nous avons besoin de vous sur Quarkus Cucumber 
 
-...
+Cucumber est un framework majeur du paradigme BDD, Quarkus est un framework moderne qui essaie d'intégrer une extension pour pouvoir travailler avec Cucumber,  mais un bon chemin reste a faire: et c est pour cela que nous avons besoin de vous pour arriver stabiliser l'extension et la sortir de sa phase experimental;  
 
-...
+Par Said Boudjelda
 
-...
+### 19h50 à 20h10 : De la modélisation à la mise en production : Automatisation des workflows avec Camunda et Spring Boot
 
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+Dans ce talk, découvrez comment passer de la simple modélisation à la mise en production de workflows robustes en utilisant Camunda et Spring Boot. Nous explorerons chaque étape clé de l’automatisation des processus métier : de la conception des workflows à l'intégration technique, en passant par les bonnes pratiques pour optimiser la performance et la maintenance en production. Ce parcours pratique vous montrera comment Camunda s'intègre harmonieusement avec Spring Boot pour créer des applications capables d’orchestrer et de gérer des processus complexes, tout en garantissant une scalabilité et une agilité optimale. Que vous soyez développeur ou architecte, ce talk vous apportera des insights pour transformer vos workflows en atouts stratégiques pour votre entreprise
 
-### 19h50 à 20h10 : Garbage Collectors : Todo
 
-...
+Par Salah Eddine El Mamouni
 
-...
+### 20h10 à 20h30 : How to test asynchronous code
 
-...
+Writing tests for a code that combines business logic and asynchronous requests can be challenging. It's especially frustrating when invested effort results in flaky tests. 
 
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+During this session, you will discover how to handle asynchronous testing using tools like CountDownLatch, CompletableFuture, and ExecutorService, and gain a deeper understanding of how these tools can create robust and reliable tests.
 
-### 20h10 à 20h30 : Todo
+Additionally, we'll explore the art of refactoring to separate business logic with asynchronous requests to make your tests simpler."
 
-...
+Par Yifang Dong
 
-...
+### 20h30 : Buffet offert par [octo]({{< ref "/location/octo.md" >}})
 
-...
+[{{< figure src="/img/sponsors/2025/octo.svg" alt="octo" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/octo.md" >}})
 
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+### 20h30 à 20h50 : JPMS - Nightmares and Awakening	Java Platform Module System
 
-### 20h30 : Buffet
+Ce qui marche, ce qui marche moins bien, l'adoption de la communauté et perspectives
 
-### 20h30 à 20h50 : Todo
+Par Salathiel Genese Yimga Yimga 
 
-...
+### 20h50 à 21h10 : Reprenez le contrôle de votre stack back!
 
-...
+Les framework tel que Spring sont très puissant et permettent de très vite démarrer un projet. Mais c'est au prix de magie (introspection, proxy, génération) et donc de la maîtrise. Avec Globsframework, reprenez le contrôle et écrivez vous même du code générique pour votre métier.	"Bonjour,
 
-...
+par Marc Guiot
 
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+### 21h10 à 21h30 : Apprenez votre IA à faire du TDD
 
-### 20h50 à 21h10 : Todo
+La montée en puissance des assistants de code fournit aux développeurs de toutes nouvelles méthodes pour produire du code. Cependant, le constat est que code généré par les IA n’est pas garanti d’être correct ou de bonne qualité. Comment peut-on profiter du gain de productivité promis par les assistants de code sans compromettre la qualité ? En combinant l’utilisation des assistants de code avec la méthodologie traditionnelle de développement qu’est le TDD.
 
-...
+Dans ce talk, je présenterai des notions théoriques de GenAI pour réussir à faire du TDD piloté par l'IA :
 
-...
+- la mise en place d'un contexte pour avoir des suggestions appropriées
+- guider l'IA en définissant des interfaces et laisser l'assistant prendre la main sur le reste
 
-...
+Je présenterai ensuite un exemple de mise en place d’un agent Copilot capable d’assister dans les 3 phases du TDD : testing, coding et refactoring
 
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
-
-### 21h10 à 21h30 : Todo
-
-...
-
-...
-
-...
-
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+Par Manuel Camargo
 
 ### 21h40: Vote et remise des diplômes
 
@@ -107,6 +104,6 @@ Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
 
 ## Feedback
 
-{{< sponsor-section >}}
+
 
 {{% coc-section %}}
