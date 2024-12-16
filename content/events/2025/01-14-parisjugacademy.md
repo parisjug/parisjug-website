@@ -104,6 +104,6 @@ Par Manuel Camargo
 
 ## Feedback
 
-
+{{< sponsor-section >}}
 
 {{% coc-section %}}
