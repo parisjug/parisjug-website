@@ -11,6 +11,7 @@ tags:
 - test
 - IA
 - TDD
+- JPMS
 owner: Charles
 title: "Soirée ParisJUG Academy 2025"
 #videos:
