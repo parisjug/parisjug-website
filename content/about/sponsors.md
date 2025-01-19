@@ -25,6 +25,25 @@ Déjà utilisée par des clients comme Carrefour, Darty, Galeries Lafayette ou M
 
 Envie d'en savoir plus? Rendez-vous sur, visitez [www.mirakl.com](http://www.mirakl.com/).
 
+### OCTO Technology Part of Accenture
+
+{{< figure src="/img/sponsors/2024/octo.svg" alt="Octo Technology" class="sponsor-svg-logo" >}}
+
+- Digital thinkers & doers.
+- Cabinet de conseil et de réalisation it
+
+Une communauté de passionnés complices de vos succès.
+
+Au travers de nos expertises technologiques et méthodologiques, nous voulons être fiers de ce que nous réalisons pour nos clients, qui vont de la startup à l’entreprise multinationale.
+
+Une ambition qui nous rassemble.
+
+Dans un monde complexe aux ressources finies, nous recherchons ensemble de meilleures façons d’agir. Nous œuvrons à concevoir et à réaliser les produits numériques essentiels au progrès de nos clients et à l'émergence d’écosystèmes vertueux.
+
+Si OCTO a acquis au fil des ans un positionnement de leader d’opinion, c’est grâce à une politique éditoriale qui privilégie des contenus utiles, écrits par nos experts et mis en valeur par la créativité de nos équipes artistiques.
+
+[Site Web](https://octo.com/)
+
 ### Oxiane
 
 {{< figure src="/img/sponsors/2024/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}

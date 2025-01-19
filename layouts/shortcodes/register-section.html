@@ -3,7 +3,5 @@
     (isset .Page.Params "register")
 }}
 <h2 id="inscription">Inscription</h2>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe src="{{ .Page.Params.register }}" title="Registration" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="" allowtransparency="true" ></iframe>
-</div>
+<iframe id="haWidget" allowtransparency="true" src="{{ .Page.Params.register }}/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 {{- end }}

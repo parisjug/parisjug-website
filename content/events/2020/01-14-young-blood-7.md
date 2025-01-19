@@ -2,9 +2,9 @@
 date: 2020-01-12T19:00:00
 publishDate: 2020-01-10
 tags:
+- academy
 - ci/cd
 - performance
-- young blood
 title: "Young Blood VII"
 videos:
 - https://www.youtube.com/watch?v=LojNibExzcc
@@ -22,7 +22,7 @@ videos:
 
 La soirée young blood est une volonté d'offrir aux personnes n'ayant jamais fait de présentation de se lancer. Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez aussi le Parisjug sur Twitter([@parisjug](https://twitter.com/parisjug)) pour être informé rapidement.
 
-[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/academy" >}})
 
 ### Comment ce déroule un short talk young blood ?
 

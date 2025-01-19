@@ -8,7 +8,6 @@ https://www.42.fr/
 
 ## Adresse
 
-[96 Boulevard Bessières,
-Paris 75017, France](https://goo.gl/maps/GeFLGthoDFWEENH9A)
+[96 Boulevard Bessières, Paris 75017, France](https://goo.gl/maps/GeFLGthoDFWEENH9A)
 
-{{<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.9856572316253!2d2.3163123157839887!3d48.89661050596869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fa9e73a1ef7%3A0x4e808812dd36a382!2s42!5e0!3m2!1sfr!2sfr!4v1556471338427!5m2!1sfr!2sfr" style="border:0" allowfullscreen="" width="415" height="350" frameborder="0">}}
+{{< iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.9856572316253!2d2.3163123157839887!3d48.89661050596869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fa9e73a1ef7%3A0x4e808812dd36a382!2s42!5e0!3m2!1sfr!2sfr!4v1556471338427!5m2!1sfr!2sfr" width="100%" height="450px" >}}

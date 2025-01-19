@@ -2,9 +2,9 @@
 date: 2022-01-11T19:00:00
 publishDate: 2022-01-11
 tags:
+- academy
 - ci/cd
 - tools
-- young blood
 title: "Soirée Virtuelle : Young Blood IX"
 videos:
 - https://www.youtube.com/watch?v=MS-1f-5cfaM
@@ -21,7 +21,7 @@ videos:
 Comme chaque année depuis 9 ans, notre session du mois de janvier sera notre session Young Blood ! Le principe du Young Blood est que les présentations sont faites par des personnes qui n'ont jamais présenté auparavant, du moins en public. Notre but est de donner une première opportunité aux personnes qui souhaitent se lancer et de les aider dans leurs premiers pas. Parler en public peut paraître intimidant. Afin de les aider, nous leur proposons une présentation de 20mn, et un accompagnement dans la préparation avec des séances d'entraînement en privé et en petit comité.
 Notre soirée Young Blood se déroule toujours dans une très bonne ambiance, nous organisons un vote du public et la meilleure présentation est donnée en quickie à Devoxx France. Cette année, le Young Blood sera organisé en partenariat avec les mentors du meetup CraftsRecords.
 
-[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/academy" >}})
 
 ## Détails
 

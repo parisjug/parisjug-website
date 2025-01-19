@@ -3,11 +3,11 @@ date: 2024-01-09T19:00:00
 publishDate: 2024-01-03
 register: "https://eventbrite.fr/tickets-external?eid=789156467237&ref=etckt"
 tags:
+- academy
 - architecture
 - java
 - test
 - tools
-- young blood
 title: "Soirée ParisJug Academy 2024"
 videos:
 - https://www.youtube.com/watch?v=Disp1KJDKzA
@@ -61,7 +61,7 @@ Afin de les aider, nous leur proposons une présentation de 20mn, et un accompag
 
 Notre soirée Young Blood se déroule toujours dans une très bonne ambiance, nous organisons un vote du public et la meilleure présentation est donnée en quickie à Devoxx France.
 
-[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/academy" >}})
 
 ## Détails
 

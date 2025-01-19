@@ -12,4 +12,4 @@ Après la réunion nous nous retrouvons généralement pour un échange informel
 
 <!-- Partner event -->
 
-{{<figure src="devoxxfr-2024.png" alt="Devoxx France 2024" class="sponsor-svg-logo" width="400px" link="https://www.devoxx.fr" target="_blank">}}
+{{<figure src="devoxxfr-2025.png" alt="Devoxx France 2025" class="sponsor-svg-logo" width="400px" link="https://www.devoxx.fr" target="_blank">}}
