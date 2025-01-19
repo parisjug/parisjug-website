@@ -1,12 +1,13 @@
 ---
 date: 2025-02-11T19:00:00
-publishDate: 2025-02-11
+publishDate: 2025-01-18
 register: "https://www.helloasso.com/associations/bjpc/evenements/fevrier-2025"
 tags:
-# TODO
-# - 
-owner: Khan
-title: "Soirée de "
+- java
+- production
+- troubleshooting
+owner: Khanh
+title: "Soirée troubleshooting en production"
 #videos:
 ---
 
@@ -30,21 +31,20 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h00 : Accueil
 
-### 19h30 : Todo
+### 19h30 : Comment debugger en production ?
 
-...
+Qui n'a jamais rêvé de rajouter une ligne de log à la volée sans redémarrer son application ? Ne pas avoir à attendre la fin de la CI puis du redéploiement des pods en prod ! Le cycle de vie des applications ayant beaucoup évolué ces dernières années, celui de l'investigation de problèmes (debugging/troubleshooting) n'a pas été facilité par ces évolutions.
 
-...
+Cette présentation va montrer comment nous avons construit un debugger de production qui est utilisé au quotidien pour résoudre des problèmes de prod et même plus !
 
-...
+Nous verrons que grâce à l'API d'instrumentation que nous fournit la JVM, il est possible de collecter toutes les données nécessaires pour une investigation tout en conservant un overhead faible compatible avec la production. Vous pourrez ainsi développer vos propres outils qui vous aideront à gérer vos incidents en toute sérénité !
 
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+Par [Jean-Philippe Bempel]({{< ref "/speakers/jean-philippe-bempel.md" >}})
 
-<!--
-### 20h30 : Buffet offert par [todo]({{< ref "/location/todo.md" >}})
+### 20h30 : Buffet offert par [todo]({{< ref "/location/criteo.md" >}})
 
 [{{< figure src="/img/sponsors/2025/criteo.svg" alt="octo" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/criteo.md" >}}) 
--->
+
 
 ### 21h00 : Todo
 
@@ -54,7 +54,7 @@ Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
 
 ...
 
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+Par [Charles Sabourdin]({{< ref "/speakers/william-montaz.md" >}})
 
 ### 22h00 : 3ème mi-temps des juggers
 
