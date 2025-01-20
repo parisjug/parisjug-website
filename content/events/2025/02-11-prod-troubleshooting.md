@@ -1,6 +1,6 @@
 ---
 date: 2025-02-11T19:00:00
-publishDate: 2025-02-11
+publishDate: 2025-01-18
 register: "https://www.helloasso.com/associations/bjpc/evenements/fevrier-2025"
 tags:
 - big data
