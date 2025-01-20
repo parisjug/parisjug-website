@@ -41,7 +41,7 @@ Nous verrons que grâce à l'API d'instrumentation que nous fournit la JVM, il e
 
 Par [Jean-Philippe Bempel]({{< ref "/speakers/jean-philippe-bempel.md" >}})
 
-### 20h30 : Buffet offert par [todo]({{< ref "/location/criteo.md" >}})
+### 20h30 : Buffet offert par [Criteo]({{< ref "/location/criteo.md" >}})
 
 [{{< figure src="/img/sponsors/2025/criteo.svg" alt="octo" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/criteo.md" >}}) 
 
@@ -50,11 +50,9 @@ Par [Jean-Philippe Bempel]({{< ref "/speakers/jean-philippe-bempel.md" >}})
 
 ...
 
-...
 
-...
 
-Par [Charles Sabourdin]({{< ref "/speakers/william-montaz.md" >}})
+Par [William Montaz]({{< ref "/speakers/william-montaz.md" >}})
 
 ### 22h00 : 3ème mi-temps des juggers
 
