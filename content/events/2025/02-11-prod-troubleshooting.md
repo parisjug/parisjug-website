@@ -46,11 +46,15 @@ Par [Jean-Philippe Bempel]({{< ref "/speakers/jean-philippe-bempel.md" >}})
 [{{< figure src="/img/sponsors/2025/criteo.svg" alt="octo" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/criteo.md" >}}) 
 
 
-### 21h00 : Todo
+### 21h00 : Trouver la vérité dans un océan de complexité
 
-...
+"Houston, on a un problème de corruption de data sur nos jobs Spark ! Des rows qui manquent, des rows en double ! Help !"
 
+Ok, qu'est-ce que c'est que ça ? En plus, ça arrive au pire moment : en pleine migration de cluster. Forcément, c'est la première chose à laquelle les utilisateurs vont penser... et ils le font.
 
+C'est parti. On va trouver la root cause, sans tomber dans les biais cognitifs, sans a priori. Ça va nous prendre du temps, mais on y ira progressivement et de manière méthodique.
+
+Partagez avec moi ce replay d'un incident majeur survenu avec Spark. Vous ne connaissez pas Spark, aucun problème ! Le but ici est d'insister sur les démarches efficaces pour chercher (et trouver !) la root cause d'un problème, de l'appliquer à ce cas spécifique et d'en profiter pour réviser quelques points techniques sur le calcul distribué, l'idempotence, les fonctions de hash, les additions à virgule flottante... Accrochez vos ceintures !
 
 Par [William Montaz]({{< ref "/speakers/william-montaz.md" >}})
 
