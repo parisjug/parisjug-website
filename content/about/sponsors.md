@@ -97,7 +97,7 @@ Avec 18 000 collaborateurs dans 40 pays, Worldline fournit à ses clients des so
 
 ### i-Lead Consulting
 
-{{< figure src="/img/sponsors/2025/i-lead.svg" alt="i-Lead Consulting" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2025/ilead.svg" alt="i-Lead Consulting" class="sponsor-svg-logo" >}}
 
 Chez i-Lead Consulting, l’innovation est au cœur de notre mission. Depuis notre création, nous nous engageons à accompagner nos clients dans la transformation digitale en leur proposant des solutions technologiques de pointe, adaptées aux défis d’un monde en constante évolution. 
 
