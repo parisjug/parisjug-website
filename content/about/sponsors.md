@@ -95,6 +95,29 @@ Avec 18 000 collaborateurs dans 40 pays, Worldline fournit à ses clients des so
 
 [Site Web](https://www.worldline.com/)
 
+### i-Lead Consulting
+
+{{< figure src="/img/sponsors/2025/ilead.svg" alt="i-Lead Consulting" class="sponsor-svg-logo" >}}
+
+Chez i-Lead Consulting, l’innovation est au cœur de notre mission. Depuis notre création, nous nous engageons à accompagner nos clients dans la transformation digitale en leur proposant des solutions technologiques de pointe, adaptées aux défis d’un monde en constante évolution. 
+
+Notre expertise s’étend sur des domaines clés tels que le développement logiciel, les architectures Cloud, la data science, et surtout, les nouvelles technologies émergentes comme l’intelligence artificielle. Notre engagement envers les nouvelles technologies Dans un monde où l’innovation est un facteur déterminant de succès, i-Lead Consulting place les nouvelles technologies au centre de sa stratégie. 
+
+Nous explorons en permanence des solutions d’avant-garde pour répondre aux besoins spécifiques de nos clients, en mettant un accent particulier sur : 
+
+* L’intelligence artificielle (IA) : Développement d’applications intelligentes, automatisation des processus métiers, traitement du langage naturel (NLP), et systèmes prédictifs.
+* Le Cloud et la scalabilité : Conception d’infrastructures résilientes et évolutives grâce à des plateformes telles que GCP, AWS et Azure. 
+* L’innovation dans le développement logiciel : Utilisation des frameworks et des technologies modernes pour créer des solutions performantes, sécurisées et adaptées aux besoins métiers. 
+
+#### À propos de i-Lead Consulting 
+
+Avec une équipe d’experts passionnés, i-Lead Consulting aide ses clients à relever les défis complexes de leur transformation digitale. 
+
+Grâce à notre approche centrée sur l’humain et notre expertise en technologie, nous développons des solutions qui répondent aux enjeux de performance, d’évolutivité et d’innovation. Notre vision est simple : construire un avenir technologique meilleur grâce à l’innovation et au talent collectif. Nous sommes ravis de participer à cette formidable aventure avec le Paris JUG et de continuer à pousser les limites de la technologie pour offrir des solutions innovantes à la communauté et à nos partenaires. 
+
+[Site Web](https://www.i-leadconsulting.com/)
+
+
 ## Devenez sponsors
 
 Les réunions du Paris Java User Group sont gratuites et ouvertes à tous.
