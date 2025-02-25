@@ -3,8 +3,8 @@ date: 2025-03-11T19:00:00
 publishDate: 2025-02-25
 register: "https://www.helloasso.com/associations/bjpc/evenements/mars-2025"
 tags:
-# TODO
-# - 
+- ci/cd
+- tools
 owner: 
 title: "Soirée Dagger et clavier"
 #videos:
@@ -41,20 +41,18 @@ Par [Jean-Christophe Sirot]({{< ref "/speakers/jean-christophe-sirot.md" >}})
 
 [{{< figure src="/img/sponsors/2025/criteo.svg" alt="criteo" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/criteo.md" >}}) 
 
-### 21h00 : DIY et ergonomie : fabriquer son clavier de A à Z(erty)
+### 21h00 : DIY et ergonomie, fabriquer son clavier de A à Z(erty)
 
 Autant prévenir tout de suite, nous ne parlerons ni d’esthétique, ni des différentes sonorités que les claviers mécaniques peuvent faire pour irriter vos collègues de bureau. Non, nous parlerons ergonomie, électronique et DIY.
 
 Il y a 15 ans, j’ai commencé à avoir des douleurs aux mains et aux poignets.
-
-Je me suis alors intéressé à l’ergonomie de mon clavier en adoptant la disposition bépo, puis un clavier dit ergonomique quelques années plus tard. Mais récemment, j’ai décidé d’aller encore plus loin en réalisant mon propre clavier, un qui conviendra pleinement à mes attentes.
+Je me suis alors intéressé à l’ergonomie de mon clavier en adoptant la disposition bépo, puis un clavier dit ergonomique quelques années plus tard.
+Mais récemment, j’ai décidé d’aller encore plus loin en réalisant mon propre clavier, un qui conviendra pleinement à mes attentes.
 
 Durant ce talk, nous verrons comment fabriquer intégralement un clavier, de la prise USB jusqu’au bout de vos doigts.
-
 On discutera protocole HID class, microcontrôleurs et firmware, disposition et matrice de touches, layers et combos, mais aussi de tout ce dont vous pouvez rêver pour ajouter une touche de fun comme des leds, des encodeurs ou même des écrans, il n’y a pas de limite !
 
 Et si je vous disais que le tout coûte à peine le tiers du prix d’un clavier du commerce ?
-
 Venez vous laisser tenter par l’un des projets DIY les plus enrichissant que j’ai pu expérimenter !
 
 Par [Bruce Bujon]({{< ref "/speakers/bruce-bujon.md" >}})
