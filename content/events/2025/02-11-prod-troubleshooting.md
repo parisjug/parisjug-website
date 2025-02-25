@@ -8,7 +8,9 @@ tags:
 - performance
 owner: Khanh
 title: "Soirée troubleshooting en production"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=P7Fez0LhUzo
+- https://www.youtube.com/watch?v=MezQeQaYDww	
 ---
 
 ## Date et lieu
