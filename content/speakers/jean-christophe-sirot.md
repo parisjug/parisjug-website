@@ -3,10 +3,8 @@ title: "Jean Christophe Sirot"
 twitter: "jcsirot"
 ---
 
-Ingénieur logiciel, développeur java et membre de l'équipe du Paris JUG.
-Passionné par la sécurité et la cryptographie j'ai travaillé pendant 10
-ans dans le domaine de signature électronique et de la PKI. Très
-intéressé également par les usines logicielles et le "code propre",
-j'occupe aujourd'hui le poste d'expert Java chez Weborama. J'ai
-développé [la bibliothèque open source digest.js](https://github.com/jcsirot/digest.js)
-et quelques plugins pour Jenkins (custom-job-icon, Ansible et Quay.io Trigger).
+Staff engineer chez Decathlon. Passionné de cryptographie, mais également intéressé par 
+la CI/CD et le Cloud Native Computing. Je fais parti de l'équipe du ParisJUG et j'ai co-créé
+le meetup [Cloud Native Computing Paris](https://www.meetup.com/fr-FR/Cloud-Native-Computing-Paris/).
+Depuis 2024 je suis [Dagger Commander](https://dagger.io/commanders) en contribuant à Dagger 
+avec le SDK Java.
