@@ -3356,13 +3356,11 @@ software craftsmanship, appréciant les un-conferences, Java Champion,
 Jean a initié plusieurs projets open source :
 &lt;a href="https://github.com/quick-perf/quickperf">QuickPerf&lt;/a>, &lt;a href="https://github.com/quick-perf/maven-test-bench">Maven
 performance&lt;/a>, &lt;a href="https://github.com/quick-perf/sql-test-data-generator">SQL test
-data generator&lt;/a>.&lt;/p></description></item><item><title>Jean Christophe Sirot</title><link>https://www.parisjug.org/speakers/jean-christophe-sirot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/jean-christophe-sirot/</guid><description>&lt;p>Ingénieur logiciel, développeur java et membre de l&amp;rsquo;équipe du Paris JUG.
-Passionné par la sécurité et la cryptographie j&amp;rsquo;ai travaillé pendant 10
-ans dans le domaine de signature électronique et de la PKI. Très
-intéressé également par les usines logicielles et le &amp;ldquo;code propre&amp;rdquo;,
-j&amp;rsquo;occupe aujourd&amp;rsquo;hui le poste d&amp;rsquo;expert Java chez Weborama. J&amp;rsquo;ai
-développé &lt;a href="https://github.com/jcsirot/digest.js">la bibliothèque open source digest.js&lt;/a>
-et quelques plugins pour Jenkins (custom-job-icon, Ansible et Quay.io Trigger).&lt;/p></description></item><item><title>Jean François Arcand</title><link>https://www.parisjug.org/speakers/jean-francois-arcand/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/jean-francois-arcand/</guid><description>&lt;p>Jean-Francois Arcand est un employe de Sun Microsystems depuis 2000, et
+data generator&lt;/a>.&lt;/p></description></item><item><title>Jean Christophe Sirot</title><link>https://www.parisjug.org/speakers/jean-christophe-sirot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/jean-christophe-sirot/</guid><description>&lt;p>Staff engineer chez Decathlon. Passionné de cryptographie, mais également intéressé par
+la CI/CD et le Cloud Native Computing. Je fais parti de l&amp;rsquo;équipe du ParisJUG et j&amp;rsquo;ai co-créé
+le meetup &lt;a href="https://www.meetup.com/fr-FR/Cloud-Native-Computing-Paris/">Cloud Native Computing Paris&lt;/a>.
+Depuis 2024 je suis &lt;a href="https://dagger.io/commanders">Dagger Commander&lt;/a> en contribuant à Dagger
+avec le SDK Java.&lt;/p></description></item><item><title>Jean François Arcand</title><link>https://www.parisjug.org/speakers/jean-francois-arcand/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/jean-francois-arcand/</guid><description>&lt;p>Jean-Francois Arcand est un employe de Sun Microsystems depuis 2000, et
 a contribue a plusieurs projets comme Tomcat, Grizzly (dont il est le
 createur) Jetty, GlassFish ainsi que Jersey. Jean-Francois discutera du
 projet Atmosphere, qui permet de concevoir des applications Web
