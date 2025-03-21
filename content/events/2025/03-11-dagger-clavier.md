@@ -32,9 +32,9 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h30 : Dagger Modules : un couteau suisse pour moderniser vos pipelines de CI/CD
 
-Qui n'a jamais été démoralisé devant un pipeline de CI/CD bien complexe, impossible à maintenir, complexe à débuguer et dépendant de sa plateforme d'exécution ? En partant de ce constat que nous avons tous fait, Dagger renouvelle l'approche DevOps en permettant d'écrire des pipelines sous forme de code, exécutables localement, testables et portables sur n'importe quelle plateforme.
+Qui n'a jamais été démoralisé devant un pipeline de CI/CD bien complexe, dépendant de sa plateforme d'exécution, impossible à maintenir et compliqué à débuguer ? En partant de ce constat que nous avons tous fait, Dagger renouvelle l'approche DevOps en permettant d'écrire des pipelines sous forme de code, exécutables localement, testables et portables sur n'importe quelle plateforme.
 
-Dans cette session, je vous propose d'explorer les Dagger Functions et les Dagger Modules, qui permettent de créer et de partager des composants réutilisables et adaptables pour vos pipelines et ainsi de standardiser les workflows CI/CD. Et comme rien ne vaut un cas pratique, nous découvrirons comment transformer un workflow CI/CD existant en modules Dagger portables et maintenables tout en éliminant à la fois des kilomètres de fichiers YAML et le casse-tête de la dépendance aux plateformes spécifiques.
+Dans cette talk, je propose d'explorer ensemble les Dagger Functions et les Dagger Modules, qui permettent de créer et de partager des composants réutilisables et adaptables pour vos pipelines et ainsi de standardiser les workflows CI/CD, et en utilisant le SDK Java qui vient tout juste d'être officialisé. Et comme rien ne vaut un cas pratique, nous découvrirons comment écrire un workflow CI/CD avec des modules Dagger portables et maintenables, tout en éliminant le besoin de kilomètres de fichiers YAML et le casse-tête de la dépendance aux plateformes spécifiques.
 
 Cette présentation s'adresse aux développeurs et DevOps qui souhaitent moderniser leurs pratiques CI/CD tout en gardant le contrôle total sur leur code. Vous repartirez avec les clés pour transformer vos pipelines en composants modulaires, testables localement et utilisables partout.
 

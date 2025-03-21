@@ -117,6 +117,19 @@ Grâce à notre approche centrée sur l’humain et notre expertise en technolog
 
 [Site Web](https://www.i-leadconsulting.com/)
 
+### Capco
+
+{{< figure src="/img/sponsors/2025/capco.svg" alt="capco" class="sponsor-svg-logo" >}}
+
+Capco est un cabinet de conseil international en management et organisation spécialisé dans les services financiers.
+
+Capco se concentre sur les changements complexes de l’industrie financière. Plus de 5 000 experts aident les clients à se transformer, se développer et à améliorer leurs activités en agissant sur différents leviers : accroissement des revenus, amélioration de l’efficacité, maîtrise des coûts, gestion des risques, mise en conformité et gestion des changements réglementaires.
+
+Capco intervient auprès des acteurs de la banque, des marchés de capitaux, de la gestion de patrimoine et d’actifs. D'autres expertises sont développées, comme c’est le cas pour l’énergie aux Etats-Unis.
+
+Le groupe Capco est basé à Londres (Royaume-Uni) et possède 27 bureaux implantés dans les principaux centres financiers en Europe, Asie Pacifique, Amérique du Nord et Amérique du Sud. 
+
+[Site Web](https://www.capco.com/)
 
 ## Devenez sponsors
 

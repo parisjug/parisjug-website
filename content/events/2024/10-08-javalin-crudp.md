@@ -8,7 +8,9 @@ tags:
 - tools
 owner: Christophe
 title: "Soirée Javalin et CRUDP API REST"
-#videos:
+videos:
+  - https://youtu.be/4gpKmAt04l0
+  - https://youtu.be/TDa0cePfwIk
 ---
 
 ## Date et lieu
