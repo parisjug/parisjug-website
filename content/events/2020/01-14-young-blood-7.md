@@ -7,7 +7,6 @@ tags:
 - performance
 title: "Young Blood VII"
 videos:
-- https://www.youtube.com/watch?v=LojNibExzcc
 - https://www.youtube.com/watch?v=BUbrPTQeBj0
 - https://www.youtube.com/watch?v=VrlbUe_Livs
 - https://www.youtube.com/watch?v=zTh5RjInXiU
