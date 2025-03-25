@@ -6,7 +6,9 @@ tags:
 - alternative languages
 owner: Sun
 title: "Soirée Gradle et Kotlin"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=3yJau3Wr6Lg
+- https://www.youtube.com/watch?v=CXe4cFtsCxQ
 ---
 
 ## Date et lieu
