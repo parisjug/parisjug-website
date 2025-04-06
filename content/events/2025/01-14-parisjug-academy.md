@@ -12,7 +12,13 @@ tags:
 - tools
 owner: Charles
 title: "Soirée ParisJUG Academy 2025"
-#videos:
+videos:
+  - https://www.youtube.com/watch?v=p9OYRXPyEcI
+  - https://www.youtube.com/watch?v=_4tRB2eJ6oc
+  - https://www.youtube.com/watch?v=YOc8Onmq6sg
+  - https://www.youtube.com/watch?v=auQfUpJd9Aw
+  - https://www.youtube.com/watch?v=zZ23appntls
+  - https://www.youtube.com/watch?v=4UZ-DCRiB0U
 ---
 
 ## Date et lieu
