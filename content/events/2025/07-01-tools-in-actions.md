@@ -1,18 +1,18 @@
 ---
 date: 2025-06-10T19:00:00
-publishDate: 2025-06-30
+publishDate: 2026-06-30
 register: "https://www.helloasso.com/associations/bjpc/evenements/juin-2025"
 tags:
 # TODO
 # - 
-owner: 
-title: "Soirée "
+owner: Jean-Christophe
+title: "Soirée TIA "
 #videos:
 ---
 
 ## Date et lieu
 
-* Mardi 00 Juin 2025 à 19h00
+* Mardi 99 Juin 2025 à 19h00
 * Dans <!--[les locaux de todo]({{< ref "/location/todo.md" >}})-->
 
 > Les sessions sont filmées et le public est photographié.
