@@ -57,8 +57,6 @@ Qui n'a jamais été confronté à la complexité d'un cycle de développement l
 
 Durant cette session, nous explorerons comment GitLab révolutionne l'approche DevSecOps en offrant une plateforme unique couvrant l'intégralité du cycle de développement. Nous découvrirons également, comment l'intelligence artificielle avec GitLab Duo, au-delà de la simple génération de code, devient un véritable accélérateur de productivité dans GitLab : assistance contextuelle pour les développeurs, détection proactive des vulnérabilités, analyse des causes premières, et bien plus encore. 
 
-Est-ce ok pour toi ? N'hésite pas à me dire si besoin d'adapter quelque chose.
-
 Par [Salahddine Aberkan]({{< ref "/speakers/salahddine-aberkan.md" >}})
 
 ### 22h00 : 3ème mi-temps des juggers
