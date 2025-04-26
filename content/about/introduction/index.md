@@ -78,11 +78,17 @@ Ils s’occupent également des entrées, des vidéos et du site :
     <tr>
         <td><img src="loic.png" alt="Loïc" class="avatar"></td>
         <td><img src="mathieu.png" alt="Mathieu" class="avatar"></td>
-        <td><img src="sun.png" alt="Sun" class="avatar"></td>
+        <td><img src="pierre-yves.png" alt="Pierre-Yves" class="avatar"></td>
     </tr>
     <tr>
         <td>Loïc Ledoyen</td>
         <td>Mathieu Avril</td>
+        <td>Pierre-Yves Fourmond</td>
+    </tr>
+    <tr>
+        <td><img src="sun.png" alt="Sun" class="avatar"></td>
+    </tr>
+    <tr>
         <td>Sun Seng David Tan</td>
     </tr>
 </table>
