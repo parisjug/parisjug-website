@@ -7,7 +7,9 @@ tags:
 - tools
 owner: 
 title: "Soirée Dagger et clavier"
-#videos:
+videos:
+  - https://www.youtube.com/watch?v=71sEjYgUCW4
+  - https://www.youtube.com/watch?v=URWc1K9Fux8
 ---
 
 ## Date et lieu
