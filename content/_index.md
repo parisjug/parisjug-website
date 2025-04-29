@@ -11,5 +11,4 @@ Les réunions sont gratuites, ouvertes à tous et consistent en une présentatio
 Après la réunion nous nous retrouvons généralement pour un échange informel autour d'un verre et d'un petit buffet.
 
 <!-- Partner event -->
-
-{{<figure src="devoxxfr-2025.png" alt="Devoxx France 2025" class="sponsor-svg-logo" width="400px" link="https://www.devoxx.fr" target="_blank">}}
+<!-- {{<figure src="devoxxfr-2025.png" alt="Devoxx France 2025" class="sponsor-svg-logo" width="400px" link="https://www.devoxx.fr" target="_blank">}} -->
