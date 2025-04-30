@@ -90,6 +90,8 @@ Ils s’occupent également des entrées, des vidéos et du site :
     </tr>
     <tr>
         <td>Sun Seng David Tan</td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 {{< /unsafe >}}
