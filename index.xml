@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bienvenue on Paris Java User Group</title><link>https://www.parisjug.org/</link><description>Recent content in Bienvenue on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 11 Mar 2025 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Le Paris JUG</title><link>https://www.parisjug.org/about/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/introduction/</guid><description>&lt;h2 id="quest-ce-que-le-paris-jug-">Qu&amp;rsquo;est-ce que le Paris JUG ?&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bienvenue on Paris Java User Group</title><link>https://www.parisjug.org/</link><description>Recent content in Bienvenue on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 13 May 2025 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Le Paris JUG</title><link>https://www.parisjug.org/about/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/introduction/</guid><description>&lt;h2 id="quest-ce-que-le-paris-jug-">Qu&amp;rsquo;est-ce que le Paris JUG ?&lt;/h2>
 &lt;p>Le Paris Java User Group (JUG) est un groupe d&amp;rsquo;utilisateurs Java ayant pour but de réunir les acteurs du langage (professionnels, communautés open source, institutions, étudiants, enseignants&amp;hellip;) afin d&amp;rsquo;échanger des idées et de discuter des avancées technologiques de la plateforme Java. Ces réunions consistent en :&lt;/p>
 &lt;ul>
 &lt;li>des présentations techniques faites par des experts français ou internationaux,&lt;/li>
@@ -7,7 +7,20 @@
 &lt;li>ainsi qu&amp;rsquo;un buffet nous permettant de nous retrouver de manière informelle.&lt;/li>
 &lt;/ul>
 &lt;p>Nous nous rencontrons tous les deuxièmes mardi du mois à Paris.
-L&amp;rsquo;adresse exacte pouvant évoluer suivant le nombre de participants. Pour rester informé, abonnez-vous à la Mailing list.&lt;/p></description></item><item><title>Soirée Dagger et clavier</title><link>https://www.parisjug.org/events/2025/03-11-dagger-clavier/</link><pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2025/03-11-dagger-clavier/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+L&amp;rsquo;adresse exacte pouvant évoluer suivant le nombre de participants. Pour rester informé, abonnez-vous à la Mailing list.&lt;/p></description></item><item><title>Soirée Model Context Protocol (MCP) et SSDLC avec GitLab</title><link>https://www.parisjug.org/events/2025/05-13-mcp-devsecops/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2025/05-13-mcp-devsecops/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 13 Mai 2025 à 19h00&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agorapulse&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié.
+Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG.
+En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
+Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
+&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Dagger et clavier</title><link>https://www.parisjug.org/events/2025/03-11-dagger-clavier/</link><pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2025/03-11-dagger-clavier/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 11 Mars 2025 à 19h00&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/criteo/">les locaux de Criteo&lt;/a>&lt;/li>
@@ -15,8 +28,7 @@ L&amp;rsquo;adresse exacte pouvant évoluer suivant le nombre de participants. P
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG.
-En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -29,8 +41,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG.
-En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -43,8 +54,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG.
-En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;p>Comme chaque année depuis 12 ans, notre session du mois de janvier sera notre session ParisJUG Academy !
 Le principe de l&amp;rsquo;Academy est que les présentations sont faites par des personnes qui n&amp;rsquo;ont jamais présenté auparavant, du moins en public.
 Notre but est de donner une première opportunité aux personnes qui souhaitent se lancer et de les aider dans leurs premiers pas.
@@ -55,8 +65,7 @@ Afin de les aider, nous leur proposons une présentation de 20mn, et un accompag
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -67,8 +76,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agora Pulse&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -79,8 +87,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/renault-digital/">les locaux de Renault Digital&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -91,8 +98,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -103,8 +109,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/octo/">les locaux de Octo&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -115,8 +120,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/worldline/">les locaux de Worldline&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -127,8 +131,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/criteo/">les locaux de Criteo&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -139,15 +142,12 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/renault-digital/">les locaux de Renault Digital&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée ParisJug Academy 2024</title><link>https://www.parisjug.org/events/2024/01-09-young-blood-11/</link><pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/01-09-young-blood-11/</guid><description>&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée ParisJug Academy 2024</title><link>https://www.parisjug.org/events/2024/01-09-young-blood-11/</link><pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/01-09-young-blood-11/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>Mardi 09 janvier 2024 à 19h00&lt;/p>
@@ -157,8 +157,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;p>Comme chaque année depuis 11 ans, notre session du mois de janvier sera notre session Young Blood !
 Le principe du Young Blood est que les présentations sont faites par des personnes qui n&amp;rsquo;ont jamais présenté auparavant, du moins en public.
 Notre but est de donner une première opportunité aux personnes qui souhaitent se lancer et de les aider dans leurs premiers pas.
@@ -169,8 +168,7 @@ Afin de les aider, nous leur proposons une présentation de 20mn, et un accompag
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h--accueil">19h : Accueil&lt;/h3>
 &lt;h3 id="19h30--panama---foreign-function--memory">19h30 : Panama - Foreign Function &amp;amp; Memory&lt;/h3>
@@ -180,8 +178,7 @@ Afin de les aider, nous leur proposons une présentation de 20mn, et un accompag
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/sfeir/">les locaux de Sfeir&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -192,8 +189,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agorapulse&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -204,8 +200,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/renault-digital/">les locaux de Renault Digital&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -216,8 +211,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h--accueil">19h : Accueil&lt;/h3>
 &lt;h3 id="19h30--observabilité-et-opentelemetry-deux-bouleversements-du-monde-du-monitoring">19h30 : Observabilité et OpenTelemetry, deux bouleversements du monde du monitoring&lt;/h3>
@@ -229,8 +223,7 @@ Ensuite l’émergence du standard Open Source OpenTelemetry qui, s’il n’est
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h00--accueil">19h00 : Accueil&lt;/h3>
 &lt;h3 id="19h30--la-quête-de-bob-lappli-en-fin-de-cycle">19h30 : La quête de Bob, l&amp;rsquo;appli en fin de cycle&lt;/h3>
@@ -241,8 +234,7 @@ Mais Bob sait qu’il est fragile, tous ses devs ont quitté la boite depuis bie
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/criteo/">les locaux de Criteo&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="18h45-à-19h00-accueil">18h45 à 19h00: Accueil&lt;/h3>
 &lt;h3 id="19h30--graalvm-native-et-spring-boot-3">19h30 : GraalVM Native et Spring Boot 3&lt;/h3>
@@ -252,8 +244,7 @@ Mais Bob sait qu’il est fragile, tous ses devs ont quitté la boite depuis bie
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/datadog/">les locaux de Datadog&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;p>Pour cet évènement, &lt;a href="https://www.parisjug.org/speakers/sylvain-wallez/">Sylvain Wallez&lt;/a> nous fait l&amp;rsquo;honneur de venir depuis Toulouse.&lt;/p>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="18h45-à-19h00-accueil">18h45 à 19h00: Accueil&lt;/h3>
@@ -265,8 +256,7 @@ Plus léger, plus rapide, plus ergonomique et… généré à 99% !&lt;/p></desc
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agora Pulse&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;p>Comme chaque année depuis 10 ans, notre session du mois de janvier sera notre session Young Blood !
 Le principe du Young Blood est que les présentations sont faites par des personnes qui n&amp;rsquo;ont jamais présenté auparavant, du moins en public.
 Notre but est de donner une première opportunité aux personnes qui souhaitent se lancer et de les aider dans leurs premiers pas.
@@ -277,8 +267,7 @@ Afin de les aider, nous leur proposons une présentation de 20mn, et un accompag
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/microsoft/">les locaux de Microsoft&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -289,8 +278,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agora Pulse&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -301,8 +289,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/datadog/">les locaux de Datadog&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -313,8 +300,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/renault-digital/">les locaux de Renault Digital&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -325,8 +311,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/renault-digital/">les locaux de Renault Digital&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25, verront leur &lt;strong>place remise à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -336,8 +321,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux d&amp;rsquo;Agorapluse&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25, verront leur &lt;strong>place remise à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -378,8 +362,7 @@ Notre soirée Young Blood se déroule toujours dans une très bonne ambiance, no
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/renault-digital/">les locaux de Renault Digital&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1359,8 +1342,7 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;/ul>
 &lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 &lt;a href="http://www.eventbrite.fr/e/billets-soiree-tools-in-action-17409631677?aff=erelexporg">via ce lien&lt;/a>&lt;/p>
 &lt;blockquote>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
-&lt;/blockquote>
+&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Design pattern vs lambda</title><link>https://www.parisjug.org/events/2015/06-02-design-pattern-vs-lmabda/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/06-02-design-pattern-vs-lmabda/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
@@ -1370,8 +1352,7 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 &lt;a href="http://www.eventbrite.fr/e/billets-soiree-design-pattern-vs-lambda-17150456477?aff=erelexporg">via ce lien&lt;/a>.&lt;/p>
 &lt;p>Suivez aussi le Parisjug sur Twitter(&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
 &lt;blockquote>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
-&lt;/blockquote>
+&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Java/Azure</title><link>https://www.parisjug.org/events/2015/05-12-java-azure/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/05-12-java-azure/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
@@ -1379,8 +1360,7 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
-&lt;/blockquote>
+&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Rx Java &amp; Kafka</title><link>https://www.parisjug.org/events/2015/03-10-rx-java-kafka/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/03-10-rx-java-kafka/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
@@ -1389,8 +1369,7 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;/ul>
 &lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00.&lt;/p>
 &lt;blockquote>
-&lt;p>Cette année, le Paris JUG change de salle. Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
-&lt;/blockquote>
+&lt;p>Cette année, le Paris JUG change de salle. Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Cassandra</title><link>https://www.parisjug.org/events/2015/02-10-cassandra/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/02-10-cassandra/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
@@ -1399,8 +1378,7 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;/ul>
 &lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 &lt;a href="https://goo.gl/ezbpWR">via ce lien&lt;/a>.&lt;/p>
 &lt;blockquote>
-&lt;p>Cette année, le Paris JUG change de salle. Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
-&lt;/blockquote>
+&lt;p>Cette année, le Paris JUG change de salle. Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Young blood II</title><link>https://www.parisjug.org/events/2015/01-13-young-blood-2/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/01-13-young-blood-2/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
@@ -1409,8 +1387,7 @@ Bon alors c&amp;rsquo;est quoi jigsaw, je commencerai par rappeler pourquoi Java
 &lt;/ul>
 &lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 &lt;a href="https://www.eventbrite.fr/e/billets-soiree-young-blood-ii-15060592638">via ce lien&lt;/a>.&lt;/p>
 &lt;blockquote>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>
-&lt;/blockquote>
+&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Performance Java</title><link>https://www.parisjug.org/events/2014/12-09-performance-java/</link><pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/12-09-performance-java/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
@@ -1576,8 +1553,7 @@ La gestion transparente des mises à jour, la distribution de l&amp;rsquo;index 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1588,8 +1564,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1600,8 +1575,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1612,8 +1586,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1624,8 +1597,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1636,8 +1608,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1648,8 +1619,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1660,8 +1630,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1672,8 +1641,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1684,8 +1652,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1696,8 +1663,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1708,8 +1674,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1728,8 +1693,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1740,8 +1704,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1752,8 +1715,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1764,8 +1726,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1776,8 +1737,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1788,8 +1748,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1800,8 +1759,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
@@ -1812,14 +1770,13 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-19h45--devoxx-france">19h30 à 19h45 : Devoxx France&lt;/h3>
-&lt;h3 id="19h45-à-21h00--50e-des-cast-codeurshttpslescastcodeurscom-en-direct">19h45 à 21h00 : 50e des &lt;a href="https://lescastcodeurs.com/">Cast Codeurs&lt;/a> en direct&lt;/h3>
+&lt;h3 id="19h45-à-21h00--50e-des-cast-codeurs-en-direct">19h45 à 21h00 : 50e des &lt;a href="https://lescastcodeurs.com/">Cast Codeurs&lt;/a> en direct&lt;/h3>
 &lt;h3 id="21h00-à-21h30--surprise">21h00 à 21h30 : Surprise&lt;/h3>
-&lt;h3 id="21h30-à---3ème-mi-temps-des-juggers-au-café-canonhttpscafe-canonbusinesssite">21h30 à &amp;hellip; : 3ème mi-temps des juggers au &lt;a href="https://cafe-canon.business.site/">Café Canon&lt;/a>&lt;/h3>
+&lt;h3 id="21h30-à---3ème-mi-temps-des-juggers-au-café-canon">21h30 à &amp;hellip; : 3ème mi-temps des juggers au &lt;a href="https://cafe-canon.business.site/">Café Canon&lt;/a>&lt;/h3>
 &lt;h2>Sponsors de l'évènement&lt;/h2>
 
 &lt;h3>Platinium&lt;/h3>
@@ -1875,8 +1832,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-19h50--gpars">19h30 à 19h50 : GPars&lt;/h3>
@@ -1889,8 +1845,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;p>Que vous soyez junior ou consultant expérimenté, est-ce que vous ne vous êtes jamais interrogé sur votre avenir ?&lt;br>
 Développeur oui, mais jusqu&amp;rsquo;à quel âge ?&lt;br>
@@ -1902,8 +1857,7 @@ Nous prendrons les questions de la salle avec Google Moderator et Twitter (&lt;a
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;p>Le Challenge USI 2011 est un concours de code organisé par Octo Technologies dans le cadre de l’Université du SI 2011.&lt;br>
 Il s’agissait de coder une application de quizz.&lt;br>
@@ -1915,8 +1869,7 @@ La présentation de chaque projet se décomposera en trois parties :&lt;/p></des
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-22h00--la-mode-cloud-collections-dété">19h30 à 22h00 : La mode cloud, collections d&amp;rsquo;été&lt;/h3>
@@ -1935,8 +1888,7 @@ La présentation de chaque projet se décomposera en trois parties :&lt;/p></des
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-20h25--cdi">19h30 à 20h25 : CDI&lt;/h3>
@@ -1951,8 +1903,7 @@ We will finish the session by looking at what is coming in next in Java EE 7 and
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-20h30--première-partie">19h30 à 20h30 : Première partie&lt;/h3>
@@ -1983,8 +1934,7 @@ We will finish the session by looking at what is coming in next in Java EE 7 and
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-20h25--git-en-théorie">19h30 à 20h25 : Git en théorie&lt;/h3>
@@ -1997,8 +1947,7 @@ La différence était flagrante, je me sentais comme libéré d&amp;rsquo;un poi
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-22h00--evening-with-stephen-colbourne">19h30 à 22h00 : Evening with Stephen Colbourne&lt;/h3>
@@ -2012,8 +1961,7 @@ I plan on this being a discussion, not just a talk!&lt;/p></description></item><
 &lt;li>À la &lt;a href="https://www.parisjug.org/location/ciup/">Cité Internationale Universitaire&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;p>Pour ce 3e anniversaire du Paris JUG, pour cet évènement exceptionnel, soirée exceptionnelle.&lt;br>
 Nous serons à la &lt;a href="https://www.parisjug.org/location/ciup/">Cité Internationale Universitaire&lt;/a>, dans un grand amphithéâtre de 500 places.&lt;br>
@@ -2025,8 +1973,7 @@ En fait, pour être plus précis, l’accueil se fera à partir de 17h30.&lt;/p>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-22h00--comment-jai-mis-ma-suite-de-tests-au-régime-en-5-minutes-par-jour">19h30 à 22h00 : Comment j&amp;rsquo;ai mis ma suite de tests au régime en 5 minutes par jour&lt;/h3>
@@ -2038,8 +1985,7 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-22h00--les-annotations">19h30 à 22h00 : Les annotations&lt;/h3>
@@ -2054,8 +2000,7 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-19h55--ruby-on-rails">19h30 à 19h55 : Ruby On Rails&lt;/h3>
@@ -2065,8 +2010,7 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-22h00--les-brms-business-rules-management-system-ou-plus-simplement-les-moteurs-de-règles">19h30 à 22h00 : Les BRMS (Business Rules Management System) ou plus simplement les moteurs de règles&lt;/h3>
@@ -2082,8 +2026,7 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-20h25--nosql--des-concepts-à-la-réalité">19h30 à 20h25 : NoSQL : des concepts à la réalité&lt;/h3>
@@ -2097,8 +2040,7 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-22h00--lightweight-killer-apps-with-nothing-but-vanilla-java-ee-6">19h30 à 22h00 : Lightweight Killer Apps with Nothing But Vanilla Java EE 6&lt;/h3>
@@ -2108,8 +2050,7 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-20h25--java-performance-tuning---not-so-scary-after-all">19h30 à 20h25 : Java Performance Tuning - not so scary after all&lt;/h3>
@@ -2119,10 +2060,9 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--alexandre-bertailshahahugoshortcode39s1hbhb-nous-raconte-sa-nouvelle-vie-au-w3c">19h15 à 19h30 : &lt;a href="https://www.parisjug.org/speakers/alexandre-bertails/">Alexandre Bertails&lt;/a> nous raconte sa nouvelle vie au W3C&lt;/h3>
+&lt;h3 id="19h15-à-19h30--alexandre-bertails-nous-raconte-sa-nouvelle-vie-au-w3c">19h15 à 19h30 : &lt;a href="https://www.parisjug.org/speakers/alexandre-bertails/">Alexandre Bertails&lt;/a> nous raconte sa nouvelle vie au W3C&lt;/h3>
 &lt;h3 id="19h30-à-20h00--dvcs">19h30 à 20h00 : DVCS&lt;/h3>
 &lt;p>Comment rendre son développement stable avant de livrer ? Comment éviter que les développeurs se marchent sur les pieds quand ils codent ? Voila une partie des problèmes qu&amp;rsquo;il est nécessaire de régler avant de devenir fou. Ce fut pour moi le &amp;ldquo;coup de fouet&amp;rdquo; nécessaire pour apprendre, voici 2 ans, les outils de gestion de sources décentralisée (DVCS). Le temps nécessaire à la compréhension fut longue, freiné d&amp;rsquo;abord par mes 5 ans de pratique de Subversion, ensuite par des documentations et des présentations souvent focalisées sur des détails techniques.&lt;/p></description></item><item><title>Soirée Scala</title><link>https://www.parisjug.org/events/2010/04-13-scala/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/04-13-scala/</guid><description>&lt;figure class="sponsor-gold-svg-logo">&lt;img src="https://www.parisjug.org/events/2010/04-13-scala/newsflashlogo.png"
  alt="Scala">
@@ -2138,8 +2078,7 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-20h25--scala">19h30 à 20h25 : Scala&lt;/h3>
@@ -2149,8 +2088,7 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-20h25-puis-21h05-à-22h00--soirée-emmanuel-bernard">19h30 à 20h25 puis 21h05 à 22h00 : Soirée Emmanuel Bernard&lt;/h3>
@@ -2169,12 +2107,11 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Inscription fermée - 500 places&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="18h45-à-19h00--accueil">18h45 à 19h00 : Accueil&lt;/h3>
 &lt;h3 id="19h00-à-19h15--le-mot-de-léquipe">19h00 à 19h15 : Le mot de l&amp;rsquo;équipe&lt;/h3>
-&lt;h3 id="19h15-à-20h10--keynote-de-sacha-laboureyhahahugoshortcode36s2hbhb">19h15 à 20h10 : Keynote de &lt;a href="https://www.parisjug.org/speakers/sacha-labourey/">Sacha Labourey&lt;/a>&lt;/h3>
+&lt;h3 id="19h15-à-20h10--keynote-de-sacha-labourey">19h15 à 20h10 : Keynote de &lt;a href="https://www.parisjug.org/speakers/sacha-labourey/">Sacha Labourey&lt;/a>&lt;/h3>
 &lt;h3 id="20h10-à-20h45--lopen-source-en-france">20h10 à 20h45 : L&amp;rsquo;open source en France&lt;/h3>
 &lt;h3 id="comment-obeo-est-devenu-membre-stratégique-de-la-fondation-eclipse">Comment Obeo est devenu membre stratégique de la fondation Eclipse&lt;/h3>
 &lt;p>Créer un Business Model viable pour un éditeur d&amp;rsquo;outils de développement OpenSource n&amp;rsquo;est pas une tâche facile. Ce talk exposera comment la société Obeo a trouvé le sien et comment une implication forte dans la fondation Eclipse peut aider à avoir une visibilité internationale.&lt;/p></description></item><item><title>Soirée Performance</title><link>https://www.parisjug.org/events/2010/01-18-performance/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/01-18-performance/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
@@ -2183,8 +2120,7 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/sorbonne-paris-4/">les locaux de la Sorbonne Paris IV&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>
-&lt;/blockquote>
+&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
 &lt;h3 id="19h30-à-22h00--performance-tuning-with-cheap-drink-and-poor-tools">19h30 à 22h00 : Performance Tuning with Cheap Drink and Poor Tools&lt;/h3>
@@ -2416,7 +2352,6 @@ Plus le build est long, plus il faut de temps pour corriger un bug, plus il faut
 &lt;li>Mardi 8 avril 2008&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/espacelancelot/">les locaux de Espace Lancelot&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!-- raw HTML omitted -->
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h-à-19h15--accueil">19h à 19h15 : Accueil&lt;/h3>
 &lt;h3 id="19h15-à-20h00--the-box---les-performances-java">19h15 à 20h00 : The Box - Les performances Java&lt;/h3>
@@ -4275,18 +4210,9 @@ numérique.&lt;br>
 Cette envie de transmettre c&amp;rsquo;est aussi manifestée en m&amp;rsquo;amenant à prendre
 part à l&amp;rsquo;organisation de plusieurs MiXiT puis à cofonder le GDG Lyon.&lt;br>
 De manière parallèle, j&amp;rsquo;essaie de partager également par le biais
-d&amp;rsquo;articles sur mon blog et de vidéos sur ma chaîne YouTube.&lt;/p></description></item><item><title>Thierry Leinhardt</title><link>https://www.parisjug.org/speakers/thierry-lienhardt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/thierry-lienhardt/</guid><description>&lt;p>Thierry Lienhardt est le fondateur du centre de formation en sciences
-humaines
-&lt;!-- raw HTML omitted -->INGENIEUR HUMAIN&lt;!-- raw HTML omitted -->.
-Ingénieur de formation, il commence sa carrière en conduisant divers
-projets d?intégration de systèmes en France pour ensuite mener une
-carrière de chasseur de tête puis de Direction des ventes et
-d?entreprise durant 10 ans.&lt;/p>
-&lt;p>Auteur de la pièce de théâtre «&lt;a href="http://www.ingenieurhumain.fr/actualite.htm">Humain malgré
-lui&lt;/a>» qui se joue
-actuellement sur Paris et dans certaines entreprises sur demande, l est
-aujourd?hui un professionnel reconnu des sciences humaines en
-entreprise.&lt;/p></description></item><item><title>Thomas Cabrol</title><link>https://www.parisjug.org/speakers/thomas-cabrol/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/thomas-cabrol/</guid><description>&lt;p>Thomas is co-founder and Chief Data Scientist at [Dataiku]
+d&amp;rsquo;articles sur mon blog et de vidéos sur ma chaîne YouTube.&lt;/p></description></item><item><title>Thierry Leinhardt</title><link>https://www.parisjug.org/speakers/thierry-lienhardt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/thierry-lienhardt/</guid><description>&lt;p>Thierry Lienhardt est le fondateur du centre de formation en sciences humaines &lt;a href="http://www.ingenieurhumain.fr">INGENIEUR HUMAIN&lt;/a>.
+Ingénieur de formation, il commence sa carrière en conduisant divers projets d&amp;rsquo;intégration de systèmes en France pour ensuite mener une carrière de chasseur de tête puis de Direction des ventes et d&amp;rsquo;entreprise durant 10 ans.&lt;/p>
+&lt;p>Auteur de la pièce de théâtre «&lt;a href="http://www.ingenieurhumain.fr/actualite.htm">Humain malgré lui&lt;/a>» qui se joue actuellement sur Paris et dans certaines entreprises sur demande, il est aujourd&amp;rsquo;hui un professionnel reconnu des sciences humaines en entreprise.&lt;/p></description></item><item><title>Thomas Cabrol</title><link>https://www.parisjug.org/speakers/thomas-cabrol/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/thomas-cabrol/</guid><description>&lt;p>Thomas is co-founder and Chief Data Scientist at [Dataiku]
 (&lt;a href="https://dataiku.com/)">https://dataiku.com/)&lt;/a>, where we are building the Data Science Studio,
 the only all-in-one platform designed specifically for creating data
 science applications.&lt;br>

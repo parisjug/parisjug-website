@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Devops on Paris Java User Group</title><link>https://www.parisjug.org/tags/devops/</link><description>Recent content in Devops on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 13 Jun 2023 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée OpenTelemetry</title><link>https://www.parisjug.org/events/2023/06-13-opentelemetry/</link><pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/06-13-opentelemetry/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Devops on Paris Java User Group</title><link>https://www.parisjug.org/tags/devops/</link><description>Recent content in Devops on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 13 May 2025 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Model Context Protocol (MCP) et SSDLC avec GitLab</title><link>https://www.parisjug.org/events/2025/05-13-mcp-devsecops/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2025/05-13-mcp-devsecops/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 13 Mai 2025 à 19h00&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agorapulse&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié.
+Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG.
+En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
+Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
+&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée OpenTelemetry</title><link>https://www.parisjug.org/events/2023/06-13-opentelemetry/</link><pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/06-13-opentelemetry/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 13 Juin 2023 à 19h00&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;h2 id="détails">Détails&lt;/h2>
 &lt;h3 id="19h--accueil">19h : Accueil&lt;/h3>
 &lt;h3 id="19h30--observabilité-et-opentelemetry-deux-bouleversements-du-monde-du-monitoring">19h30 : Observabilité et OpenTelemetry, deux bouleversements du monde du monitoring&lt;/h3>
@@ -39,8 +51,7 @@ Ensuite l’émergence du standard Open Source OpenTelemetry qui, s’il n’est
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>
-&lt;/blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
 Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
