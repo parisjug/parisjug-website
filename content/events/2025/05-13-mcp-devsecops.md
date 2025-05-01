@@ -45,8 +45,7 @@ Je partagerai notre retour d’expérience sur son développement, les défis re
 
 Rejoignez-moi pour découvrir comment ce protocole ouvre la voie à des systèmes d’IA plus connectés et plus intelligents !
 
-Par [Zineb Bendhiba]({{< ref "/speakers/zineb-bendhiba.mdd" >}})
-
+Par [Zineb Bendhiba]({{< ref "/speakers/zineb-bendhiba.md" >}})
 
 ### 20h30 : Buffet offert par [Agorapulse]({{< ref "/location/agorapulse.md" >}})
 
@@ -60,7 +59,6 @@ Dans un contexte où les vulnérabilités se multiplient et où les standards de
 
 Durant cette session, nous explorerons comment GitLab révolutionne l'approche DevSecOps en offrant une plateforme unique couvrant l'intégralité du cycle de développement.
 Nous découvrirons également, comment l'intelligence artificielle avec GitLab Duo, au-delà de la simple génération de code, devient un véritable accélérateur de productivité dans GitLab : assistance contextuelle pour les développeurs, détection proactive des vulnérabilités, analyse des causes premières, et bien plus encore. 
-
 
 Par [Salahddine Aberkan]({{< ref "/speakers/salahddine-aberkan.md" >}})
 
