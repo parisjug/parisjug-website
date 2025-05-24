@@ -1,7 +1,7 @@
 ---
 date: 2025-06-10T19:00:00
 publishDate: 2025-05-25
-register: "https://www.helloasso.com/associations/bjpc/evenements/juin-2025"
+#register: "https://www.helloasso.com/associations/bjpc/evenements/juin-2025"
 tags:
 - gradle
 - develocity
