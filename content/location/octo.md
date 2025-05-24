@@ -1,5 +1,5 @@
 ---
-title: "Octo"
+title: "OCTO Technology"
 ---
 
 ## Adresse
