@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bienvenue on Paris Java User Group</title><link>https://www.parisjug.org/</link><description>Recent content in Bienvenue on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 13 May 2025 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Le Paris JUG</title><link>https://www.parisjug.org/about/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/introduction/</guid><description>&lt;h2 id="quest-ce-que-le-paris-jug-">Qu&amp;rsquo;est-ce que le Paris JUG ?&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bienvenue on Paris Java User Group</title><link>https://www.parisjug.org/</link><description>Recent content in Bienvenue on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 10 Jun 2025 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Le Paris JUG</title><link>https://www.parisjug.org/about/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/introduction/</guid><description>&lt;h2 id="quest-ce-que-le-paris-jug-">Qu&amp;rsquo;est-ce que le Paris JUG ?&lt;/h2>
 &lt;p>Le Paris Java User Group (JUG) est un groupe d&amp;rsquo;utilisateurs Java ayant pour but de réunir les acteurs du langage (professionnels, communautés open source, institutions, étudiants, enseignants&amp;hellip;) afin d&amp;rsquo;échanger des idées et de discuter des avancées technologiques de la plateforme Java. Ces réunions consistent en :&lt;/p>
 &lt;ul>
 &lt;li>des présentations techniques faites par des experts français ou internationaux,&lt;/li>
@@ -7,7 +7,20 @@
 &lt;li>ainsi qu&amp;rsquo;un buffet nous permettant de nous retrouver de manière informelle.&lt;/li>
 &lt;/ul>
 &lt;p>Nous nous rencontrons tous les deuxièmes mardi du mois à Paris.
-L&amp;rsquo;adresse exacte pouvant évoluer suivant le nombre de participants. Pour rester informé, abonnez-vous à la Mailing list.&lt;/p></description></item><item><title>Soirée Model Context Protocol (MCP) et SSDLC avec GitLab</title><link>https://www.parisjug.org/events/2025/05-13-mcp-devsecops/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2025/05-13-mcp-devsecops/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+L&amp;rsquo;adresse exacte pouvant évoluer suivant le nombre de participants. Pour rester informé, abonnez-vous à la Mailing list.&lt;/p></description></item><item><title>Soirée Gradle and Develocity</title><link>https://www.parisjug.org/events/2025/06-10-gradle-develocity/</link><pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2025/06-10-gradle-develocity/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
+&lt;ul>
+&lt;li>Mardi 10 Juin 2025 à 19h00&lt;/li>
+&lt;li>Dans &lt;a href="https://www.parisjug.org/location/octo/">les locaux d&amp;rsquo;OCTO Technology&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Les sessions sont filmées et le public est photographié.
+Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;association Paris JUG.
+En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
+Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
+&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Model Context Protocol (MCP) et SSDLC avec GitLab</title><link>https://www.parisjug.org/events/2025/05-13-mcp-devsecops/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2025/05-13-mcp-devsecops/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
 &lt;ul>
 &lt;li>Mardi 13 Mai 2025 à 19h00&lt;/li>
 &lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agorapulse&lt;/a>&lt;/li>
