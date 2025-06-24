@@ -65,13 +65,7 @@ Dans ce Tools in Action, nous verrons comment créer ses agents avec ADK, commen
 
 Par [Guillaume Laforge]({{< ref "/speakers/guillaume-laforge.md" >}})
 
-<!--
-### 21h30 : Todo
-
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
--->
-
-### 22h00 : 3ème mi-temps des juggers
+### 22h30 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
