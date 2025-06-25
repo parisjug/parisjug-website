@@ -8,7 +8,7 @@ tags:
 - CryptPad
 - ai
 owner: Jean-Christophe
-title: "Soirée Tools in Actions"
+title: "Soirée Tools in Action"
 #videos:
 ---
 
@@ -65,7 +65,7 @@ Dans ce Tools in Action, nous verrons comment créer ses agents avec ADK, commen
 
 Par [Guillaume Laforge]({{< ref "/speakers/guillaume-laforge.md" >}})
 
-### 22h30 : 3ème mi-temps des juggers
+### 21h30 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
