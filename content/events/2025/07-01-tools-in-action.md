@@ -1,5 +1,5 @@
 ---
-date: 2025-06-10T19:00:00
+date: 2025-07-01T19:00:00
 publishDate: 2025-06-20
 register: "https://www.helloasso.com/associations/bjpc/evenements/juillet-2025"
 tags:
