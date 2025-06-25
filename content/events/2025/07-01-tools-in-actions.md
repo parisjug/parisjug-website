@@ -1,6 +1,6 @@
 ---
 date: 2025-06-10T19:00:00
-publishDate: 2025-06-26
+publishDate: 2025-06-25
 register: "https://www.helloasso.com/associations/bjpc/evenements/juillet-2025"
 tags:
 - Linux
