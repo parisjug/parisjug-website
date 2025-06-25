@@ -418,7 +418,8 @@ Eclipse, développeur sur le plugin Checkstyle pour Eclipse, committer
 sur Apache Maven et PMC d&amp;rsquo;Apache Archiva. Fabrice a alors finalement
 décidé de se lancer dans l&amp;rsquo;aventure de l&amp;rsquo;open-source professionnel avec
 le projet &lt;a href="http://www.squale.org/">Squale&lt;/a> qu&amp;rsquo;il dirige depuis 2008 au
-sein de la société &lt;a href="http://www.qualixo.com/">Qualixo&lt;/a>.&lt;/p></description></item><item><title>Fabrice Sznajderman</title><link>https://www.parisjug.org/speakers/fabrice-sznajderman/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/fabrice-sznajderman/</guid><description>&lt;p>Fabrice Sznajderman est un développeur passionné à Zenika Paris.
+sein de la société &lt;a href="http://www.qualixo.com/">Qualixo&lt;/a>.&lt;/p></description></item><item><title>Fabrice Mouhartem</title><link>https://www.parisjug.org/speakers/fabrice-mouhartem/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/fabrice-mouhartem/</guid><description>&lt;p>Fabrice Mouhartem got a PhD in privacy-preserving cryptography, mainly designing provable constructions from both pre and post-quantum assumptions. Since then, he worked both in academia and industry and he is now part of the CryptPad squad at XWiki SAS as a R&amp;amp;D engineer.&lt;/p>
+&lt;p>CryptPad is an open-source end-to-end encrypted collaborative office suite distributed as a web application. Putting the security of end users first, Fabrice helps improving the security of CryptPad and also works on other improvements for CryptPad backend, especially scalability.&lt;/p></description></item><item><title>Fabrice Sznajderman</title><link>https://www.parisjug.org/speakers/fabrice-sznajderman/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/fabrice-sznajderman/</guid><description>&lt;p>Fabrice Sznajderman est un développeur passionné à Zenika Paris.
 Javaiste depuis plus de 15 ans, il s’intéresse particulièrement
 aujourd’hui au paradigme fonctionnel au travers du langage Scala et son
 écosystème. Dans sa ligne de mire, on retrouve également les
@@ -599,16 +600,9 @@ Il a une expérience variée de missions d&amp;rsquo;architecture et développem
 autour des technologies Java et notamment sur des chantiers
 d&amp;rsquo;intégration de systèmes (Web Services, Messaging, ESB, SOA). C&amp;rsquo;est
 également dans ce domaine qu&amp;rsquo;il exerce la majeure partie de son activité
-de formateur.&lt;/p></description></item><item><title>Guillaume Laforge</title><link>https://www.parisjug.org/speakers/guillaume-laforge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/guillaume-laforge/</guid><description>&lt;p>Guillaume Laforge est le chef de projet de
-&lt;a href="http://groovy.codehaus.org">Groovy&lt;/a>, un langage dynamique pour la JVM.
-Il est également VP Technology de la société
-&lt;a href="http://www.g2one.com">G2One&lt;/a>, Inc. qui propose des services
-professionnels autour de Groovy et &lt;a href="http://grails.org">Grails&lt;/a>
-(formation, support, conseil).&lt;/p>
-&lt;p>Guillaume est le Spec Lead de JSR-241, le Java Specification Request qui
-standardise le langage &lt;a href="http://groovy.codehaus.org">Groovy&lt;/a> au sein du
-Java Community Process. Enfin, Guillaume est le co-auteur du livre
-&amp;ldquo;Groovy in Action&amp;rdquo; aux éditions Manning.&lt;/p></description></item><item><title>Guillaume Smet</title><link>https://www.parisjug.org/speakers/guillaume-smet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/guillaume-smet/</guid><description>&lt;p>Principal Software Engineer - Red Hat&lt;/p>
+de formateur.&lt;/p></description></item><item><title>Guillaume Laforge</title><link>https://www.parisjug.org/speakers/guillaume-laforge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/guillaume-laforge/</guid><description>&lt;p>Bien connu de la communauté Java pour être le cofondateur du langage &lt;a href="http://groovy.codehaus.org">Apache Groovy&lt;/a> et faire parti des Java Champions.
+C&amp;rsquo;est aussi un des fondateurs du podcast &lt;a href="https://lescastcodeurs.com/">Les Cast Codeurs&lt;/a> qui enchante vos oreilles pendant des heures sur les dernières news de la tech !
+Côté boulot, Guillaume travaille pour Google depuis 9 ans, et il se focalise en particulier sur le sujet de la Generative AI.&lt;/p></description></item><item><title>Guillaume Smet</title><link>https://www.parisjug.org/speakers/guillaume-smet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/guillaume-smet/</guid><description>&lt;p>Principal Software Engineer - Red Hat&lt;/p>
 &lt;p>Après 13 années dans le service en logiciels libres à construire des applications métiers pour des chouettes clients, j&amp;rsquo;ai rejoint Red Hat il y a 5 ans pour travailler sur les technologies Hibernate - Hibernate Search et Hibernate Validator principalement. Embarqué dans l&amp;rsquo;aventure Quarkus il y a deux ans, j&amp;rsquo;en suis un des contributeurs principaux avec un gros focus sur le release management et les processes. A mes heures perdues, je travaille sur Quarkus GitHub App et le Quarkus Bot pour optimiser notre travail. Astuce utile pour me reconnaître dans la rue : je suis toujours en chemise à fleurs.&lt;/p></description></item><item><title>Henri Gomez</title><link>https://www.parisjug.org/speakers/henri-gomez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/henri-gomez/</guid><description>&lt;p>Henri Gomez travaille dans l’industrie logicielle depuis plus de 20 ans.
 Il a travaillé pour différentes sociétés développant des logiciels pour
 la finance, les flux financiers et le trading. Avant de rejoindre eXo,
@@ -699,7 +693,8 @@ a contribue a plusieurs projets comme Tomcat, Grizzly (dont il est le
 createur) Jetty, GlassFish ainsi que Jersey. Jean-Francois discutera du
 projet Atmosphere, qui permet de concevoir des applications Web
 asynchrones et REST (Comet, Asynchronous Web, Ajax Push) en utilisant
-les langages de programmation Java, Scala, JRuby et Groovy.&lt;/p></description></item><item><title>Jean-François Helie</title><link>https://www.parisjug.org/speakers/jean-francois-helie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/jean-francois-helie/</guid><description>&lt;p>Jean-François est Coach XP et Expert J2EE chez
+les langages de programmation Java, Scala, JRuby et Groovy.&lt;/p></description></item><item><title>Jean-Eudes Couignoux</title><link>https://www.parisjug.org/speakers/jean-eudes-couignoux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/jean-eudes-couignoux/</guid><description>&lt;p>Développeur java, je suis passionné par la création d’application, de la récupération du besoin à la mise en production.
+A la frontière entre dev et ops, je m’intéresse à la fois à l’écosystème de la JVM, aux problématiques de performance et de volumétrie, mais aussi aux outils permettant de faciliter le provisionning et le déploiement d’application.&lt;/p></description></item><item><title>Jean-François Helie</title><link>https://www.parisjug.org/speakers/jean-francois-helie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/jean-francois-helie/</guid><description>&lt;p>Jean-François est Coach XP et Expert J2EE chez
 &lt;a href="http://www.octo.com/">OCTO&lt;/a>. Il aide ses clients à réaliser leurs
 objectifs et à construire des équipes efficaces. Il intervient à la fois
 au niveau métier, maitrise d&amp;rsquo;ouvrage et maitrise d&amp;rsquo;oeuvre pour créer un
@@ -937,19 +932,8 @@ Lucian est partenaire intégrateur
 &lt;a href="http://elasticsearch.com/about/partners/">d’Elasticsearch&lt;/a> en France.
 Auparavant et avec une équipe de chercheurs de l’INRIA, Lucian a
 développé des logiciels pour l&amp;rsquo;intégration de données en temps réel chez
-Business Objects et SAP.&lt;/p></description></item><item><title>Ludovic Dubost</title><link>https://www.parisjug.org/speakers/ludovic-dubost/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/ludovic-dubost/</guid><description>&lt;p>A graduate of PolyTech (X90) and Telecom School in Paris, Ludovic Dubost
-started his career as a software architect for Netscape Communications
-Europe. He then joined NetValue as CTO. NetValue was one of the first
-French start-ups that went public. He left NetValue after the company
-was purchased by Nielsen/NetRatings. In 2004 Ludovic launched XWiki, the
-next generation wiki.&lt;br>
-For the past 12 years, Ludovic has managed XWiki SAS and has been
-involved in the development of XWiki open source software. This
-versatile platform helps companies and organizations all over the world
-organize, share, and collaborate on content. Complex custom projects
-have been implemented on top of XWiki, such as the USH public resources
-center, the EMC competitive intelligence system and Chronopost&amp;rsquo;s account
-opening system.&lt;/p></description></item><item><title>Malik Mangier</title><link>https://www.parisjug.org/speakers/malik-mangier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/malik-mangier/</guid><description>&lt;p>Malik est un Ingénieur Logiciel reconverti en Product Advocate pour
+Business Objects et SAP.&lt;/p></description></item><item><title>Ludovic Dubost</title><link>https://www.parisjug.org/speakers/ludovic-dubost/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/ludovic-dubost/</guid><description>&lt;p>Creator of XWiki and CEO of XWiki SAS, Ludovic I&amp;rsquo;m the gentle organizer of the XWiki SAS company for now 20 years.&lt;/p>
+&lt;p>XWiki SAS, a European company based in France and Romania with 70 employees, only building free &amp;amp; open-source software leads the development of the XWiki Software used by thousands of organizations and helps companies and organizations all over the world organize, share, and collaborate on content. XWiki also leads the development of &lt;a href="https://cryptpad.org">CryptPad&lt;/a>, the E2EE Real-time Collaborative Suite.&lt;/p></description></item><item><title>Malik Mangier</title><link>https://www.parisjug.org/speakers/malik-mangier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/malik-mangier/</guid><description>&lt;p>Malik est un Ingénieur Logiciel reconverti en Product Advocate pour
 Atlassian. La position de Product Advocate consiste à être au plus
 proche des développeurs et des outils Atlassian, afin d&amp;rsquo;offrir des
 solutions adaptées aux ingénieurs et à l&amp;rsquo;industrie; en associant des
@@ -1568,7 +1552,9 @@ SonarSource&lt;/p></description></item><item><title>Yannick Grenzinger</title><l
 mieux développer et améliorer leur flux de livraison de valeur en
 prod.&lt;br>
 Actuellement coach craft &amp;amp; flow chez BeNext.&lt;/p></description></item><item><title>Yassine Benabbas</title><link>https://www.parisjug.org/speakers/yassine-benabbas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/yassine-benabbas/</guid><description>&lt;p>Dr Yassine Benabbas is a DevRel @ Worldline and a teacher. He is a fullstack developer with 20 years of experience, including 10 years of mobile dev (native and cross platform). He loves sharing his passion about programming in different languages through lectures, blog posts and videos. He is a maintainer of the official technical Blog and YouTube channel of Worldline and he is a member of the Lille Android User Group.
-All his lectures materials are Open Sourced on GitHub and his blog posts are published on Medium, dev.to and blog.worldline.tech.&lt;/p></description></item><item><title>Zineb Bendhiba</title><link>https://www.parisjug.org/speakers/zineb-bendhiba/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/zineb-bendhiba/</guid><description>&lt;p>Zineb Bendhiba est Principal Software Engineer chez Red Hat.
+All his lectures materials are Open Sourced on GitHub and his blog posts are published on Medium, dev.to and blog.worldline.tech.&lt;/p></description></item><item><title>Youssef Nait Belkacem</title><link>https://www.parisjug.org/speakers/youssef-nait-belkacem/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/youssef-nait-belkacem/</guid><description>&lt;p>Ce que j’aime par-dessus tout, c’est transformer les idées de mes clients en projet concret.
+Mon terrain de jeu principal, c’est le backend, Java principalement mais j’ai aussi exploré d’autres langages de programmation par le passé C, C++, TypeScript, .. etc. Ma dernière découverte est Rust, je passe pas mal de temps à comprendre la philosophie derrière ce language fascinant
+Je prends beaucoup de plaisir à remettre du sens dans le code à travers le refactoring, à relever des défis de performance (usage des resources à disposition, délais de traitement etc) et à évangéliser tout ce qui touche au craftsmanship.&lt;/p></description></item><item><title>Zineb Bendhiba</title><link>https://www.parisjug.org/speakers/zineb-bendhiba/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/zineb-bendhiba/</guid><description>&lt;p>Zineb Bendhiba est Principal Software Engineer chez Red Hat.
 Elle est contributrice reconnue sur le projet open source &lt;a href="https://camel.apache.org/">Apache Camel&lt;/a>.
 Actuellement, elle contribue principalement au sous-projet &lt;a href="https://camel.apache.org/camel-quarkus/latest/">Camel Quarkus&lt;/a>.
 Avant de rejoindre Red Hat en 2020, elle a travaillé pendant 12 ans dans différentes entreprises.
