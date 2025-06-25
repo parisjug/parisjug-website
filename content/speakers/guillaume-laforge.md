@@ -3,14 +3,6 @@ title: "Guillaume Laforge"
 twitter: "glaforge"
 ---
 
-Guillaume Laforge est le chef de projet de
-[Groovy](http://groovy.codehaus.org), un langage dynamique pour la JVM.
-Il est également VP Technology de la société
-[G2One](http://www.g2one.com), Inc. qui propose des services
-professionnels autour de Groovy et [Grails](http://grails.org)
-(formation, support, conseil).
-
-Guillaume est le Spec Lead de JSR-241, le Java Specification Request qui
-standardise le langage [Groovy](http://groovy.codehaus.org) au sein du
-Java Community Process. Enfin, Guillaume est le co-auteur du livre
-"Groovy in Action" aux éditions Manning.
+Bien connu de la communauté Java pour être le cofondateur du langage [Apache Groovy](http://groovy.codehaus.org) et faire parti des Java Champions.
+C'est aussi un des fondateurs du podcast [Les Cast Codeurs](https://lescastcodeurs.com/) qui enchante vos oreilles pendant des heures sur les dernières news de la tech !
+Côté boulot, Guillaume travaille pour Google depuis 9 ans, et il se focalise en particulier sur le sujet de la Generative AI.
