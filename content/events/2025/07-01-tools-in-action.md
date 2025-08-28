@@ -3,10 +3,8 @@ date: 2025-07-01T19:00:00
 publishDate: 2025-06-20
 register: "https://www.helloasso.com/associations/bjpc/evenements/juillet-2025"
 tags:
-- Linux
-- io
-- CryptPad
 - ai
+- performance
 owner: Jean-Christophe
 title: "Soirée Tools in Action"
 #videos:
