@@ -1,173 +1,173 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alternative Languages on Paris Java User Group</title><link>https://www.parisjug.org/tags/alternative-languages/</link><description>Recent content in Alternative Languages on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 12 Nov 2024 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/alternative-languages/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Gradle et Kotlin</title><link>https://www.parisjug.org/events/2024/11-12-gradle-kotlin/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/11-12-gradle-kotlin/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 12 Novembre 2024 à 19h00&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/agorapulse/">les locaux de Agora Pulse&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alternative Languages on Paris Java User Group</title><link>https://www.parisjug.org/tags/alternative-languages/</link><description>Recent content in Alternative Languages on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 12 Nov 2024 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/alternative-languages/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Gradle et Kotlin</title><link>https://www.parisjug.org/events/2024/11-12-gradle-kotlin/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/11-12-gradle-kotlin/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 12 Novembre 2024 à 19h00&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/agorapulse/"&gt;les locaux de Agora Pulse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Rust pour les développeurs Java et le nouveau client Elasticsearch</title><link>https://www.parisjug.org/events/2023/02-07-elasticsearch-client-rust/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/02-07-elasticsearch-client-rust/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 7 Février 2023 à 19h00&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/datadog/">les locaux de Datadog&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;p>Pour cet évènement, &lt;a href="https://www.parisjug.org/speakers/sylvain-wallez/">Sylvain Wallez&lt;/a> nous fait l&amp;rsquo;honneur de venir depuis Toulouse.&lt;/p>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="18h45-à-19h00-accueil">18h45 à 19h00: Accueil&lt;/h3>
-&lt;h3 id="19h30--400-endpoints-dapi-et-2000-types--le-nouveau-client-java-pour-elasticsearch">19h30 : 400 endpoints d&amp;rsquo;API et 2000 types : le nouveau client Java pour Elasticsearch&lt;/h3>
-&lt;p>Un nouveau client Java pour Elasticsearch est sorti en octobre 2021.&lt;br>
-Plus léger, plus rapide, plus ergonomique et… généré à 99% !&lt;/p></description></item><item><title>Young blood V</title><link>https://www.parisjug.org/events/2018/01-09-young-blood-5/</link><pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/01-09-young-blood-5/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 9 Janvier 2018&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="comment-se-déroule-un-quicky-young-blood-">Comment se déroule un Quicky Young Blood ?&lt;/h2>
-&lt;ul>
-&lt;li>C&amp;rsquo;est une présentation entre 15 et 20 minutes avec 1 seul speaker.&lt;/li>
-&lt;li>Il y a 15 minutes de présentation et 5 minutes de questions&lt;/li>
-&lt;li>Le speaker répond aux questions pendant que le suivant s&amp;rsquo;installe.&lt;/li>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;p>&lt;a href="https://www.parisjug.org/tags/academy/">Consulter toutes nos soirées Young Blood.&lt;/a>&lt;/p></description></item><item><title>Soirée de COBOL aux MicroServices</title><link>https://www.parisjug.org/events/2016/05-10-cobol/</link><pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/05-10-cobol/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Mardi 10 Mai 2016&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Go Programming Language pour Javaïste</title><link>https://www.parisjug.org/events/2016/03-08-go/</link><pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/03-08-go/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Mardi 08 Mars 2016&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Tooling JS</title><link>https://www.parisjug.org/events/2014/11-18-tooling-javascript/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/11-18-tooling-javascript/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 18 novembre 2014&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---20h25--ternjava--utilisation-du-moteur-dinférence-javascript-tern-dans-eclipse">19h30 - 20h25 : tern.java : utilisation du moteur d&amp;rsquo;inférence JavaScript tern dans Eclipse&lt;/h3>
-&lt;p>Imaginez la complétion, la validation, la navigation, le refactoring JavaScript disponibles dans votre éditeur de code préféré pour jQuery, AngularJS, node.js ou autres frameworks JavaScript.&lt;/p></description></item><item><title>Soirée Dart vs. JS</title><link>https://www.parisjug.org/events/2013/06-11-dart/</link><pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/06-11-dart/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 11 juin 2013&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Rust pour les développeurs Java et le nouveau client Elasticsearch</title><link>https://www.parisjug.org/events/2023/02-07-elasticsearch-client-rust/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2023/02-07-elasticsearch-client-rust/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 7 Février 2023 à 19h00&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/datadog/"&gt;les locaux de Datadog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Pour cet évènement, &lt;a href="https://www.parisjug.org/speakers/sylvain-wallez/"&gt;Sylvain Wallez&lt;/a&gt; nous fait l&amp;rsquo;honneur de venir depuis Toulouse.&lt;/p&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="18h45-à-19h00-accueil"&gt;18h45 à 19h00: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30--400-endpoints-dapi-et-2000-types--le-nouveau-client-java-pour-elasticsearch"&gt;19h30 : 400 endpoints d&amp;rsquo;API et 2000 types : le nouveau client Java pour Elasticsearch&lt;/h3&gt;
+&lt;p&gt;Un nouveau client Java pour Elasticsearch est sorti en octobre 2021.&lt;br&gt;
+Plus léger, plus rapide, plus ergonomique et… généré à 99% !&lt;/p&gt;</description></item><item><title>Young blood V</title><link>https://www.parisjug.org/events/2018/01-09-young-blood-5/</link><pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/01-09-young-blood-5/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 9 Janvier 2018&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="comment-se-déroule-un-quicky-young-blood-"&gt;Comment se déroule un Quicky Young Blood ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;C&amp;rsquo;est une présentation entre 15 et 20 minutes avec 1 seul speaker.&lt;/li&gt;
+&lt;li&gt;Il y a 15 minutes de présentation et 5 minutes de questions&lt;/li&gt;
+&lt;li&gt;Le speaker répond aux questions pendant que le suivant s&amp;rsquo;installe.&lt;/li&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.parisjug.org/tags/academy/"&gt;Consulter toutes nos soirées Young Blood.&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Soirée de COBOL aux MicroServices</title><link>https://www.parisjug.org/events/2016/05-10-cobol/</link><pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/05-10-cobol/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mardi 10 Mai 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>Soirée Go Programming Language pour Javaïste</title><link>https://www.parisjug.org/events/2016/03-08-go/</link><pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/03-08-go/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mardi 08 Mars 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>Soirée Tooling JS</title><link>https://www.parisjug.org/events/2014/11-18-tooling-javascript/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/11-18-tooling-javascript/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 18 novembre 2014&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---20h25--ternjava--utilisation-du-moteur-dinférence-javascript-tern-dans-eclipse"&gt;19h30 - 20h25 : tern.java : utilisation du moteur d&amp;rsquo;inférence JavaScript tern dans Eclipse&lt;/h3&gt;
+&lt;p&gt;Imaginez la complétion, la validation, la navigation, le refactoring JavaScript disponibles dans votre éditeur de code préféré pour jQuery, AngularJS, node.js ou autres frameworks JavaScript.&lt;/p&gt;</description></item><item><title>Soirée Dart vs. JS</title><link>https://www.parisjug.org/events/2013/06-11-dart/</link><pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/06-11-dart/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 11 juin 2013&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Quickies</title><link>https://www.parisjug.org/events/2013/04-09-quickies/</link><pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/04-09-quickies/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 09 avril 2013&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée Quickies</title><link>https://www.parisjug.org/events/2013/04-09-quickies/</link><pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/04-09-quickies/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 09 avril 2013&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée JS</title><link>https://www.parisjug.org/events/2013/01-08-javascript/</link><pubDate>Tue, 08 Jan 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/01-08-javascript/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 12 février 2013&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée JS</title><link>https://www.parisjug.org/events/2013/01-08-javascript/</link><pubDate>Tue, 08 Jan 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/01-08-javascript/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 12 février 2013&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Evening with Stephen Colebourne</title><link>https://www.parisjug.org/events/2011/03-08-stephen-colebourne/</link><pubDate>Tue, 08 Mar 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/03-08-stephen-colebourne/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 08 Mars 2011&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-22h00--evening-with-stephen-colbourne">19h30 à 22h00 : Evening with Stephen Colbourne&lt;/h3>
-&lt;p>I&amp;rsquo;ll be spending some time on three themes.&lt;br>
-Firstly, the politics of Java, Oracle, Google and Apache - nothing too heavy, but an essential background to understand the events of the past few years.&lt;br>
-Secondly, dates, times and money in Java - covering Joda-Time, JSR-310/ThreeTen and Joda-Money.&lt;br>
-Finally, why I find Scala has issues and what Fantom has to teach us when looking for a better Java.&lt;br>
-I plan on this being a discussion, not just a talk!&lt;/p></description></item><item><title>Soirée Web et Java</title><link>https://www.parisjug.org/events/2010/10-12-web-et-java/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/10-12-web-et-java/</guid><description>&lt;figure class="sponsor-gold-svg-logo">&lt;img src="https://www.parisjug.org/events/2010/10-12-web-et-java/parisjugweb.png"
- alt="Zenexity">
-&lt;/figure>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Evening with Stephen Colebourne</title><link>https://www.parisjug.org/events/2011/03-08-stephen-colebourne/</link><pubDate>Tue, 08 Mar 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/03-08-stephen-colebourne/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 08 Mars 2011&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-22h00--evening-with-stephen-colbourne"&gt;19h30 à 22h00 : Evening with Stephen Colbourne&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ll be spending some time on three themes.&lt;br&gt;
+Firstly, the politics of Java, Oracle, Google and Apache - nothing too heavy, but an essential background to understand the events of the past few years.&lt;br&gt;
+Secondly, dates, times and money in Java - covering Joda-Time, JSR-310/ThreeTen and Joda-Money.&lt;br&gt;
+Finally, why I find Scala has issues and what Fantom has to teach us when looking for a better Java.&lt;br&gt;
+I plan on this being a discussion, not just a talk!&lt;/p&gt;</description></item><item><title>Soirée Web et Java</title><link>https://www.parisjug.org/events/2010/10-12-web-et-java/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/10-12-web-et-java/</guid><description>&lt;figure class="sponsor-gold-svg-logo"&gt;&lt;img src="https://www.parisjug.org/events/2010/10-12-web-et-java/parisjugweb.png"
+ alt="Zenexity"&gt;
+&lt;/figure&gt;
 
-&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 12 octobre 2010&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-19h55--ruby-on-rails">19h30 à 19h55 : Ruby On Rails&lt;/h3>
-&lt;p>Ruby on Rails, le célèbre framework web, vient de souffler sa sixième bougie et de sortir en version 3.0. Mais malgré sa grande popularité, ce framework reste méconnu de nombreux Javaistes. Dans cette présentation je vous présenterai les atouts de Rails et vous expliquerai pourquoi, après plus de 5 ans de Java, j&amp;rsquo;ai choisi privilégier ce framework pour le développement de mes applications web.&lt;/p></description></item><item><title>Soirée Scala</title><link>https://www.parisjug.org/events/2010/04-13-scala/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/04-13-scala/</guid><description>&lt;figure class="sponsor-gold-svg-logo">&lt;img src="https://www.parisjug.org/events/2010/04-13-scala/newsflashlogo.png"
- alt="Scala">
-&lt;/figure>
+&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 12 octobre 2010&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-19h55--ruby-on-rails"&gt;19h30 à 19h55 : Ruby On Rails&lt;/h3&gt;
+&lt;p&gt;Ruby on Rails, le célèbre framework web, vient de souffler sa sixième bougie et de sortir en version 3.0. Mais malgré sa grande popularité, ce framework reste méconnu de nombreux Javaistes. Dans cette présentation je vous présenterai les atouts de Rails et vous expliquerai pourquoi, après plus de 5 ans de Java, j&amp;rsquo;ai choisi privilégier ce framework pour le développement de mes applications web.&lt;/p&gt;</description></item><item><title>Soirée Scala</title><link>https://www.parisjug.org/events/2010/04-13-scala/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/04-13-scala/</guid><description>&lt;figure class="sponsor-gold-svg-logo"&gt;&lt;img src="https://www.parisjug.org/events/2010/04-13-scala/newsflashlogo.png"
+ alt="Scala"&gt;
+&lt;/figure&gt;
 
-&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;figure class="sponsor-gold-svg-logo">&lt;img src="https://www.parisjug.org/events/2010/04-13-scala/20100413scala.png"
- alt="Soirée Scala">
-&lt;/figure>
+&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;figure class="sponsor-gold-svg-logo"&gt;&lt;img src="https://www.parisjug.org/events/2010/04-13-scala/20100413scala.png"
+ alt="Soirée Scala"&gt;
+&lt;/figure&gt;
 
-&lt;ul>
-&lt;li>Mardi 11 mai 2010&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-20h25--scala">19h30 à 20h25 : Scala&lt;/h3>
-&lt;p>Scala est un language de programmation statiquement et fortement typé, qui integre, de manière conjointe, des concepts de la programmation fonctionnelle ainsi que ceux de l&amp;rsquo;orientation objet moderne moderne. Cette présentation vous offrira une introduction à ces concepts tout en mettant en exergue leurs bénéfices tant au niveau micro qu&amp;rsquo;au niveau de l&amp;rsquo;architecture. Aucun pré-requis en matière de programmation fonctionnelle ou de typage statique n&amp;rsquo;est indispensable pour suivre cette présentation.&lt;/p></description></item><item><title>Soirée Groovy</title><link>https://www.parisjug.org/events/2008/09-09-groovy/</link><pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/09-09-groovy/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 9 septembre 2008&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;li>148 participants&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-20h30--langage-dynamique-groovy-pour-la-jvm">19h30 à 20h30 : Langage dynamique Groovy pour la JVM&lt;/h3>
-&lt;p>Groovy est un langage dynamique pour la machine virtuelle Java, dont la syntaxe et les fonctionnalités sont très proches de celles de Java, mais apportant tout un tas de nouveautés qui permettent d&amp;rsquo;accroître la productivité des développements. Groovy s&amp;rsquo;intègre parfaitement avec du code Java, permet de simplifier nombre de tâches pénibles en Java et de réutiliser toutes nos connaissances, librairies JAR existantes, nos serveurs d&amp;rsquo;application habituels.&lt;/p></description></item></channel></rss>
+&lt;ul&gt;
+&lt;li&gt;Mardi 11 mai 2010&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h25--scala"&gt;19h30 à 20h25 : Scala&lt;/h3&gt;
+&lt;p&gt;Scala est un language de programmation statiquement et fortement typé, qui integre, de manière conjointe, des concepts de la programmation fonctionnelle ainsi que ceux de l&amp;rsquo;orientation objet moderne moderne. Cette présentation vous offrira une introduction à ces concepts tout en mettant en exergue leurs bénéfices tant au niveau micro qu&amp;rsquo;au niveau de l&amp;rsquo;architecture. Aucun pré-requis en matière de programmation fonctionnelle ou de typage statique n&amp;rsquo;est indispensable pour suivre cette présentation.&lt;/p&gt;</description></item><item><title>Soirée Groovy</title><link>https://www.parisjug.org/events/2008/09-09-groovy/</link><pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/09-09-groovy/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 9 septembre 2008&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;148 participants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h30--langage-dynamique-groovy-pour-la-jvm"&gt;19h30 à 20h30 : Langage dynamique Groovy pour la JVM&lt;/h3&gt;
+&lt;p&gt;Groovy est un langage dynamique pour la machine virtuelle Java, dont la syntaxe et les fonctionnalités sont très proches de celles de Java, mais apportant tout un tas de nouveautés qui permettent d&amp;rsquo;accroître la productivité des développements. Groovy s&amp;rsquo;intègre parfaitement avec du code Java, permet de simplifier nombre de tâches pénibles en Java et de réutiliser toutes nos connaissances, librairies JAR existantes, nos serveurs d&amp;rsquo;application habituels.&lt;/p&gt;</description></item></channel></rss>

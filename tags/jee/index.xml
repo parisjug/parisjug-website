@@ -1,234 +1,234 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jee on Paris Java User Group</title><link>https://www.parisjug.org/tags/jee/</link><description>Recent content in Jee on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 09 Feb 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/jee/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Virtuelle : Java server-side, 22 ans et toujours fringant !</title><link>https://www.parisjug.org/events/2021/02-09-java-server-side/</link><pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2021/02-09-java-server-side/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 9 Février 2021 à 19h00&lt;/li>
-&lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug">Twitch&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="18h45-à-19h00-accueil">18h45 à 19h00: Accueil&lt;/h3>
-&lt;h3 id="19h00-à-20h00--java-server-side-22-ans-et-toujours-fringant-">19h00 à 20h00 : Java server-side, 22 ans et toujours fringant !&lt;/h3>
-&lt;p>Pendant 20 ans, Java EE a évolué à un train sénatorial. Depuis une dizaine d&amp;rsquo;années, les applications se sont transformées pour devenir cloud-native. Java se trouve aujourd&amp;rsquo;hui contraint de s&amp;rsquo;adapter à ce nouveau contexte, en particulier pour fonctionner de manière optimum dans les infrastructures modernes basées sur Kubernetes:&lt;/p></description></item><item><title>Soirée Edson Yanaga</title><link>https://www.parisjug.org/events/2019/01-21-edson-yanaga/</link><pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/01-21-edson-yanaga/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 21 Janvier 2019&lt;/li>
-&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/red-hat/">Red Hat Paris&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Soirée exceptionnelle.&lt;/p>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---revisiting-effective-java-in-2019">19h30 - Revisiting Effective Java in 2019&lt;/h3>
-&lt;p>Joshua Bloch just gifted us with the 3rd edition of &amp;ldquo;Effective Java&amp;rdquo;, but almost 10 years have been past since the last edition.&lt;br>
-Now we have a whole generation of Java developers that could benefit from this knowledge - but lost the past wave.&lt;br>
-It&amp;rsquo;s about time to revisit all of this wonderful content, and upgrade your skills to the latest versions of the Java platform.&lt;br>
-Join us on this deep dive session to check what is the updated Effective Java, and even add some more tips not included in the book!&lt;/p></description></item><item><title>Lean Java EE Style</title><link>https://www.parisjug.org/events/2018/03-13-jee/</link><pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/03-13-jee/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 13 Mars 2018&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---building-webapps-in-the-lean-java-ee-style">19h30 - Building WebApps In the Lean Java EE Style&lt;/h3>
-&lt;p>In this JUG session I&amp;rsquo;m going to build a Java EE Microservice with plain, vanilla CSS 3, ES 6 and HTML 5 frontend.&lt;br>
-I will apply the lean, Java EE-stic way of designing backends to the frontend with the same benefits: learn once, thin UI, no migrations.&lt;br>
-Use The Platform!&lt;/p></description></item><item><title>Java EE 8? Ah ben non peut-être!</title><link>https://www.parisjug.org/events/2017/10-10-java-ee-8/</link><pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/10-10-java-ee-8/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 10 octobre 2017&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---java-ee-8-ah-ben-non-peut-être">19h30 - Java EE 8? Ah ben non peut-être!&lt;/h3>
-&lt;p>Java EE 8 vient juste d’être finalisé! Cette session se propose de faire le point sur cette mise à niveau de la plateforme.
-Durant cette soirée, nous allons aborder les principales nouvelles fonctionnalités de Java EE 8 tels que JAX-RS et sa nouvelle API client ‘Reactive’, l’API Servlet 4 et son support http/2, la nouvelle API JSON-B, les différentes améliorations liées à la sécurité. Nous allons aussi voir ce qu’apporte Bean Validation 2.0, CDI 2.0, JSON-P 1.1, etc.&lt;/p></description></item><item><title>Quoi de neuf JEE et autres &amp; Des builds incroyablement rapides avec Gradle 3</title><link>https://www.parisjug.org/events/2016/11-15-gradle/</link><pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/11-15-gradle/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Mardi 15 novembre 2016&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Contexts &amp; Dependency Injection</title><link>https://www.parisjug.org/events/2015/10-13-cdi/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/10-13-cdi/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 13 octobre 2015&lt;/li>
-&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions sont ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 à partir de la &lt;a href="https://www.parisjug.org/">HomePage&lt;/a>.&lt;/p>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Java EE et Wildfly</title><link>https://www.parisjug.org/events/2014/03-19-java-ee-wildfly/</link><pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/03-19-java-ee-wildfly/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mercredi 19 mars 2014&lt;/li>
-&lt;li>Dans les locaux de Google&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="photos">Photos&lt;/h2>
-&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131930460@N04/albums/72157643169666195" title="Java EE et Wildfly">&lt;img src="https://live.staticflickr.com/3810/13517416643_5d536bd1c1_h.jpg" width="640" height="480" alt="Java EE et Wildfly">&lt;/a>&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">&lt;/script>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---20h30--wildfly">19h30 - 20h30 : Wildfly&lt;/h3>
-&lt;p>WildFly 8 (née JBoss Application Server) is Red Hat&amp;rsquo;s open source Java EE 7 compliant application server. It contains robust implementations of WebSocket, Batch, JSON, Concurrency, JMS2, JAX-RS 2, CDI 1.1, and all Java EE 7 technologies. Undertow is the new cutting-edge web server in WildFly 8 and is designed for maximum throughput and scalability, including environments with over a million connections. The number of ports is reduced used by multiplexing protocols over HTTP using HTTP Upgrade.Role Based Access Control support organizations with separated management responsibilities and restrictions. Roles represent different sets of permissions such as runtime operation execution, configuration areas that can read or written, and the ability to audit changes and manage users. In addition a new restricted audit log can be enabled including the ability to offload to a secure syslog server.WildFly also provides a &amp;ldquo;core&amp;rdquo; distribution that is ideal for framework authors that want to build their own application runtime using the powerful WildFly 8 architecture.This session will provide an overview of all these features.&lt;/p></description></item><item><title>Soirée Classloaders et JVM optimisation</title><link>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</link><pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 12 décembre 2013&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jee on Paris Java User Group</title><link>https://www.parisjug.org/tags/jee/</link><description>Recent content in Jee on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 09 Feb 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/jee/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Virtuelle : Java server-side, 22 ans et toujours fringant !</title><link>https://www.parisjug.org/events/2021/02-09-java-server-side/</link><pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2021/02-09-java-server-side/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 9 Février 2021 à 19h00&lt;/li&gt;
+&lt;li&gt;Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug"&gt;Twitch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="18h45-à-19h00-accueil"&gt;18h45 à 19h00: Accueil&lt;/h3&gt;
+&lt;h3 id="19h00-à-20h00--java-server-side-22-ans-et-toujours-fringant-"&gt;19h00 à 20h00 : Java server-side, 22 ans et toujours fringant !&lt;/h3&gt;
+&lt;p&gt;Pendant 20 ans, Java EE a évolué à un train sénatorial. Depuis une dizaine d&amp;rsquo;années, les applications se sont transformées pour devenir cloud-native. Java se trouve aujourd&amp;rsquo;hui contraint de s&amp;rsquo;adapter à ce nouveau contexte, en particulier pour fonctionner de manière optimum dans les infrastructures modernes basées sur Kubernetes:&lt;/p&gt;</description></item><item><title>Soirée Edson Yanaga</title><link>https://www.parisjug.org/events/2019/01-21-edson-yanaga/</link><pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/01-21-edson-yanaga/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 21 Janvier 2019&lt;/li&gt;
+&lt;li&gt;Dans les locaux de &lt;a href="https://www.parisjug.org/location/red-hat/"&gt;Red Hat Paris&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Soirée exceptionnelle.&lt;/p&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---revisiting-effective-java-in-2019"&gt;19h30 - Revisiting Effective Java in 2019&lt;/h3&gt;
+&lt;p&gt;Joshua Bloch just gifted us with the 3rd edition of &amp;ldquo;Effective Java&amp;rdquo;, but almost 10 years have been past since the last edition.&lt;br&gt;
+Now we have a whole generation of Java developers that could benefit from this knowledge - but lost the past wave.&lt;br&gt;
+It&amp;rsquo;s about time to revisit all of this wonderful content, and upgrade your skills to the latest versions of the Java platform.&lt;br&gt;
+Join us on this deep dive session to check what is the updated Effective Java, and even add some more tips not included in the book!&lt;/p&gt;</description></item><item><title>Lean Java EE Style</title><link>https://www.parisjug.org/events/2018/03-13-jee/</link><pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/03-13-jee/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 13 Mars 2018&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---building-webapps-in-the-lean-java-ee-style"&gt;19h30 - Building WebApps In the Lean Java EE Style&lt;/h3&gt;
+&lt;p&gt;In this JUG session I&amp;rsquo;m going to build a Java EE Microservice with plain, vanilla CSS 3, ES 6 and HTML 5 frontend.&lt;br&gt;
+I will apply the lean, Java EE-stic way of designing backends to the frontend with the same benefits: learn once, thin UI, no migrations.&lt;br&gt;
+Use The Platform!&lt;/p&gt;</description></item><item><title>Java EE 8? Ah ben non peut-être!</title><link>https://www.parisjug.org/events/2017/10-10-java-ee-8/</link><pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/10-10-java-ee-8/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 10 octobre 2017&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---java-ee-8-ah-ben-non-peut-être"&gt;19h30 - Java EE 8? Ah ben non peut-être!&lt;/h3&gt;
+&lt;p&gt;Java EE 8 vient juste d’être finalisé! Cette session se propose de faire le point sur cette mise à niveau de la plateforme.
+Durant cette soirée, nous allons aborder les principales nouvelles fonctionnalités de Java EE 8 tels que JAX-RS et sa nouvelle API client ‘Reactive’, l’API Servlet 4 et son support http/2, la nouvelle API JSON-B, les différentes améliorations liées à la sécurité. Nous allons aussi voir ce qu’apporte Bean Validation 2.0, CDI 2.0, JSON-P 1.1, etc.&lt;/p&gt;</description></item><item><title>Quoi de neuf JEE et autres &amp; Des builds incroyablement rapides avec Gradle 3</title><link>https://www.parisjug.org/events/2016/11-15-gradle/</link><pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/11-15-gradle/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mardi 15 novembre 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>Soirée Contexts &amp; Dependency Injection</title><link>https://www.parisjug.org/events/2015/10-13-cdi/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/10-13-cdi/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 13 octobre 2015&lt;/li&gt;
+&lt;li&gt;Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/"&gt;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions sont ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 à partir de la &lt;a href="https://www.parisjug.org/"&gt;HomePage&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>Java EE et Wildfly</title><link>https://www.parisjug.org/events/2014/03-19-java-ee-wildfly/</link><pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/03-19-java-ee-wildfly/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mercredi 19 mars 2014&lt;/li&gt;
+&lt;li&gt;Dans les locaux de Google&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="photos"&gt;Photos&lt;/h2&gt;
+&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131930460@N04/albums/72157643169666195" title="Java EE et Wildfly"&gt;&lt;img src="https://live.staticflickr.com/3810/13517416643_5d536bd1c1_h.jpg" width="640" height="480" alt="Java EE et Wildfly"&gt;&lt;/a&gt;&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---20h30--wildfly"&gt;19h30 - 20h30 : Wildfly&lt;/h3&gt;
+&lt;p&gt;WildFly 8 (née JBoss Application Server) is Red Hat&amp;rsquo;s open source Java EE 7 compliant application server. It contains robust implementations of WebSocket, Batch, JSON, Concurrency, JMS2, JAX-RS 2, CDI 1.1, and all Java EE 7 technologies. Undertow is the new cutting-edge web server in WildFly 8 and is designed for maximum throughput and scalability, including environments with over a million connections. The number of ports is reduced used by multiplexing protocols over HTTP using HTTP Upgrade.Role Based Access Control support organizations with separated management responsibilities and restrictions. Roles represent different sets of permissions such as runtime operation execution, configuration areas that can read or written, and the ability to audit changes and manage users. In addition a new restricted audit log can be enabled including the ability to offload to a secure syslog server.WildFly also provides a &amp;ldquo;core&amp;rdquo; distribution that is ideal for framework authors that want to build their own application runtime using the powerful WildFly 8 architecture.This session will provide an overview of all these features.&lt;/p&gt;</description></item><item><title>Soirée Classloaders et JVM optimisation</title><link>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</link><pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 12 décembre 2013&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Quickies</title><link>https://www.parisjug.org/events/2013/04-09-quickies/</link><pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/04-09-quickies/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 09 avril 2013&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée Quickies</title><link>https://www.parisjug.org/events/2013/04-09-quickies/</link><pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/04-09-quickies/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 09 avril 2013&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Cagatay Civici</title><link>https://www.parisjug.org/events/2012/10-09-cagatay-civici/</link><pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2012/10-09-cagatay-civici/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 13 novembre 2012&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée Cagatay Civici</title><link>https://www.parisjug.org/events/2012/10-09-cagatay-civici/</link><pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2012/10-09-cagatay-civici/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 13 novembre 2012&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Serveurs d'applications</title><link>https://www.parisjug.org/events/2012/06-12-servers-applications/</link><pubDate>Tue, 12 Jun 2012 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2012/06-12-servers-applications/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 12 juin 2012&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée Serveurs d'applications</title><link>https://www.parisjug.org/events/2012/06-12-servers-applications/</link><pubDate>Tue, 12 Jun 2012 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2012/06-12-servers-applications/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 12 juin 2012&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Evening with Pete Muir</title><link>https://www.parisjug.org/events/2011/06-14-pete-muir/</link><pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/06-14-pete-muir/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 6 Juin 2011&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-20h25--cdi">19h30 à 20h25 : CDI&lt;/h3>
-&lt;p>CDI, the programming model of Java EE.&lt;br>
-With the introduction of Contextual Dependency Injection and Managed Beans into the Java EE 6 platform, a Java EE developer now has a full complement of facilities to write a Java EE application.&lt;br>
-But when should CDI be used, and when should introduce EJBs?&lt;br>
-How can you integrate CDI and EJB into your application?&lt;br>
-In this session we will walk through a Java EE 6 application built around CDI, and show how we can unobtrusively add EJB services as we need them.&lt;br>
-We will finish the session by looking at what is coming in next in Java EE 7 and CDI 1.1.&lt;/p></description></item><item><title>Soirée Adam Bien</title><link>https://www.parisjug.org/events/2010/07-06-adam-bien/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/07-06-adam-bien/</guid><description>&lt;figure class="sponsor-gold-svg-logo">&lt;img src="https://www.parisjug.org/events/2010/07-06-adam-bien/Juggyversionete.png"
- alt="Juggy part en vacances">
-&lt;/figure>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Evening with Pete Muir</title><link>https://www.parisjug.org/events/2011/06-14-pete-muir/</link><pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/06-14-pete-muir/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 6 Juin 2011&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h25--cdi"&gt;19h30 à 20h25 : CDI&lt;/h3&gt;
+&lt;p&gt;CDI, the programming model of Java EE.&lt;br&gt;
+With the introduction of Contextual Dependency Injection and Managed Beans into the Java EE 6 platform, a Java EE developer now has a full complement of facilities to write a Java EE application.&lt;br&gt;
+But when should CDI be used, and when should introduce EJBs?&lt;br&gt;
+How can you integrate CDI and EJB into your application?&lt;br&gt;
+In this session we will walk through a Java EE 6 application built around CDI, and show how we can unobtrusively add EJB services as we need them.&lt;br&gt;
+We will finish the session by looking at what is coming in next in Java EE 7 and CDI 1.1.&lt;/p&gt;</description></item><item><title>Soirée Adam Bien</title><link>https://www.parisjug.org/events/2010/07-06-adam-bien/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/07-06-adam-bien/</guid><description>&lt;figure class="sponsor-gold-svg-logo"&gt;&lt;img src="https://www.parisjug.org/events/2010/07-06-adam-bien/Juggyversionete.png"
+ alt="Juggy part en vacances"&gt;
+&lt;/figure&gt;
 
-&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 6 juillet 2010&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-22h00--lightweight-killer-apps-with-nothing-but-vanilla-java-ee-6">19h30 à 22h00 : Lightweight Killer Apps with Nothing But Vanilla Java EE 6&lt;/h3>
-&lt;p>The complexity and bloat often associated with Java EE are largely due to the inherent complexity of distributed computing and exaggeration of some architectures (and architects); otherwise, the platform is surprisingly lean. EJB 3.1 actually consists of annotated classes that are even leaner than classic POJOs; it would be hard to find anything more to simplify. JSF 2.0, JPA 2.0, Bean Validation, JSR-299 and JSR-330 makes Java EE the perfect, vendor-neutral platform for web and enterprise development. This session discusses the essential ingredients of a lean service-oriented architecture (SOA), then explains how to implement one in Java EE without compromising maintainability. I&amp;rsquo;ll start by describing aspects of SOA implementation that lend themselves to procedural programming, then discuss domain-driven (aka object-oriented) design with lots of code and some demos&lt;/p></description></item><item><title>Soirée Holly Cummins</title><link>https://www.parisjug.org/events/2010/06-08-holly-cummins/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/06-08-holly-cummins/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 8 juin 2010&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-20h25--java-performance-tuning---not-so-scary-after-all">19h30 à 20h25 : Java Performance Tuning - not so scary after all&lt;/h3>
-&lt;p>No one likes slow applications, but sometimes it&amp;rsquo;s hard to know where to start when trying to fix a performance problem. This talk will cover a range of tools and techniques which can be used to track down and fix performance issues.&lt;/p></description></item><item><title>Soirée Share, Build and Deploy</title><link>https://www.parisjug.org/events/2010/05-11-share-build-deploy/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/05-11-share-build-deploy/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 11 mai 2010&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--alexandre-bertails-nous-raconte-sa-nouvelle-vie-au-w3c">19h15 à 19h30 : &lt;a href="https://www.parisjug.org/speakers/alexandre-bertails/">Alexandre Bertails&lt;/a> nous raconte sa nouvelle vie au W3C&lt;/h3>
-&lt;h3 id="19h30-à-20h00--dvcs">19h30 à 20h00 : DVCS&lt;/h3>
-&lt;p>Comment rendre son développement stable avant de livrer ? Comment éviter que les développeurs se marchent sur les pieds quand ils codent ? Voila une partie des problèmes qu&amp;rsquo;il est nécessaire de régler avant de devenir fou. Ce fut pour moi le &amp;ldquo;coup de fouet&amp;rdquo; nécessaire pour apprendre, voici 2 ans, les outils de gestion de sources décentralisée (DVCS). Le temps nécessaire à la compréhension fut longue, freiné d&amp;rsquo;abord par mes 5 ans de pratique de Subversion, ensuite par des documentations et des présentations souvent focalisées sur des détails techniques.&lt;/p></description></item><item><title>Soirée Java EE 6 et Spring 3.0</title><link>https://www.parisjug.org/events/2009/12-08-java-ee-6-spring-3/</link><pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/12-08-java-ee-6-spring-3/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 08 décembre 2009&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="attention">ATTENTION&lt;/h2>
-&lt;ul>
-&lt;li>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 min avant le début de la session&lt;/strong>, soit à &lt;strong>19h25&lt;/strong>, verront leur &lt;strong>place remise à disposition&lt;/strong>&lt;/li>
-&lt;li>Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;/li>
-&lt;/ul>
-&lt;p>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. &lt;strong>Toute inscription non confirmée ne sera pas prise en compte&lt;/strong> !&lt;/p></description></item><item><title>Soirée JSF 2.0 - Servlet 3.0</title><link>https://www.parisjug.org/events/2009/10-13-jsf-servlet/</link><pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/10-13-jsf-servlet/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 13 octobre 2009&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="attention">ATTENTION&lt;/h2>
-&lt;ul>
-&lt;li>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 min avant le début de la session&lt;/strong>, soit à &lt;strong>19h25&lt;/strong>, verront leur &lt;strong>place remise à disposition&lt;/strong>&lt;/li>
-&lt;li>Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;/li>
-&lt;/ul>
-&lt;p>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. &lt;strong>Toute inscription non confirmée ne sera pas prise en compte&lt;/strong> !&lt;/p></description></item><item><title>Soirée RIA</title><link>https://www.parisjug.org/events/2009/07-07-ria/</link><pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/07-07-ria/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 07 juillet 2009&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="attention">ATTENTION&lt;/h2>
-&lt;p>Victime de son succès, le Paris JUG ne se contient plus dans la salle qui l&amp;rsquo;accueille. Pour des raisons évidentes de sécurité, les personnes non inscrites à l&amp;rsquo;évènement ne pourront donc plus y assister. L&amp;rsquo;inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.&lt;/p></description></item><item><title>Soirée Java EE 6</title><link>https://www.parisjug.org/events/2009/01-13-java-ee-6/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/01-13-java-ee-6/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 13 janvier 2009&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;li>210 participants&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-20h30--java-ee-6">19h30 à 20h30 : Java EE 6&lt;/h3>
-&lt;p>J2EE 1.4, Java EE 5 et bientôt Java EE 6. L&amp;rsquo;année 2009 coïncide avec la sortie de la nouvelle version de l&amp;rsquo;Enterprise Edition et de son 10e anniversaire. Mais le J2EE de l&amp;rsquo;époque ressemble-t-il encore au Java EE d&amp;rsquo;aujourd&amp;rsquo;hui ? Dans cette session, Antonio Goncalves vous présentera les nouveautés Java EE 6 : un modèle de programmation centré sur les EJBs, un packaging simplifié, une couche de persistance enrichie, une nouvelle API pour les ressources REST, une simplification radicale de la couche web et bien d&amp;rsquo;autres améliorations qui feront de Java EE 6 la plateforme idéale pour vos applications. Basé sur des standards, s&amp;rsquo;inspirant de framemeworks open source, utilisant les conteneurs léger, Java EE 6 allie standards, robustesse et solutions éprouvées.&lt;/p></description></item><item><title>Soirée JBoss</title><link>https://www.parisjug.org/events/2008/12-02-jboss/</link><pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/12-02-jboss/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 2 décembre 2008&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;li>210 participants&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-20h30--jboss-as-5">19h30 à 20h30 : JBoss AS 5&lt;/h3>
-&lt;p>Sacha présentera les nouveautés de la version 5.0 de JBoss AS, notamment le nouveau micro-container et certains de ses sous-systèmes, les nouvelles fonctionnalités de JBoss Messaging, la pluggabilité des services web, et les nouvelles fonctionnalités de gestion du serveur au travers de JOPR. Il présentera également comment le serveur peut aisément être augmenté par de nouveaux modèles de programmation.&lt;/p></description></item></channel></rss>
+&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 6 juillet 2010&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-22h00--lightweight-killer-apps-with-nothing-but-vanilla-java-ee-6"&gt;19h30 à 22h00 : Lightweight Killer Apps with Nothing But Vanilla Java EE 6&lt;/h3&gt;
+&lt;p&gt;The complexity and bloat often associated with Java EE are largely due to the inherent complexity of distributed computing and exaggeration of some architectures (and architects); otherwise, the platform is surprisingly lean. EJB 3.1 actually consists of annotated classes that are even leaner than classic POJOs; it would be hard to find anything more to simplify. JSF 2.0, JPA 2.0, Bean Validation, JSR-299 and JSR-330 makes Java EE the perfect, vendor-neutral platform for web and enterprise development. This session discusses the essential ingredients of a lean service-oriented architecture (SOA), then explains how to implement one in Java EE without compromising maintainability. I&amp;rsquo;ll start by describing aspects of SOA implementation that lend themselves to procedural programming, then discuss domain-driven (aka object-oriented) design with lots of code and some demos&lt;/p&gt;</description></item><item><title>Soirée Holly Cummins</title><link>https://www.parisjug.org/events/2010/06-08-holly-cummins/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/06-08-holly-cummins/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 8 juin 2010&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h25--java-performance-tuning---not-so-scary-after-all"&gt;19h30 à 20h25 : Java Performance Tuning - not so scary after all&lt;/h3&gt;
+&lt;p&gt;No one likes slow applications, but sometimes it&amp;rsquo;s hard to know where to start when trying to fix a performance problem. This talk will cover a range of tools and techniques which can be used to track down and fix performance issues.&lt;/p&gt;</description></item><item><title>Soirée Share, Build and Deploy</title><link>https://www.parisjug.org/events/2010/05-11-share-build-deploy/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/05-11-share-build-deploy/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 11 mai 2010&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--alexandre-bertails-nous-raconte-sa-nouvelle-vie-au-w3c"&gt;19h15 à 19h30 : &lt;a href="https://www.parisjug.org/speakers/alexandre-bertails/"&gt;Alexandre Bertails&lt;/a&gt; nous raconte sa nouvelle vie au W3C&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h00--dvcs"&gt;19h30 à 20h00 : DVCS&lt;/h3&gt;
+&lt;p&gt;Comment rendre son développement stable avant de livrer ? Comment éviter que les développeurs se marchent sur les pieds quand ils codent ? Voila une partie des problèmes qu&amp;rsquo;il est nécessaire de régler avant de devenir fou. Ce fut pour moi le &amp;ldquo;coup de fouet&amp;rdquo; nécessaire pour apprendre, voici 2 ans, les outils de gestion de sources décentralisée (DVCS). Le temps nécessaire à la compréhension fut longue, freiné d&amp;rsquo;abord par mes 5 ans de pratique de Subversion, ensuite par des documentations et des présentations souvent focalisées sur des détails techniques.&lt;/p&gt;</description></item><item><title>Soirée Java EE 6 et Spring 3.0</title><link>https://www.parisjug.org/events/2009/12-08-java-ee-6-spring-3/</link><pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/12-08-java-ee-6-spring-3/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 08 décembre 2009&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="attention"&gt;ATTENTION&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à &lt;strong&gt;19h25&lt;/strong&gt;, verront leur &lt;strong&gt;place remise à disposition&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. &lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte&lt;/strong&gt; !&lt;/p&gt;</description></item><item><title>Soirée JSF 2.0 - Servlet 3.0</title><link>https://www.parisjug.org/events/2009/10-13-jsf-servlet/</link><pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/10-13-jsf-servlet/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 13 octobre 2009&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="attention"&gt;ATTENTION&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à &lt;strong&gt;19h25&lt;/strong&gt;, verront leur &lt;strong&gt;place remise à disposition&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. &lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte&lt;/strong&gt; !&lt;/p&gt;</description></item><item><title>Soirée RIA</title><link>https://www.parisjug.org/events/2009/07-07-ria/</link><pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/07-07-ria/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 07 juillet 2009&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="attention"&gt;ATTENTION&lt;/h2&gt;
+&lt;p&gt;Victime de son succès, le Paris JUG ne se contient plus dans la salle qui l&amp;rsquo;accueille. Pour des raisons évidentes de sécurité, les personnes non inscrites à l&amp;rsquo;évènement ne pourront donc plus y assister. L&amp;rsquo;inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.&lt;/p&gt;</description></item><item><title>Soirée Java EE 6</title><link>https://www.parisjug.org/events/2009/01-13-java-ee-6/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2009/01-13-java-ee-6/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 13 janvier 2009&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;210 participants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h30--java-ee-6"&gt;19h30 à 20h30 : Java EE 6&lt;/h3&gt;
+&lt;p&gt;J2EE 1.4, Java EE 5 et bientôt Java EE 6. L&amp;rsquo;année 2009 coïncide avec la sortie de la nouvelle version de l&amp;rsquo;Enterprise Edition et de son 10e anniversaire. Mais le J2EE de l&amp;rsquo;époque ressemble-t-il encore au Java EE d&amp;rsquo;aujourd&amp;rsquo;hui ? Dans cette session, Antonio Goncalves vous présentera les nouveautés Java EE 6 : un modèle de programmation centré sur les EJBs, un packaging simplifié, une couche de persistance enrichie, une nouvelle API pour les ressources REST, une simplification radicale de la couche web et bien d&amp;rsquo;autres améliorations qui feront de Java EE 6 la plateforme idéale pour vos applications. Basé sur des standards, s&amp;rsquo;inspirant de framemeworks open source, utilisant les conteneurs léger, Java EE 6 allie standards, robustesse et solutions éprouvées.&lt;/p&gt;</description></item><item><title>Soirée JBoss</title><link>https://www.parisjug.org/events/2008/12-02-jboss/</link><pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/12-02-jboss/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 2 décembre 2008&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;210 participants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h30--jboss-as-5"&gt;19h30 à 20h30 : JBoss AS 5&lt;/h3&gt;
+&lt;p&gt;Sacha présentera les nouveautés de la version 5.0 de JBoss AS, notamment le nouveau micro-container et certains de ses sous-systèmes, les nouvelles fonctionnalités de JBoss Messaging, la pluggabilité des services web, et les nouvelles fonctionnalités de gestion du serveur au travers de JOPR. Il présentera également comment le serveur peut aisément être augmenté par de nouveaux modèles de programmation.&lt;/p&gt;</description></item></channel></rss>

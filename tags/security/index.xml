@@ -1,58 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on Paris Java User Group</title><link>https://www.parisjug.org/tags/security/</link><description>Recent content in Security on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 14 Jun 2022 19:30:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/security/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Security overview</title><link>https://www.parisjug.org/events/2022/06-14-security-overview/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2022/06-14-security-overview/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 14 Juin 2022 à 19h30&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/renault-digital/">les locaux de Renault Digital&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25, verront leur &lt;strong>place remise à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
-L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. &lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Virtuelle : Fondue à la bière, ou comment SonarQube peut vous aider à identifier des vulnérabilités !</title><link>https://www.parisjug.org/events/2020/10-22-sonarqube/</link><pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/10-22-sonarqube/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>&lt;del>Mardi 08 Octobre 2020&lt;/del> Jeudi 22 Octobre - 19h00&lt;/li>
-&lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug">Twitch&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.google.com/calendar/render?action=TEMPLATE&amp;amp;text=Paris+JUG+-+Soir%C3%A9e+Virtuelle%3A+SonarQube+et+s%C3%A9curit%C3%A9+%282020%2F10%2F22+-+19h00%29&amp;amp;details=18h45+%C3%A0+19h00+%3A+Accueil%0A%0A19h00+%C3%A0+20h00%3A+Fondue+%C3%A0+la+bi%C3%A8re%2C+ou+comment+SonarQube+peut+vous+aider+%C3%A0+identifier+des+vuln%C3%A9rabilit%C3%A9s%21%0A%0ALa+plupart+des+d%C3%A9veloppeurs+Java+connaissent+SonarQube+comme+outil+pour+%C3%A9valuer+la+qualit%C3%A9+de+leur+code.+SonarSource%2C+la+soci%C3%A9t%C3%A9+bas%C3%A9e+%C3%A0+Gen%C3%A8ve+%28la+fondue%21%29+qui+d%C3%A9veloppe+et+maintient+SonarQube%2C+a+commenc%C3%A9+%C3%A0+aborder+il+y+a+2+ans+le+d%C3%A9veloppement+d%E2%80%99analyse+de+s%C3%A9curit%C3%A9+pour+d%C3%A9tecter+des+vuln%C3%A9rabilit%C3%A9s.%0AEn+avril+2020%2C+SonarSource+%C3%A0+fait+l%E2%80%99acquisition+de+RIPS%2C+une+entreprise+allemande+bas%C3%A9e+%C3%A0+Bochum+%28la+bi%C3%A8re%21%29+sp%C3%A9cialis%C3%A9e+dans+l%E2%80%99analyse+de+vuln%C3%A9rabilit%C3%A9s%2C+notamment+PHP+%28mais+aussi+Java%2C+JS...%29.%0A%0AVenez+d%C3%A9couvrir+quelles+%C3%A9taient+les+techniques+mises+en+oeuvre+par+les+deux+%C3%A9diteurs+et+comment+en+combinant+le+meilleur+des+deux+mondes%2C+SonarQube+dispose+maintenant+d%27une+analyse+de+haute+pr%C3%A9cision+pour+trouver+des+vuln%C3%A9rabilit%C3%A9s+dans+votre+code+Java+%21%0A%0Apar+Nicolas+Peru+et+Malte+Skoruppa&amp;amp;location=https%3A%2F%2Fwww.twitch.tv%2Fparisjug&amp;amp;dates=20201022T164500Z%2F20201022T181500Z">Google Calendar&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="18h45-à-19h00--accueil">18h45 à 19h00 : Accueil&lt;/h3>
-&lt;h3 id="19h00-à-20h00--fondue-à-la-bière-ou-comment-sonarqube-peut-vous-aider-à-identifier-des-vulnérabilités-">19h00 à 20h00 : Fondue à la bière, ou comment SonarQube peut vous aider à identifier des vulnérabilités !&lt;/h3>
-&lt;p>La plupart des développeurs Java connaissent SonarQube comme outil pour évaluer la qualité de leur code. SonarSource, la société basée à Genève (la fondue!) qui développe et maintient SonarQube, a commencé à aborder il y a 2 ans le développement d’analyse de sécurité pour détecter des vulnérabilités.
-En avril 2020, SonarSource à fait l’acquisition de RIPS, une entreprise allemande basée à Bochum (la bière!) spécialisée dans l’analyse de vulnérabilités, notamment PHP (mais aussi Java, JS&amp;hellip;).&lt;/p></description></item><item><title>Soirée Tools In Action</title><link>https://www.parisjug.org/events/2016/06-28-tools-in-action/</link><pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/06-28-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Mardi 28 Juin 2016&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée OpenID Connect &amp; pac4j</title><link>https://www.parisjug.org/events/2015/09-15-oidc-pac4j/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/09-15-oidc-pac4j/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 15 septembre 2015&lt;/li>
-&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions sont ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 à partir de la &lt;a href="https://www.parisjug.org/">HomePage&lt;/a>.&lt;/p>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>JUG2B - Les Juggers viennent de Mars et les commerciaux de Venus</title><link>https://www.parisjug.org/events/2008/09-11-mars-venus/</link><pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/09-11-mars-venus/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 11 septembre 2008&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/portparallele/">les locaux de Port Parallèle&lt;/a>&lt;/li>
-&lt;li>26 participants&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h00-à-19h15--accueil">19h00 à 19h15 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-20h00--les-juggers-viennent-de-mars-et-les-commerciaux-de-venus">19h30 à 20h00 : Les Juggers viennent de Mars et les commerciaux de Venus&lt;/h3>
-&lt;p>Tout le monde connaît ou presque le livre de John Gray « Les hommes viennent de Mars et les femmes de Venus ». Il y décrit avec brio les grandes différences de réaction entre les femmes et les hommes. Son livre a été une révolution car il a permis de comprendre que ces différences qui nous éloignent peuvent aussi nous réunir et nous rendre plus heureux.&lt;/p></description></item><item><title>Soirée Spring</title><link>https://www.parisjug.org/events/2008/06-10-spring/</link><pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/06-10-spring/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 10 juin 2008&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/fiap/">les locaux de la Fiapp&lt;/a>&lt;/li>
-&lt;li>146 participants&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="18h45-à-19h00--accueil">18h45 à 19h00 : Accueil&lt;/h3>
-&lt;h3 id="19h00-à-20h00--tdd-avec-spring-et-jmock">19h00 à 20h00 : TDD avec Spring et JMock&lt;/h3>
-&lt;p>A travers le développement d&amp;rsquo;une application web, nous vous montrerons comment faire du TDD avec Spring et comment Spring 2.5 simplifie votre développement avec les annotations. Nous utiliserons les mockobjects pour nos tests unitaires. Vous découvrirez que J2ee à travers Spring n&amp;rsquo;a rien à envier à RubyOnRails ou Grails pour le développement d&amp;rsquo;applications Web.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on Paris Java User Group</title><link>https://www.parisjug.org/tags/security/</link><description>Recent content in Security on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 14 Jun 2022 19:30:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/security/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Security overview</title><link>https://www.parisjug.org/events/2022/06-14-security-overview/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2022/06-14-security-overview/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 14 Juin 2022 à 19h30&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/renault-digital/"&gt;les locaux de Renault Digital&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leur &lt;strong&gt;place remise à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. &lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée Virtuelle : Fondue à la bière, ou comment SonarQube peut vous aider à identifier des vulnérabilités !</title><link>https://www.parisjug.org/events/2020/10-22-sonarqube/</link><pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/10-22-sonarqube/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;Mardi 08 Octobre 2020&lt;/del&gt; Jeudi 22 Octobre - 19h00&lt;/li&gt;
+&lt;li&gt;Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug"&gt;Twitch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.google.com/calendar/render?action=TEMPLATE&amp;amp;text=Paris+JUG+-+Soir%C3%A9e+Virtuelle%3A+SonarQube+et+s%C3%A9curit%C3%A9+%282020%2F10%2F22+-+19h00%29&amp;amp;details=18h45+%C3%A0+19h00+%3A+Accueil%0A%0A19h00+%C3%A0+20h00%3A+Fondue+%C3%A0+la+bi%C3%A8re%2C+ou+comment+SonarQube+peut+vous+aider+%C3%A0+identifier+des+vuln%C3%A9rabilit%C3%A9s%21%0A%0ALa+plupart+des+d%C3%A9veloppeurs+Java+connaissent+SonarQube+comme+outil+pour+%C3%A9valuer+la+qualit%C3%A9+de+leur+code.+SonarSource%2C+la+soci%C3%A9t%C3%A9+bas%C3%A9e+%C3%A0+Gen%C3%A8ve+%28la+fondue%21%29+qui+d%C3%A9veloppe+et+maintient+SonarQube%2C+a+commenc%C3%A9+%C3%A0+aborder+il+y+a+2+ans+le+d%C3%A9veloppement+d%E2%80%99analyse+de+s%C3%A9curit%C3%A9+pour+d%C3%A9tecter+des+vuln%C3%A9rabilit%C3%A9s.%0AEn+avril+2020%2C+SonarSource+%C3%A0+fait+l%E2%80%99acquisition+de+RIPS%2C+une+entreprise+allemande+bas%C3%A9e+%C3%A0+Bochum+%28la+bi%C3%A8re%21%29+sp%C3%A9cialis%C3%A9e+dans+l%E2%80%99analyse+de+vuln%C3%A9rabilit%C3%A9s%2C+notamment+PHP+%28mais+aussi+Java%2C+JS...%29.%0A%0AVenez+d%C3%A9couvrir+quelles+%C3%A9taient+les+techniques+mises+en+oeuvre+par+les+deux+%C3%A9diteurs+et+comment+en+combinant+le+meilleur+des+deux+mondes%2C+SonarQube+dispose+maintenant+d%27une+analyse+de+haute+pr%C3%A9cision+pour+trouver+des+vuln%C3%A9rabilit%C3%A9s+dans+votre+code+Java+%21%0A%0Apar+Nicolas+Peru+et+Malte+Skoruppa&amp;amp;location=https%3A%2F%2Fwww.twitch.tv%2Fparisjug&amp;amp;dates=20201022T164500Z%2F20201022T181500Z"&gt;Google Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="18h45-à-19h00--accueil"&gt;18h45 à 19h00 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h00-à-20h00--fondue-à-la-bière-ou-comment-sonarqube-peut-vous-aider-à-identifier-des-vulnérabilités-"&gt;19h00 à 20h00 : Fondue à la bière, ou comment SonarQube peut vous aider à identifier des vulnérabilités !&lt;/h3&gt;
+&lt;p&gt;La plupart des développeurs Java connaissent SonarQube comme outil pour évaluer la qualité de leur code. SonarSource, la société basée à Genève (la fondue!) qui développe et maintient SonarQube, a commencé à aborder il y a 2 ans le développement d’analyse de sécurité pour détecter des vulnérabilités.
+En avril 2020, SonarSource à fait l’acquisition de RIPS, une entreprise allemande basée à Bochum (la bière!) spécialisée dans l’analyse de vulnérabilités, notamment PHP (mais aussi Java, JS&amp;hellip;).&lt;/p&gt;</description></item><item><title>Soirée Tools In Action</title><link>https://www.parisjug.org/events/2016/06-28-tools-in-action/</link><pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/06-28-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mardi 28 Juin 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>Soirée OpenID Connect &amp; pac4j</title><link>https://www.parisjug.org/events/2015/09-15-oidc-pac4j/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/09-15-oidc-pac4j/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 15 septembre 2015&lt;/li&gt;
+&lt;li&gt;Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/"&gt;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions sont ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 à partir de la &lt;a href="https://www.parisjug.org/"&gt;HomePage&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>JUG2B - Les Juggers viennent de Mars et les commerciaux de Venus</title><link>https://www.parisjug.org/events/2008/09-11-mars-venus/</link><pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/09-11-mars-venus/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 11 septembre 2008&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/portparallele/"&gt;les locaux de Port Parallèle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;26 participants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h00-à-19h15--accueil"&gt;19h00 à 19h15 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h00--les-juggers-viennent-de-mars-et-les-commerciaux-de-venus"&gt;19h30 à 20h00 : Les Juggers viennent de Mars et les commerciaux de Venus&lt;/h3&gt;
+&lt;p&gt;Tout le monde connaît ou presque le livre de John Gray « Les hommes viennent de Mars et les femmes de Venus ». Il y décrit avec brio les grandes différences de réaction entre les femmes et les hommes. Son livre a été une révolution car il a permis de comprendre que ces différences qui nous éloignent peuvent aussi nous réunir et nous rendre plus heureux.&lt;/p&gt;</description></item><item><title>Soirée Spring</title><link>https://www.parisjug.org/events/2008/06-10-spring/</link><pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/06-10-spring/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 10 juin 2008&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/fiap/"&gt;les locaux de la Fiapp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;146 participants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="18h45-à-19h00--accueil"&gt;18h45 à 19h00 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h00-à-20h00--tdd-avec-spring-et-jmock"&gt;19h00 à 20h00 : TDD avec Spring et JMock&lt;/h3&gt;
+&lt;p&gt;A travers le développement d&amp;rsquo;une application web, nous vous montrerons comment faire du TDD avec Spring et comment Spring 2.5 simplifie votre développement avec les annotations. Nous utiliserons les mockobjects pour nos tests unitaires. Vous découvrirez que J2ee à travers Spring n&amp;rsquo;a rien à envier à RubyOnRails ou Grails pour le développement d&amp;rsquo;applications Web.&lt;/p&gt;</description></item></channel></rss>

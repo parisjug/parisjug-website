@@ -1,234 +1,234 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Performance on Paris Java User Group</title><link>https://www.parisjug.org/tags/performance/</link><description>Recent content in Performance on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 11 Feb 2025 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/performance/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée troubleshooting en production</title><link>https://www.parisjug.org/events/2025/02-11-prod-troubleshooting/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2025/02-11-prod-troubleshooting/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 11 Février 2025 à 19h00&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/criteo/">les locaux de Criteo&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Performance on Paris Java User Group</title><link>https://www.parisjug.org/tags/performance/</link><description>Recent content in Performance on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 11 Feb 2025 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/performance/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée troubleshooting en production</title><link>https://www.parisjug.org/events/2025/02-11-prod-troubleshooting/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2025/02-11-prod-troubleshooting/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 11 Février 2025 à 19h00&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/criteo/"&gt;les locaux de Criteo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG.
-En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée JVM Warmup and Pattern Matching</title><link>https://www.parisjug.org/events/2024/09-10-azul/</link><pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/09-10-azul/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 10 Septembre 2024 à 19h00&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/mirakl/">les locaux de Mirakl&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée JVM Warmup and Pattern Matching</title><link>https://www.parisjug.org/events/2024/09-10-azul/</link><pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/09-10-azul/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 10 Septembre 2024 à 19h00&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/mirakl/"&gt;les locaux de Mirakl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Virtuelle : Tools in Action</title><link>https://www.parisjug.org/events/2021/06-22-tools-in-action/</link><pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2021/06-22-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 22 Juin 2021 à 19h00&lt;/li>
-&lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug">Twitch&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="18h45-à-19h00-accueil">18h45 à 19h00: Accueil&lt;/h3>
-&lt;h3 id="19h00-à-19h10-la-jep-du-mois">19h00 à 19h10: La JEP du mois&lt;/h3>
-&lt;h3 id="19h10-à-19h30-quickperf">19h10 à 19h30: QuickPerf&lt;/h3>
-&lt;p>Nous allons vous présenter QuickPerf, une librairie Java permettant de tester des propriétés impactant la performance applicative, telles que l&amp;rsquo;allocation mémoire ou le nombre de requêtes envoyées à la base. Vous prendrez connaissance des nouveautés de la prochaine version de QuickPerf.&lt;/p></description></item><item><title>Soirée Virtuelle : Tools in Action</title><link>https://www.parisjug.org/events/2020/06-30-tools-in-action/</link><pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/06-30-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi - 19h00&lt;/li>
-&lt;li>Dans les locaux de notre chaîne &lt;a href="https://www.youtube.com/@ParisJUG">Youtube&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="18h45-à-19h00--accueil">18h45 à 19h00 : Accueil&lt;/h3>
-&lt;h3 id="19h00-à-19h20--pression-aval-dans-rxjava">19h00 à 19h20 : Pression aval dans RxJava&lt;/h3>
-&lt;p>Cette technique issue de la mécanique des fluides a été adaptée à l&amp;rsquo;informatique pour gérer les flux de données. Elle fait partie de la boite à outil de la programmation réactive.
-A l&amp;rsquo;aide de quelques exemples avec RxJava, on va essayer de comprendre comment ça marche et ce que ça peut apporter.&lt;/p></description></item><item><title>Young Blood VII</title><link>https://www.parisjug.org/events/2020/01-14-young-blood-7/</link><pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/01-14-young-blood-7/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi - 19h00&lt;/li>
-&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/datadog/">Datadog&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>La soirée young blood est une volonté d&amp;rsquo;offrir aux personnes n&amp;rsquo;ayant jamais fait de présentation de se lancer. Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter(&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;p>&lt;a href="https://www.parisjug.org/tags/academy/">Consulter toutes nos soirées Young Blood.&lt;/a>&lt;/p>
-&lt;h3 id="comment-ce-déroule-un-short-talk-young-blood-">Comment ce déroule un short talk young blood ?&lt;/h3>
-&lt;ul>
-&lt;li>C&amp;rsquo;est une présentation entre 15 et 20 minutes avec 1 seul speaker.&lt;/li>
-&lt;li>Il y a 15 minutes de présentation et 5 minutes de questions&lt;/li>
-&lt;li>Le speaker répond aux questions pendant que le suivant s&amp;rsquo;installe.&lt;/li>
-&lt;/ul>
-&lt;h3 id="6-talks-en-tout-141-">6 talks en tout (1+4+1) :&lt;/h3>
-&lt;ul>
-&lt;li>Le premier à soumettre ;&lt;/li>
-&lt;li>4 quickies sélectionnés par l&amp;rsquo;équipe du JUG dans les 5 jours suivants ;&lt;/li>
-&lt;li>1 quicky tiré au hasard parmi les soumissions.&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30--transcendez-la-rhétorique">19h30 : Transcendez la rhétorique&lt;/h3>
-&lt;p>Les basiques de la communication non verbale. Les todo et les don&amp;rsquo;t, des exemples ludiques pour apprendre à l&amp;rsquo;utiliser et ses limites. Tout en démolissant les mythes de la culture populaire et du cinéma.&lt;/p></description></item><item><title>Tooling OSS ... et pourquoi pas y contribuer ?</title><link>https://www.parisjug.org/events/2019/06-13-oss-tooling/</link><pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/06-13-oss-tooling/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Exceptionnellement le &lt;font color="red">JEUDI 13 JUIN 2019&lt;/font>&lt;/strong>&lt;/li>
-&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/">Renault Digital&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;figure>&lt;img src="https://www.parisjug.org/events/2019/06-13-oss-tooling/hackcommitpush.png" width="150px">
-&lt;/figure>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée Virtuelle : Tools in Action</title><link>https://www.parisjug.org/events/2021/06-22-tools-in-action/</link><pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2021/06-22-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 22 Juin 2021 à 19h00&lt;/li&gt;
+&lt;li&gt;Dans les locaux de notre chaîne &lt;a href="https://www.twitch.tv/parisjug"&gt;Twitch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="18h45-à-19h00-accueil"&gt;18h45 à 19h00: Accueil&lt;/h3&gt;
+&lt;h3 id="19h00-à-19h10-la-jep-du-mois"&gt;19h00 à 19h10: La JEP du mois&lt;/h3&gt;
+&lt;h3 id="19h10-à-19h30-quickperf"&gt;19h10 à 19h30: QuickPerf&lt;/h3&gt;
+&lt;p&gt;Nous allons vous présenter QuickPerf, une librairie Java permettant de tester des propriétés impactant la performance applicative, telles que l&amp;rsquo;allocation mémoire ou le nombre de requêtes envoyées à la base. Vous prendrez connaissance des nouveautés de la prochaine version de QuickPerf.&lt;/p&gt;</description></item><item><title>Soirée Virtuelle : Tools in Action</title><link>https://www.parisjug.org/events/2020/06-30-tools-in-action/</link><pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/06-30-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi - 19h00&lt;/li&gt;
+&lt;li&gt;Dans les locaux de notre chaîne &lt;a href="https://www.youtube.com/@ParisJUG"&gt;Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="18h45-à-19h00--accueil"&gt;18h45 à 19h00 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h00-à-19h20--pression-aval-dans-rxjava"&gt;19h00 à 19h20 : Pression aval dans RxJava&lt;/h3&gt;
+&lt;p&gt;Cette technique issue de la mécanique des fluides a été adaptée à l&amp;rsquo;informatique pour gérer les flux de données. Elle fait partie de la boite à outil de la programmation réactive.
+A l&amp;rsquo;aide de quelques exemples avec RxJava, on va essayer de comprendre comment ça marche et ce que ça peut apporter.&lt;/p&gt;</description></item><item><title>Young Blood VII</title><link>https://www.parisjug.org/events/2020/01-14-young-blood-7/</link><pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2020/01-14-young-blood-7/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi - 19h00&lt;/li&gt;
+&lt;li&gt;Dans les locaux de &lt;a href="https://www.parisjug.org/location/datadog/"&gt;Datadog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La soirée young blood est une volonté d&amp;rsquo;offrir aux personnes n&amp;rsquo;ayant jamais fait de présentation de se lancer. Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter(&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.parisjug.org/tags/academy/"&gt;Consulter toutes nos soirées Young Blood.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="comment-ce-déroule-un-short-talk-young-blood-"&gt;Comment ce déroule un short talk young blood ?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;C&amp;rsquo;est une présentation entre 15 et 20 minutes avec 1 seul speaker.&lt;/li&gt;
+&lt;li&gt;Il y a 15 minutes de présentation et 5 minutes de questions&lt;/li&gt;
+&lt;li&gt;Le speaker répond aux questions pendant que le suivant s&amp;rsquo;installe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="6-talks-en-tout-141-"&gt;6 talks en tout (1+4+1) :&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Le premier à soumettre ;&lt;/li&gt;
+&lt;li&gt;4 quickies sélectionnés par l&amp;rsquo;équipe du JUG dans les 5 jours suivants ;&lt;/li&gt;
+&lt;li&gt;1 quicky tiré au hasard parmi les soumissions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30--transcendez-la-rhétorique"&gt;19h30 : Transcendez la rhétorique&lt;/h3&gt;
+&lt;p&gt;Les basiques de la communication non verbale. Les todo et les don&amp;rsquo;t, des exemples ludiques pour apprendre à l&amp;rsquo;utiliser et ses limites. Tout en démolissant les mythes de la culture populaire et du cinéma.&lt;/p&gt;</description></item><item><title>Tooling OSS ... et pourquoi pas y contribuer ?</title><link>https://www.parisjug.org/events/2019/06-13-oss-tooling/</link><pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/06-13-oss-tooling/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Exceptionnellement le &lt;font color="red"&gt;JEUDI 13 JUIN 2019&lt;/font&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/"&gt;Renault Digital&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;figure&gt;&lt;img src="https://www.parisjug.org/events/2019/06-13-oss-tooling/hackcommitpush.png" width="150px"&gt;
+&lt;/figure&gt;
 
-&lt;p>Cette soirée Paris JUG se composera de 5 quickies sur 5 projets opensource qui seront présents lors de l&amp;rsquo;initiative &lt;a href="https://hack-commit-pu.sh/">hack-commit-pu.sh&lt;/a>.&lt;/p></description></item><item><title>Quelle JVM et Garbage Collector choisir et Le futur d'Apache Cassandra</title><link>https://www.parisjug.org/events/2018/09-11-jvm-gc-cassandra/</link><pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/09-11-jvm-gc-cassandra/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 11 Septembre 2018&lt;/li>
-&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/criteo/">Criteo&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---jvm-et-garbage-collection--découvrez-les-algos-et-configurations-qui-font-ou-pas-la-différence-sur-la-bdd-cassandra">19h30 - JVM et Garbage Collection : découvrez les algos et configurations qui font (ou pas) la différence sur la BDD Cassandra&lt;/h3>
-&lt;p>G1, CMS, Shenandoah, ou Zing ? Heap size à 8GB ou 31GB? pointers compressés ? Region size ? Quel temps de pause maximum ?&lt;br>
-Débit ou Latence &amp;hellip; Un vrai gain est-il à espérer ? Quels sont les paramètres ayant le plus d&amp;rsquo;impact ?&lt;br>
-Après un bref recapitulatif des differents GC, vous nous verrons l&amp;rsquo;effet des paramètres de la JVM sur Cassandra, une base de donnée à faible latence.&lt;/p></description></item><item><title>Boîte à outils mémoire de la JVM</title><link>https://www.parisjug.org/events/2018/02-13-gestion-memoire/</link><pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/02-13-gestion-memoire/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 13 Février 2018&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---boîte-à-outils-mémoire-de-la-jvm">19h30 - Boîte à outils mémoire de la JVM&lt;/h3>
-&lt;p>Vous vous êtes peut-être retrouvés dans cette situation : votre JVM se met à faire des GC à toute allure, Out Of Memory Error !&lt;br>
+&lt;p&gt;Cette soirée Paris JUG se composera de 5 quickies sur 5 projets opensource qui seront présents lors de l&amp;rsquo;initiative &lt;a href="https://hack-commit-pu.sh/"&gt;hack-commit-pu.sh&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Quelle JVM et Garbage Collector choisir et Le futur d'Apache Cassandra</title><link>https://www.parisjug.org/events/2018/09-11-jvm-gc-cassandra/</link><pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/09-11-jvm-gc-cassandra/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 11 Septembre 2018&lt;/li&gt;
+&lt;li&gt;Dans les locaux de &lt;a href="https://www.parisjug.org/location/criteo/"&gt;Criteo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---jvm-et-garbage-collection--découvrez-les-algos-et-configurations-qui-font-ou-pas-la-différence-sur-la-bdd-cassandra"&gt;19h30 - JVM et Garbage Collection : découvrez les algos et configurations qui font (ou pas) la différence sur la BDD Cassandra&lt;/h3&gt;
+&lt;p&gt;G1, CMS, Shenandoah, ou Zing ? Heap size à 8GB ou 31GB? pointers compressés ? Region size ? Quel temps de pause maximum ?&lt;br&gt;
+Débit ou Latence &amp;hellip; Un vrai gain est-il à espérer ? Quels sont les paramètres ayant le plus d&amp;rsquo;impact ?&lt;br&gt;
+Après un bref recapitulatif des differents GC, vous nous verrons l&amp;rsquo;effet des paramètres de la JVM sur Cassandra, une base de donnée à faible latence.&lt;/p&gt;</description></item><item><title>Boîte à outils mémoire de la JVM</title><link>https://www.parisjug.org/events/2018/02-13-gestion-memoire/</link><pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/02-13-gestion-memoire/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 13 Février 2018&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---boîte-à-outils-mémoire-de-la-jvm"&gt;19h30 - Boîte à outils mémoire de la JVM&lt;/h3&gt;
+&lt;p&gt;Vous vous êtes peut-être retrouvés dans cette situation : votre JVM se met à faire des GC à toute allure, Out Of Memory Error !&lt;br&gt;
 Que s&amp;rsquo;est-il passé ? Comment s&amp;rsquo;y prendre pour mener l&amp;rsquo;enquête ?
 Nous commencerons par exposer le problématique. Nous allons voir comment la JVM utilise la mémoire et présenter différentes possibilités de dysfonctionnement.
-Ensuite, nous allons commencer à utiliser une boîte à outils mémoire pour diagnostiquer ce qui se passe dans notre JVM malade.&lt;br>
-Le fil conducteur sera principalement l&amp;rsquo;investigation de soucis de mémoire d&amp;rsquo;une application.&lt;/p></description></item><item><title>Young blood IV : Aftermath</title><link>https://www.parisjug.org/events/2017/01-10-young-blood-4/</link><pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/01-10-young-blood-4/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 10 janvier 2017&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="comment-se-déroule-un-quicky-young-blood-">Comment se déroule un Quicky Young Blood ?&lt;/h2>
-&lt;ul>
-&lt;li>C&amp;rsquo;est une présentation entre 15 et 20 minutes avec 1 seul speaker.&lt;/li>
-&lt;li>Il y a 15 minutes de présentation et 5 minutes de questions&lt;/li>
-&lt;li>Le speaker répond aux questions pendant que le suivant s&amp;rsquo;installe.&lt;/li>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;p>&lt;a href="https://www.parisjug.org/tags/academy/">Consulter toutes nos soirées Young Blood.&lt;/a>&lt;/p></description></item><item><title>NumaGiC : a garbage collector for Big-Data</title><link>https://www.parisjug.org/events/2016/10-11-numagic-garbage-collector/</link><pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/10-11-numagic-garbage-collector/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Mardi 11 octobre 2016&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Reactive et Performance</title><link>https://www.parisjug.org/events/2015/12-08-reactive/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/12-08-reactive/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 8 Décembre 2015&lt;/li>
-&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les vidéos sont publiées sur youtube. Les inscriptions sont ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 à partir de la &lt;a href="https://www.parisjug.org/">HomePage&lt;/a>.&lt;/p>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Tools In Action</title><link>https://www.parisjug.org/events/2015/06-23-tools-in-action/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/06-23-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 23 juin 2015&lt;/li>
-&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 &lt;a href="http://www.eventbrite.fr/e/billets-soiree-tools-in-action-17409631677?aff=erelexporg">via ce lien&lt;/a>&lt;/p>
-&lt;blockquote>
-&lt;p>Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Soirée Performance Java</title><link>https://www.parisjug.org/events/2014/12-09-performance-java/</link><pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/12-09-performance-java/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 09 décembre 2014&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---partie-1---comment-rater-ses-benchmarks">19h30 - Partie 1 - Comment rater ses benchmarks&lt;/h3>
-&lt;p>Les benchmarks sont le meilleur moyen de déclencher des guerres de zealots/des flamewars et de prendre de mauvaises décisions. Les possibles erreurs de benchmarking sont légion, de types différents, rarement intentionnelles, et pour autant méconnues. Durant la première heure, on parlera des métriques importantes à mesurer, on discutera de la pertinence de mesurer la moyenne d&amp;rsquo;un temps de réponse, et surtout on analysera le problème de Coordinated Omission dans un benchmark.&lt;/p></description></item><item><title>Soirée Classloaders et JVM optimisation</title><link>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</link><pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 12 décembre 2013&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+Ensuite, nous allons commencer à utiliser une boîte à outils mémoire pour diagnostiquer ce qui se passe dans notre JVM malade.&lt;br&gt;
+Le fil conducteur sera principalement l&amp;rsquo;investigation de soucis de mémoire d&amp;rsquo;une application.&lt;/p&gt;</description></item><item><title>Young blood IV : Aftermath</title><link>https://www.parisjug.org/events/2017/01-10-young-blood-4/</link><pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/01-10-young-blood-4/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 10 janvier 2017&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="comment-se-déroule-un-quicky-young-blood-"&gt;Comment se déroule un Quicky Young Blood ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;C&amp;rsquo;est une présentation entre 15 et 20 minutes avec 1 seul speaker.&lt;/li&gt;
+&lt;li&gt;Il y a 15 minutes de présentation et 5 minutes de questions&lt;/li&gt;
+&lt;li&gt;Le speaker répond aux questions pendant que le suivant s&amp;rsquo;installe.&lt;/li&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.parisjug.org/tags/academy/"&gt;Consulter toutes nos soirées Young Blood.&lt;/a&gt;&lt;/p&gt;</description></item><item><title>NumaGiC : a garbage collector for Big-Data</title><link>https://www.parisjug.org/events/2016/10-11-numagic-garbage-collector/</link><pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2016/10-11-numagic-garbage-collector/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mardi 11 octobre 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au 9 rue Vesale 75005 Paris.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>Soirée Reactive et Performance</title><link>https://www.parisjug.org/events/2015/12-08-reactive/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/12-08-reactive/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 8 Décembre 2015&lt;/li&gt;
+&lt;li&gt;Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/"&gt;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les vidéos sont publiées sur youtube. Les inscriptions sont ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 à partir de la &lt;a href="https://www.parisjug.org/"&gt;HomePage&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>Soirée Tools In Action</title><link>https://www.parisjug.org/events/2015/06-23-tools-in-action/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/06-23-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 23 juin 2015&lt;/li&gt;
+&lt;li&gt;Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/"&gt;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 &lt;a href="http://www.eventbrite.fr/e/billets-soiree-tools-in-action-17409631677?aff=erelexporg"&gt;via ce lien&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/"&gt;9 rue Vesale 75005 Paris&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>Soirée Performance Java</title><link>https://www.parisjug.org/events/2014/12-09-performance-java/</link><pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/12-09-performance-java/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 09 décembre 2014&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---partie-1---comment-rater-ses-benchmarks"&gt;19h30 - Partie 1 - Comment rater ses benchmarks&lt;/h3&gt;
+&lt;p&gt;Les benchmarks sont le meilleur moyen de déclencher des guerres de zealots/des flamewars et de prendre de mauvaises décisions. Les possibles erreurs de benchmarking sont légion, de types différents, rarement intentionnelles, et pour autant méconnues. Durant la première heure, on parlera des métriques importantes à mesurer, on discutera de la pertinence de mesurer la moyenne d&amp;rsquo;un temps de réponse, et surtout on analysera le problème de Coordinated Omission dans un benchmark.&lt;/p&gt;</description></item><item><title>Soirée Classloaders et JVM optimisation</title><link>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</link><pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2013/12-10-classloader-jvm-optimisation/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 12 décembre 2013&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Performance JVM</title><link>https://www.parisjug.org/events/2012/09-11-performance-jvm/</link><pubDate>Tue, 11 Sep 2012 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2012/09-11-performance-jvm/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 11 septembre 2012&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée Performance JVM</title><link>https://www.parisjug.org/events/2012/09-11-performance-jvm/</link><pubDate>Tue, 11 Sep 2012 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2012/09-11-performance-jvm/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 11 septembre 2012&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Soirée Holly Cummins</title><link>https://www.parisjug.org/events/2010/06-08-holly-cummins/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/06-08-holly-cummins/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 8 juin 2010&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-20h25--java-performance-tuning---not-so-scary-after-all">19h30 à 20h25 : Java Performance Tuning - not so scary after all&lt;/h3>
-&lt;p>No one likes slow applications, but sometimes it&amp;rsquo;s hard to know where to start when trying to fix a performance problem. This talk will cover a range of tools and techniques which can be used to track down and fix performance issues.&lt;/p></description></item><item><title>Soirée Performance</title><link>https://www.parisjug.org/events/2010/01-18-performance/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/01-18-performance/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Lundi 18 janvier 2010&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/sorbonne-paris-4/">les locaux de la Sorbonne Paris IV&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-22h00--performance-tuning-with-cheap-drink-and-poor-tools">19h30 à 22h00 : Performance Tuning with Cheap Drink and Poor Tools&lt;/h3>
-&lt;p>After a brief introduction to a methodology to performance tune Java applications, the audience will guide me through the steps needed to tune an application. The application models a number of performance problems that are common in real world applications. During the session, I will introduce a number of tools designed to expose causal code paths to each specific problem.&lt;/p></description></item><item><title>The Box</title><link>https://www.parisjug.org/events/2008/04-08-the-box/</link><pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/04-08-the-box/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 8 avril 2008&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/espacelancelot/">les locaux de Espace Lancelot&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h-à-19h15--accueil">19h à 19h15 : Accueil&lt;/h3>
-&lt;h3 id="19h15-à-20h00--the-box---les-performances-java">19h15 à 20h00 : The Box - Les performances Java&lt;/h3>
-&lt;p>&lt;em>La présentation est en anglais&lt;/em>&lt;/p>
-&lt;p>Concurrency &amp;amp; High Performance with Kirk Pepperdine from Kodewerk Ltd, Sun Java Champion and co-author, ANT Developer&amp;rsquo;s Handbook.&lt;/p>
-&lt;p>Both Intel and Microsoft have recently said that we, as developers, need to start delivering more concurrency in our applications. What does this mean? How did we get to this point?&lt;/p></description></item></channel></rss>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée Holly Cummins</title><link>https://www.parisjug.org/events/2010/06-08-holly-cummins/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/06-08-holly-cummins/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 8 juin 2010&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h25--java-performance-tuning---not-so-scary-after-all"&gt;19h30 à 20h25 : Java Performance Tuning - not so scary after all&lt;/h3&gt;
+&lt;p&gt;No one likes slow applications, but sometimes it&amp;rsquo;s hard to know where to start when trying to fix a performance problem. This talk will cover a range of tools and techniques which can be used to track down and fix performance issues.&lt;/p&gt;</description></item><item><title>Soirée Performance</title><link>https://www.parisjug.org/events/2010/01-18-performance/</link><pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/01-18-performance/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lundi 18 janvier 2010&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/sorbonne-paris-4/"&gt;les locaux de la Sorbonne Paris IV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-22h00--performance-tuning-with-cheap-drink-and-poor-tools"&gt;19h30 à 22h00 : Performance Tuning with Cheap Drink and Poor Tools&lt;/h3&gt;
+&lt;p&gt;After a brief introduction to a methodology to performance tune Java applications, the audience will guide me through the steps needed to tune an application. The application models a number of performance problems that are common in real world applications. During the session, I will introduce a number of tools designed to expose causal code paths to each specific problem.&lt;/p&gt;</description></item><item><title>The Box</title><link>https://www.parisjug.org/events/2008/04-08-the-box/</link><pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2008/04-08-the-box/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 8 avril 2008&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/espacelancelot/"&gt;les locaux de Espace Lancelot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h-à-19h15--accueil"&gt;19h à 19h15 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h15-à-20h00--the-box---les-performances-java"&gt;19h15 à 20h00 : The Box - Les performances Java&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;La présentation est en anglais&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Concurrency &amp;amp; High Performance with Kirk Pepperdine from Kodewerk Ltd, Sun Java Champion and co-author, ANT Developer&amp;rsquo;s Handbook.&lt;/p&gt;
+&lt;p&gt;Both Intel and Microsoft have recently said that we, as developers, need to start delivering more concurrency in our applications. What does this mean? How did we get to this point?&lt;/p&gt;</description></item></channel></rss>

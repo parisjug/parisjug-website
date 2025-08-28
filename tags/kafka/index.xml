@@ -1,84 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kafka on Paris Java User Group</title><link>https://www.parisjug.org/tags/kafka/</link><description>Recent content in Kafka on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 11 Jun 2024 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/kafka/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Kafka Stream &amp; Démystification de Spring</title><link>https://www.parisjug.org/events/2024/06-11-kafka-n-spring-pattern/</link><pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/06-11-kafka-n-spring-pattern/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 11 Juin 2024 à 19h00&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/octo/">les locaux de Octo&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les &lt;strong>inscrits&lt;/strong> à l&amp;rsquo;évènement non présents &lt;strong>5 minutes avant le début de la session&lt;/strong>, soit à 19h25, verront leurs &lt;strong>places remises à disposition&lt;/strong>.&lt;br>
-Les &lt;strong>non inscrits&lt;/strong> à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong>places disponibles&lt;/strong> sur place &lt;strong>5 min avant le début de la session&lt;/strong>, soit à 19h25.&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kafka on Paris Java User Group</title><link>https://www.parisjug.org/tags/kafka/</link><description>Recent content in Kafka on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 11 Jun 2024 19:00:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/kafka/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée Kafka Stream &amp; Démystification de Spring</title><link>https://www.parisjug.org/events/2024/06-11-kafka-n-spring-pattern/</link><pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2024/06-11-kafka-n-spring-pattern/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 11 Juin 2024 à 19h00&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/octo/"&gt;les locaux de Octo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
-&lt;strong>Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong>&lt;/p></description></item><item><title>Quarkus ... Supersonic Subatomic Java</title><link>https://www.parisjug.org/events/2019/05-14-quarkus/</link><pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/05-14-quarkus/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 14 Mai 2019&lt;/li>
-&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/ecole42/">Ecole 42&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---de-java-à-un-exécutable-natif--graalvm-et-quarkus-changent-la-donne">19h30 - De Java à un exécutable natif : GraalVM et Quarkus changent la donne&lt;/h3>
-&lt;p>Les microservices, la scalabilité instantanée et les plates-formes à haute densité comme Kubernetes nécessitent des applications à faible empreinte mémoire et démarrage rapide. Java n&amp;rsquo;était pas bien positionné car il favorise les temps de traitement aux dépens du CPU et de la RAM.&lt;/p></description></item><item><title>(D)DDD and CQ(R)S to Cloud Architectures</title><link>https://www.parisjug.org/events/2019/04-24-ddd-cqrs/</link><pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/04-24-ddd-cqrs/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 24 Avril 2019&lt;/li>
-&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/">Renault Digital&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---applying-dddd-and-cqrs-to-cloud-architectures-with-java-spring-boot-kafka-and-docker">19h30 - Applying (D)DDD and CQ(R)S to Cloud Architectures with Java, Spring Boot, Kafka and Docker&lt;/h3>
-&lt;p>Many software architectures may benefit from the introduction of (Distributed) Domain-Driven Design and Command Query (Responsibility) Separation.&lt;br>
-No matter if you are maintaining large legacy software systems whether you start a new microservices platform as greenfield approach one always has to think about the domain language and service design.&lt;br>
-In this session I want to show you at a given example application how to get started with introducing domain models, bounded contexts and implementing CQRS where it makes most sense while trying to avoid the technical debt trap e.g. misconceptions and fallacies.&lt;/p></description></item><item><title>Tools In Action</title><link>https://www.parisjug.org/events/2018/06-27-tools-in-action/</link><pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/06-27-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 27 Juin 2018&lt;/li>
-&lt;li>Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/">Renault Digital&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---ksql">19h30 - KSQL&lt;/h3>
-&lt;p>Apache Kafka est une plateforme de streaming dont on connait les qualités de performance, robustesse, resilience, securité, etc.&lt;br>
-Je vous propose de faire une demo de KSQL qui permet de manipuler les données qui passent dans les tuyaux avec le seul langage que tout le monde connait: SQL.&lt;/p></description></item><item><title>Soirée Eclipse Vert.x</title><link>https://www.parisjug.org/events/2017/12-12-vertx/</link><pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/12-12-vertx/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 12 décembre 2017&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/esiea/">les locaux de l&amp;rsquo;ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---application-réactives-avec-eclipse-vertx">19h30 - Application réactives avec Eclipse Vert.x&lt;/h3>
-&lt;p>Vert.x est un toolkit pour écrire des applications réactives et polyglottes pour la JVM. Il fournit aujourd’hui un écosystème complet et modulaire qui intègre le paradigme réactif de bout en bout, performant et facile à utiliser pour tous types d’applications. La richesse de l&amp;rsquo;écosystème Vert.x permet de développer aussi bien une application web de type temps réel, de faire de l’IoT, d’implémenter des adaptateurs de protocoles, d’écrire des applications distribuées et bien entendu de concevoir et intégrer des micro-services.&lt;/p></description></item><item><title>Soirée Rx Java &amp; Kafka</title><link>https://www.parisjug.org/events/2015/03-10-rx-java-kafka/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/03-10-rx-java-kafka/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 10 mars 2015&lt;/li>
-&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00.&lt;/p>
-&lt;blockquote>
-&lt;p>Cette année, le Paris JUG change de salle. Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/">9 rue Vesale 75005 Paris&lt;/a>.&lt;/p>&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item></channel></rss>
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Quarkus ... Supersonic Subatomic Java</title><link>https://www.parisjug.org/events/2019/05-14-quarkus/</link><pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/05-14-quarkus/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 14 Mai 2019&lt;/li&gt;
+&lt;li&gt;Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/ecole42/"&gt;Ecole 42&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---de-java-à-un-exécutable-natif--graalvm-et-quarkus-changent-la-donne"&gt;19h30 - De Java à un exécutable natif : GraalVM et Quarkus changent la donne&lt;/h3&gt;
+&lt;p&gt;Les microservices, la scalabilité instantanée et les plates-formes à haute densité comme Kubernetes nécessitent des applications à faible empreinte mémoire et démarrage rapide. Java n&amp;rsquo;était pas bien positionné car il favorise les temps de traitement aux dépens du CPU et de la RAM.&lt;/p&gt;</description></item><item><title>(D)DDD and CQ(R)S to Cloud Architectures</title><link>https://www.parisjug.org/events/2019/04-24-ddd-cqrs/</link><pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2019/04-24-ddd-cqrs/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 24 Avril 2019&lt;/li&gt;
+&lt;li&gt;Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/"&gt;Renault Digital&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---applying-dddd-and-cqrs-to-cloud-architectures-with-java-spring-boot-kafka-and-docker"&gt;19h30 - Applying (D)DDD and CQ(R)S to Cloud Architectures with Java, Spring Boot, Kafka and Docker&lt;/h3&gt;
+&lt;p&gt;Many software architectures may benefit from the introduction of (Distributed) Domain-Driven Design and Command Query (Responsibility) Separation.&lt;br&gt;
+No matter if you are maintaining large legacy software systems whether you start a new microservices platform as greenfield approach one always has to think about the domain language and service design.&lt;br&gt;
+In this session I want to show you at a given example application how to get started with introducing domain models, bounded contexts and implementing CQRS where it makes most sense while trying to avoid the technical debt trap e.g. misconceptions and fallacies.&lt;/p&gt;</description></item><item><title>Tools In Action</title><link>https://www.parisjug.org/events/2018/06-27-tools-in-action/</link><pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2018/06-27-tools-in-action/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 27 Juin 2018&lt;/li&gt;
+&lt;li&gt;Dans les locaux de &lt;a href="https://www.parisjug.org/location/renault-digital/"&gt;Renault Digital&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---ksql"&gt;19h30 - KSQL&lt;/h3&gt;
+&lt;p&gt;Apache Kafka est une plateforme de streaming dont on connait les qualités de performance, robustesse, resilience, securité, etc.&lt;br&gt;
+Je vous propose de faire une demo de KSQL qui permet de manipuler les données qui passent dans les tuyaux avec le seul langage que tout le monde connait: SQL.&lt;/p&gt;</description></item><item><title>Soirée Eclipse Vert.x</title><link>https://www.parisjug.org/events/2017/12-12-vertx/</link><pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2017/12-12-vertx/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 12 décembre 2017&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/esiea/"&gt;les locaux de l&amp;rsquo;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---application-réactives-avec-eclipse-vertx"&gt;19h30 - Application réactives avec Eclipse Vert.x&lt;/h3&gt;
+&lt;p&gt;Vert.x est un toolkit pour écrire des applications réactives et polyglottes pour la JVM. Il fournit aujourd’hui un écosystème complet et modulaire qui intègre le paradigme réactif de bout en bout, performant et facile à utiliser pour tous types d’applications. La richesse de l&amp;rsquo;écosystème Vert.x permet de développer aussi bien une application web de type temps réel, de faire de l’IoT, d’implémenter des adaptateurs de protocoles, d’écrire des applications distribuées et bien entendu de concevoir et intégrer des micro-services.&lt;/p&gt;</description></item><item><title>Soirée Rx Java &amp; Kafka</title><link>https://www.parisjug.org/events/2015/03-10-rx-java-kafka/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/03-10-rx-java-kafka/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 10 mars 2015&lt;/li&gt;
+&lt;li&gt;Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/"&gt;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cette année, le Paris JUG change de salle. Sauf exception, les sessions se dérouleront désormais à l&amp;rsquo;ESIEA au &lt;a href="https://www.parisjug.org/location/esiea/"&gt;9 rue Vesale 75005 Paris&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item></channel></rss>

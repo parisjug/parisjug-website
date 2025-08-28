@@ -1,46 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on Paris Java User Group</title><link>https://www.parisjug.org/tags/git/</link><description>Recent content in Git on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 10 Nov 2015 19:30:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée FF4J : Feature Flipping &amp; Git : technique de la bulle</title><link>https://www.parisjug.org/events/2015/11-10-ff4j/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/11-10-ff4j/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 10 novembre 2015&lt;/li>
-&lt;li>Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/">ESIEA&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions sont ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 à partir de la &lt;a href="https://www.parisjug.org/">HomePage&lt;/a>.&lt;/p>
-&lt;blockquote>
-&lt;p>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p></description></item><item><title>Getting Git Right</title><link>https://www.parisjug.org/events/2014/05-13-git/</link><pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/05-13-git/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 13 mai 2014&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug">@parisjug&lt;/a>) pour être informé rapidement.&lt;/p>
-&lt;ul>
-&lt;li>Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li>
-&lt;li>Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li>
-&lt;li>Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li>
-&lt;li>L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li>
-&lt;/ul>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30-accueil">19h15 à 19h30: Accueil&lt;/h3>
-&lt;h3 id="19h30---20h30--getting-git-right">19h30 - 20h30 : Getting Git Right&lt;/h3>
-&lt;p>Git est en train de provoquer une révolution dans le monde du développement logiciel. C&amp;rsquo;est cette révolution que nous aborderons lors de Getting Git Right: comment peut-on avoir un processus de développement plus efficaces et quelles sont les fonctionnalités de Git les plus importantes. Nous découvrirons aussi comment Atlassian utilise Git au sein de ses équipes qui sont aujourd&amp;rsquo;hui distribuées dans 4 continents différents. Nous aborderons les sujets suivants:&lt;/p></description></item><item><title>Soirée Git</title><link>https://www.parisjug.org/events/2011/04-12-git/</link><pubDate>Tue, 12 Apr 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/04-12-git/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 12 Avril 2011&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de l&amp;rsquo;ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--accueil">19h15 à 19h30 : Accueil&lt;/h3>
-&lt;h3 id="19h30-à-20h25--git-en-théorie">19h30 à 20h25 : Git en théorie&lt;/h3>
-&lt;p>Utilisateur de SVN pendant de nombreuses années, j&amp;rsquo;avais la sensation croissante de me battre avec mon outil de travail.&lt;br>
-Pire, il s&amp;rsquo;adaptait très mal à mes exigences collaboratives.&lt;br>
-De guerre las, nous en avons choisi un outil de gestion de source décentralisé (Hg puis Git) début 2008.&lt;br>
-La différence était flagrante, je me sentais comme libéré d&amp;rsquo;un poids qui me ralentissait, et la production de l&amp;rsquo;équipe s&amp;rsquo;est fortement améliorée (quantitativement et qualitativement).&lt;/p></description></item><item><title>Soirée Share, Build and Deploy</title><link>https://www.parisjug.org/events/2010/05-11-share-build-deploy/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/05-11-share-build-deploy/</guid><description>&lt;h2 id="date-et-lieu">Date et lieu&lt;/h2>
-&lt;ul>
-&lt;li>Mardi 11 mai 2010&lt;/li>
-&lt;li>Dans &lt;a href="https://www.parisjug.org/location/isep/">les locaux de la ISEP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Inscriptions closes&lt;/p>&lt;/blockquote>
-&lt;h2 id="détails">Détails&lt;/h2>
-&lt;h3 id="19h15-à-19h30--alexandre-bertails-nous-raconte-sa-nouvelle-vie-au-w3c">19h15 à 19h30 : &lt;a href="https://www.parisjug.org/speakers/alexandre-bertails/">Alexandre Bertails&lt;/a> nous raconte sa nouvelle vie au W3C&lt;/h3>
-&lt;h3 id="19h30-à-20h00--dvcs">19h30 à 20h00 : DVCS&lt;/h3>
-&lt;p>Comment rendre son développement stable avant de livrer ? Comment éviter que les développeurs se marchent sur les pieds quand ils codent ? Voila une partie des problèmes qu&amp;rsquo;il est nécessaire de régler avant de devenir fou. Ce fut pour moi le &amp;ldquo;coup de fouet&amp;rdquo; nécessaire pour apprendre, voici 2 ans, les outils de gestion de sources décentralisée (DVCS). Le temps nécessaire à la compréhension fut longue, freiné d&amp;rsquo;abord par mes 5 ans de pratique de Subversion, ensuite par des documentations et des présentations souvent focalisées sur des détails techniques.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on Paris Java User Group</title><link>https://www.parisjug.org/tags/git/</link><description>Recent content in Git on Paris Java User Group</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 10 Nov 2015 19:30:00 +0000</lastBuildDate><atom:link href="https://www.parisjug.org/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>Soirée FF4J : Feature Flipping &amp; Git : technique de la bulle</title><link>https://www.parisjug.org/events/2015/11-10-ff4j/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2015/11-10-ff4j/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 10 novembre 2015&lt;/li&gt;
+&lt;li&gt;Dans les locaux de l&amp;rsquo;&lt;a href="https://www.parisjug.org/location/esiea/"&gt;ESIEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions sont ouvertes le jeudi avant l&amp;rsquo;évènement à 7h00 à partir de la &lt;a href="https://www.parisjug.org/"&gt;HomePage&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;</description></item><item><title>Getting Git Right</title><link>https://www.parisjug.org/events/2014/05-13-git/</link><pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2014/05-13-git/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 13 mai 2014&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les inscriptions seront ouvertes le jeudi précédent l&amp;rsquo;évènement. Suivez aussi le Parisjug sur Twitter (&lt;a href="https://twitter.com/parisjug"&gt;@parisjug&lt;/a&gt;) pour être informé rapidement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/li&gt;
+&lt;li&gt;Les inscrits à l&amp;rsquo;évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition&lt;/li&gt;
+&lt;li&gt;Les non inscrits à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.&lt;/li&gt;
+&lt;li&gt;L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30-accueil"&gt;19h15 à 19h30: Accueil&lt;/h3&gt;
+&lt;h3 id="19h30---20h30--getting-git-right"&gt;19h30 - 20h30 : Getting Git Right&lt;/h3&gt;
+&lt;p&gt;Git est en train de provoquer une révolution dans le monde du développement logiciel. C&amp;rsquo;est cette révolution que nous aborderons lors de Getting Git Right: comment peut-on avoir un processus de développement plus efficaces et quelles sont les fonctionnalités de Git les plus importantes. Nous découvrirons aussi comment Atlassian utilise Git au sein de ses équipes qui sont aujourd&amp;rsquo;hui distribuées dans 4 continents différents. Nous aborderons les sujets suivants:&lt;/p&gt;</description></item><item><title>Soirée Git</title><link>https://www.parisjug.org/events/2011/04-12-git/</link><pubDate>Tue, 12 Apr 2011 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2011/04-12-git/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 12 Avril 2011&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de l&amp;rsquo;ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--accueil"&gt;19h15 à 19h30 : Accueil&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h25--git-en-théorie"&gt;19h30 à 20h25 : Git en théorie&lt;/h3&gt;
+&lt;p&gt;Utilisateur de SVN pendant de nombreuses années, j&amp;rsquo;avais la sensation croissante de me battre avec mon outil de travail.&lt;br&gt;
+Pire, il s&amp;rsquo;adaptait très mal à mes exigences collaboratives.&lt;br&gt;
+De guerre las, nous en avons choisi un outil de gestion de source décentralisé (Hg puis Git) début 2008.&lt;br&gt;
+La différence était flagrante, je me sentais comme libéré d&amp;rsquo;un poids qui me ralentissait, et la production de l&amp;rsquo;équipe s&amp;rsquo;est fortement améliorée (quantitativement et qualitativement).&lt;/p&gt;</description></item><item><title>Soirée Share, Build and Deploy</title><link>https://www.parisjug.org/events/2010/05-11-share-build-deploy/</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2010/05-11-share-build-deploy/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 11 mai 2010&lt;/li&gt;
+&lt;li&gt;Dans &lt;a href="https://www.parisjug.org/location/isep/"&gt;les locaux de la ISEP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Inscriptions closes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="détails"&gt;Détails&lt;/h2&gt;
+&lt;h3 id="19h15-à-19h30--alexandre-bertails-nous-raconte-sa-nouvelle-vie-au-w3c"&gt;19h15 à 19h30 : &lt;a href="https://www.parisjug.org/speakers/alexandre-bertails/"&gt;Alexandre Bertails&lt;/a&gt; nous raconte sa nouvelle vie au W3C&lt;/h3&gt;
+&lt;h3 id="19h30-à-20h00--dvcs"&gt;19h30 à 20h00 : DVCS&lt;/h3&gt;
+&lt;p&gt;Comment rendre son développement stable avant de livrer ? Comment éviter que les développeurs se marchent sur les pieds quand ils codent ? Voila une partie des problèmes qu&amp;rsquo;il est nécessaire de régler avant de devenir fou. Ce fut pour moi le &amp;ldquo;coup de fouet&amp;rdquo; nécessaire pour apprendre, voici 2 ans, les outils de gestion de sources décentralisée (DVCS). Le temps nécessaire à la compréhension fut longue, freiné d&amp;rsquo;abord par mes 5 ans de pratique de Subversion, ensuite par des documentations et des présentations souvent focalisées sur des détails techniques.&lt;/p&gt;</description></item></channel></rss>
