@@ -1,11 +1,11 @@
 ---
 date: 2025-10-14T19:00:00
-publishDate: 2025-10-01
+publishDate: 2025-09-17
 register: "https://www.helloasso.com/associations/bjpc/evenements/octobre-2025"
 tags:
-# TODO
-# - 
-owner: 
+ - n8n
+ - duckdb
+owner: Khanh
 title: "Soirée n8n et DuckDB"
 #videos:
 ---
