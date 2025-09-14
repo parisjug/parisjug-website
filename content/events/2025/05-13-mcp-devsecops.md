@@ -10,7 +10,9 @@ tags:
  - tools
 owner: Charles
 title: "Soirée Model Context Protocol (MCP) et SSDLC avec GitLab"
-#videos:
+videos:
+  - https://www.youtube.com/watch?v=hoVpcmwBavg
+  - https://www.youtube.com/watch?v=WdGy-O9Z9xY
 ---
 
 ## Date et lieu
