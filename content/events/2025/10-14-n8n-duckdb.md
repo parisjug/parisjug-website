@@ -3,8 +3,8 @@ date: 2025-10-14T19:00:00
 publishDate: 2025-09-10
 register: "https://www.helloasso.com/associations/bjpc/evenements/octobre-2025"
 tags:
- - n8n
- - duckdb
+ - database
+ - tools
 owner: Khanh
 title: "Soirée n8n et DuckDB"
 #videos:
@@ -47,15 +47,16 @@ Par [Nayel Ferai]({{< ref "/speakers/nayel-ferai.md" >}})
 
 ### 20h30 : Buffet offert par [Capco]({{< ref "/location/capco.md" >}})
 
-[{{< figure src="/img/sponsors/2025/capco.png" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/capco.md" >}}) 
+[{{< figure src="/img/sponsors/2025/capco.png" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/capco.md" >}})
 
 ### 21h00 : DuckDB, le canard qui a révolutionné le Datalake
 
 DuckDB est passé en peu de temps du "truc bricolé par des universitaires" à une véritable alternative aux solutions de Lakehouse et de base de données classiques.
 
-En prenant en exemple un projet de base de référence construite sur un Datalake, on va pouvoir voir que DuckDB apporte des réponses à tous les niveaux, qu'il s'agisse de transformer des données en faisant du SQL in-memory, explorer des datasets dans le navigateur avec un moteur embarqué en WASM, jusqu'à présenter à des utilisateurs au travers d'applications web. 
+En prenant en exemple un projet de base de référence construite sur un Datalake, on va pouvoir voir que DuckDB apporte des réponses à tous les niveaux, qu'il s'agisse de transformer des données en faisant du SQL in-memory, explorer des datasets dans le navigateur avec un moteur embarqué en WASM, jusqu'à présenter à des utilisateurs au travers d'applications web.
 
-Tout ça sans avoir besoin d'un serveur de bases de données ! L’arrivée récente de Ducklake intègre des alternatives aux formats tables, et permet d’aller encore plus loin. Ce moteur est quasi magique tant les possibilité qu'il offre sont infinie. Et pour enfoncer le clou, on optimise les couts de manière démesurée ! 
+Tout ça sans avoir besoin d'un serveur de bases de données !
+L’arrivée récente de Ducklake intègre des alternatives aux formats tables, et permet d’aller encore plus loin. Ce moteur est quasi magique tant les possibilité qu'il offre sont infinie. Et pour enfoncer le clou, on optimise les couts de manière démesurée !
 
 Cette session est un véritable playbook pour adopter DuckDB pour votre organisation, et en tirer tous les bénéfices.
 
