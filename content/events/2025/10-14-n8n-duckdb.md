@@ -32,7 +32,16 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h30 : Introduction à n8n et son utilisation en entreprise
 
-TODO
+n8n est passé en quelques années du statut d’outil d’automatisation open-source méconnu à celui de véritable pilier dans les organisations qui veulent gagner en efficacité sans dépendre d’une armée de développeurs.
+
+Avec une logique de "no-code/low-code" et plus de 500 intégrations prêtes à l’emploi, n8n permet de relier facilement des applications métiers, d’orchestrer des flux complexes et de donner aux équipes le pouvoir de construire elles-mêmes leurs automatisations.
+
+À travers des cas concrets d’automatisation en finance, RH et opérations, on verra comment n8n aide à :
+- standardiser et fiabiliser les process,
+- réduire drastiquement le temps passé sur les tâches répétitives,
+- et introduire de l’IA au cœur des workflows, simplement.
+
+Cette session est une porte d’entrée pour comprendre pourquoi et comment n8n devient un levier stratégique dans les entreprises modernes, qu’elles soient PME, ETI ou scale-ups. Vous repartirez avec une vision claire de ce que l’outil peut apporter à vos équipes, et des premières pistes pour le mettre en place rapidement.
 
 Par [Nayel Ferai]({{< ref "/speakers/nayel-ferai.md" >}})
 
