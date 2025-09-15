@@ -7,7 +7,9 @@ tags:
 - tools
 owner: 
 title: "Soirée Gradle and Develocity"
-#videos:
+videos:
+  - https://www.youtube.com/watch?v=z6I_eK3VK7c
+  - https://www.youtube.com/watch?v=-e_1IrJfN3M
 ---
 
 ## Date et lieu
