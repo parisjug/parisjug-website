@@ -45,11 +45,7 @@ Cette session est une porte d’entrée pour comprendre pourquoi et comment n8n 
 
 Par [Nayel Ferai]({{< ref "/speakers/nayel-ferai.md" >}})
 
-### 20h30 : Buffet offert par [Capco]({{< ref "/location/capco.md" >}})
-
-[{{< figure src="/img/sponsors/2025/capco.png" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/capco.md" >}})
-
-### 21h00 : DuckDB, le canard qui a révolutionné le Datalake
+### 20h30 : DuckDB, le canard qui a révolutionné le Datalake
 
 DuckDB est passé en peu de temps du "truc bricolé par des universitaires" à une véritable alternative aux solutions de Lakehouse et de base de données classiques.
 
@@ -61,6 +57,10 @@ L’arrivée récente de Ducklake intègre des alternatives aux formats tables, 
 Cette session est un véritable playbook pour adopter DuckDB pour votre organisation, et en tirer tous les bénéfices.
 
 Par [Vincent Heuschling]({{< ref "/speakers/vincent-heuschling.md" >}})
+
+### 21h30 : Buffet offert par [Capco]({{< ref "/location/capco.md" >}})
+
+[{{< figure src="/img/sponsors/2025/capco.png" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/capco.md" >}})
 
 ### 22h00 : 3ème mi-temps des juggers
 
