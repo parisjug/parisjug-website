@@ -14,7 +14,7 @@ Présentation : **Convaincre son entreprise de devenir sponsor**
 
 {{< figure src="thumbnail.png">}}
 
-[Télécharger au format PDF](ParisJUG_Plaquette_Sponsors_2023.pdf)
+[Télécharger au format PDF](ParisJUG_Plaquette_Sponsors_2026.pdf)
 
 ## Format des logos (pour les sponsors)
 
