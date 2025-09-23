@@ -18,8 +18,9 @@ Le Paris Java User Group (JUG) est un groupe d'utilisateurs Java ayant pour but 
 Nous nous rencontrons tous les deuxièmes mardi du mois à Paris.
 L'adresse exacte pouvant évoluer suivant le nombre de participants. Pour rester informé, abonnez-vous à la Mailing list.
 
-* [S'abonner](https://my.sendinblue.com/users/subscribe/js_id/2zu5c/id/1)
-* [Se désabonner](https://my.sendinblue.com/users/unsubscribe/js_id/2zu5c/id/2)
+* [S'abonner](https://ecd81b89.sibforms.com/serve/MUIFAFcQ4xi_U3X8HVgStxOAZNlNlkJ-YRaqppFVz3DTdF7KdryuaiXU4y2-l86GqfUjEw2nIUiI7_R0La4krXAkrWoqSRF4w9JVcDFgQwmQcIL-6uhYHsvaToPPd2_Et1xTnEtkzSOdoXiVg8g6RvZKPka0knDrJjVuuZkdVHFBT7yrinErfWQthkNGQrS7o3Q9KAd5PvX_U5U_)
+<!-- pensez au widget -->
+* [Se désabonner](https://ecd81b89.sibforms.com/serve/MUIFAE5PhA5PcxJUymjolfFazJ1tvJbkl1l9soBISYbvShv9sYexEgZIy8Ogrk7__iUoybx13aE8eI8LS1Ol5COadg4cC4FXss0-7kGmRn-YVAPT5BkdgXyZlBHTISO1D7jH9j5uNW9HYx-EIFiGyZa_qDnK96xg8uaNd2FI957d_hxu2Y4R2aRvRk1nBVkbU--It7HcY4Rkt-JF)
 
 Le Paris JUG est une association en loi 1901.
 Il est indépendant de toute autre organisation ou organisme.
