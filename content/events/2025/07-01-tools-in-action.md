@@ -7,7 +7,10 @@ tags:
 - performance
 owner: Jean-Christophe
 title: "Soirée Tools in Action"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=zKegtDJKHnI
+- https://www.youtube.com/watch?v=xskheuxOAF0
+- https://www.youtube.com/watch?v=OPstb3HCf6w
 ---
 
 ## Date et lieu
