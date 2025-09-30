@@ -13,7 +13,7 @@ title: "Soirée n8n et DuckDB"
 ## Date et lieu
 
 * Mardi 14 octobre 2025 à 19h00
-* Dans Agoragit statpulse({{< ref "/location/agorapulse.md" >}})
+* Dans Agorapulse({{< ref "/location/agorapulse.md" >}})
 
 > Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG.
