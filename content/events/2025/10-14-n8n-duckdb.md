@@ -13,7 +13,7 @@ title: "Soirée n8n et DuckDB"
 ## Date et lieu
 
 * Mardi 14 octobre 2025 à 19h00
-* Dans [to be define]({{< ref "/location/capco.md" >}})
+* Dans Agoragit statpulse({{< ref "/location/agorapulse.md" >}})
 
 > Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG.
@@ -45,7 +45,9 @@ Cette session est une porte d’entrée pour comprendre pourquoi et comment n8n 
 
 Par [Nayel Ferai]({{< ref "/speakers/nayel-ferai.md" >}})
 
-### 20h30 : Buffet 
+### 20h30 : Buffet offert par [Agorapulse]({{< ref "/location/agorapulse.md" >}})
+
+[{{< figure src="/img/sponsors/2025/agorapulse.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/agorapulse.md" >}}) 
 
 ### 21h00 : DuckDB, le canard qui a révolutionné le Datalake
 
