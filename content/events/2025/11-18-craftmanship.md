@@ -12,7 +12,7 @@ title: "Soirée Craftmandship"
 
 ## Date et lieu
 
-* Lundi 18 Novembre 2025 à 19h00
+* Mardi 18 Novembre 2025 à 19h00
 * Dans [les locaux de Oxiane Institut]({{< ref "/location/oxiane-institut.md" >}})
 
 > Les sessions sont filmées et le public est photographié.
