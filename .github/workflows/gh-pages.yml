@@ -7,6 +7,7 @@ on:
   schedule:
     # Every Tuesday and Thursday at 05:00 UTC
     - cron: '0 5 * * 2,4'
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -15,9 +16,11 @@ jobs:
       contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    env:
+      HUGO_CACHE_DIR: /tmp/hugo_cache
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -29,12 +32,12 @@ jobs:
           # extended: true
       
       - name: Restore Hugo cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
-          path: /tmp/hugo_cache
+          path: ${{ env.HUGO_CACHE_DIR }}
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
-            ${{ runner.os }}-hugomod
+            ${{ runner.os }}-hugomod-
 
       - name: Build
         env:
