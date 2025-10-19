@@ -7,7 +7,9 @@ tags:
  - tools
 owner: Khanh
 title: "Soirée n8n et DuckDB"
-#videos:
+videos:
+ - https://www.youtube.com/watch?v=SKiiTkjObu8
+ - https://www.youtube.com/watch?v=hr4uS9h8Fpw
 ---
 
 ## Date et lieu
