@@ -146,4 +146,4 @@ Le Paris JUG a différents types de sponsors (et nous sommes toujours intéress�
 
 Si vous êtes intéressés et que vous voulez sponsoriser d'une manière ou d'une autre le Paris JUG, contactez-nous afin de recevoir notre plaquette.
 
-[Télécharger au format PDF](../marketing-materials/ParisJUG_Plaquette_Sponsors_2023.pdf)
+[Télécharger au format PDF](../marketing-materials/ParisJUG_Plaquette_Sponsors_2026.pdf)
