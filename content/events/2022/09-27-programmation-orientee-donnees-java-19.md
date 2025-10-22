@@ -51,7 +51,7 @@ Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ## Feedback
 
-{{< tweet user="parisjug" id="1574814455996743680">}}
+{{< x user="parisjug" id="1574814455996743680">}}
 
 {{< sponsor-section >}}
 

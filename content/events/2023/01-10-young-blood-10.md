@@ -94,7 +94,7 @@ Par Pierre Cheucle
 
 ## Feedback
 
-{{< tweet user="atogue" id="1612895006636777473">}}
-{{< tweet user="JosePaumard" id="1612915154772959232">}}
+{{< x user="atogue" id="1612895006636777473">}}
+{{< x user="JosePaumard" id="1612915154772959232">}}
 
 {{% coc-section %}}

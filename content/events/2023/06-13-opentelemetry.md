@@ -65,8 +65,8 @@ Par [Bruce Bujon]({{< ref "/speakers/bruce-bujon.md" >}})
 
 ## Feedback
 
-{{< tweet user="__sunix_" id="1668706110340055046">}}
-{{< tweet user="bqiao_eu" id="1668739955927941120">}}
+{{< x user="__sunix_" id="1668706110340055046">}}
+{{< x user="bqiao_eu" id="1668739955927941120">}}
 
 {{< sponsor-section >}}
 

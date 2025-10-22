@@ -55,7 +55,7 @@ Par [Laurent Doguin]({{< ref "/speakers/laurent-doguin.md" >}})
 
 ## Feedback
 
-{{< tweet user="atogue" id="1579907533149732865">}}
+{{< x user="atogue" id="1579907533149732865">}}
 
 {{< sponsor-section >}}
 

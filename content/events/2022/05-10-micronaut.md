@@ -61,8 +61,8 @@ Par [Vladimír Oraný]({{< ref "/speakers/vladimir-orany.md" >}})
 
 ## Feedback
 
-{{< tweet user="parisjug" id="1524080869752852481">}}
-{{< tweet user="wololock" id="1524085950908973056">}}
+{{< x user="parisjug" id="1524080869752852481">}}
+{{< x user="wololock" id="1524085950908973056">}}
 
 {{< sponsor-section >}}
 

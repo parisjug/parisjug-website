@@ -69,8 +69,8 @@ Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}})
 
 ## Feedback
 
-{{< tweet user="jefrajames" id="1590049531768410112">}}
-{{< tweet user="_Mathieu_AVRIL" id="1590071363209162752">}}
+{{< x user="jefrajames" id="1590049531768410112">}}
+{{< x user="_Mathieu_AVRIL" id="1590071363209162752">}}
 
 {{< sponsor-section >}}
 

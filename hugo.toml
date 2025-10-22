@@ -4,13 +4,13 @@ languageCode = 'fr-fr'
 title = 'Paris Java User Group'
 theme = 'mainroad'
 googleAnalytics = "UA-62610761-1"
-
+g
 [Params]
   description = "Bienvenue au Paris Java User Group !" # Site description. Used in meta description
   copyright = "Paris JUG" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
-  twitter_cards = true # Enable Twitter Cards if true
+  x = true # Enable Twitter Cards if true
   images = ["img/featured.png"]
   readmore = true # Show "Read more" button in list if true
   toc = false # Enable Table of Contents
@@ -52,7 +52,7 @@ googleAnalytics = "UA-62610761-1"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  twitter = "parisjug"
+  x = "parisjug"
 #  linkedin = "username"
   github = "parisjug"
 #  email = "example@example.com"

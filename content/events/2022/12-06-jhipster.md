@@ -50,8 +50,8 @@ Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
 ## Feedback
 
-{{< tweet user="_Mathieu_AVRIL" id="1600199183318646784">}}
-{{< tweet user="nicokosi" id="1600208253551464448">}}
+{{< x user="_Mathieu_AVRIL" id="1600199183318646784">}}
+{{< x user="nicokosi" id="1600208253551464448">}}
 
 {{< sponsor-section >}}
 
