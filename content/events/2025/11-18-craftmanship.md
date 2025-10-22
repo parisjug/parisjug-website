@@ -1,6 +1,7 @@
 ---
-date: 2025-11-10T19:00:00
-publishDate: 2025-11-10
+date: 2025-11-18T19:00:00
+publishDate: 2025-10-01
+publishFrontPageDate: 2025-11-11
 register: "https://www.helloasso.com/associations/bjpc/evenements/novembre-2025-18"
 tags:
  - java

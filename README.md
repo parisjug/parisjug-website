@@ -47,6 +47,7 @@ hugo new content/events/<year>/<month>-<day>-<name>.md
 - `date`: The date of the event (with time)
 - `draft` (optional): If set to `true`, the event won't be published on website
 - `publishDate` (optional): The date from which the event will be published (requires to rebuild the site)
+- `publishFrontPageDate` (optional): The date from which the event will be published on the front page
 - register (optional): The link to the eventbrite registration frame (ex `https://eventbrite.fr/tickets-external?eid=xxxx"`)
 - `tags` (optional): A list of tags related to the event for navigation and SEO
 - `title`: The title of the event (without date)

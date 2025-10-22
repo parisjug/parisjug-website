@@ -2,6 +2,7 @@
 date: {{ .Date }}
 #draft: true
 #publishDate: {{ .Date }}
+#publishFrontPageDate: {{ .Date }}
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 #tags:
 #- tag1
