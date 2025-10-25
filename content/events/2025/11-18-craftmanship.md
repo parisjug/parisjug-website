@@ -31,9 +31,9 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h00 : Accueil
 
-### 19h30 : TBD
+### 19h30 : Comment garder le rythme sur la durée ?
 
-TBD
+Écrire du code, c’est souvent partir à toute vitesse, pour voir son élan ralentir au fil des semaines, voire finir par s’arrêter. Les pratiques du Software Craft visent précisément à maintenir cette vitesse, même sur des systèmes complexes et à long terme. Au programme : tests, refactoring, TDD, qualité de code, et surtout, une posture adaptée.
 
 Par [Cyrille Martraire]({{< ref "/speakers/cyrille-martraire.md" >}}) et [Dorra Bartaguiz]({{< ref "/speakers/dorra-bartaguiz.md" >}})
 
@@ -43,7 +43,9 @@ Par [Cyrille Martraire]({{< ref "/speakers/cyrille-martraire.md" >}}) et [Dorra 
 
 ### 21h00 : Craftmanship et l'IA
 
-TBD
+Le craft, est-ce toujours d’actualité, surtout à l’ère de l’IA ? Loin d’être obsolète, cette approche gagne en pertinence face aux défis et aux risques posés par l’intelligence artificielle.
+
+À l’occasion de la sortie de la 2ᵉ édition française du livre [Software Craft (éditions Dunod)](https://www.dunod.com/sciences-techniques/software-craft-tdd-clean-code-et-autres-pratiques-essentielles-0), un exemplaire dédicacé est à gagner.
 
 Par [Cyrille Martraire]({{< ref "/speakers/cyrille-martraire.md" >}}) et [Dorra Bartaguiz]({{< ref "/speakers/dorra-bartaguiz.md" >}})
 
