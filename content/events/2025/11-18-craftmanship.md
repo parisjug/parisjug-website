@@ -7,7 +7,7 @@ tags:
  - java
  - spring
 owner: 
-title: "Soirée Craftmandship"
+title: "Soirée Software Craft"
 #videos:
 ---
 
