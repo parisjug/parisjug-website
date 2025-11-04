@@ -5,7 +5,8 @@ publishFrontPageDate: 2025-11-11
 register: "https://www.helloasso.com/associations/bjpc/evenements/novembre-2025"
 tags:
  - java
- - spring
+ - IA
+ - Software Craft
 owner: 
 title: "Soirée Software Craft"
 #videos:
@@ -41,7 +42,7 @@ Par [Cyrille Martraire]({{< ref "/speakers/cyrille-martraire.md" >}}) et [Dorra 
 
 [{{< figure src="/img/sponsors/2025/oxiane.svg" alt="criteo" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/oxiane-institut.md" >}}) 
 
-### 21h00 : Craftmanship et l'IA
+### 21h00 : Software Craft et l'IA
 
 Le craft, est-ce toujours d’actualité, surtout à l’ère de l’IA ? Loin d’être obsolète, cette approche gagne en pertinence face aux défis et aux risques posés par l’intelligence artificielle.
 
