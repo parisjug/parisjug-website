@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html class="no-js" lang="{{ .Site.Language.Lang }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ .Title }} - {{ .Site.Title }}</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="{{ .Params.Description }}">
+	<meta name="robots" content="noindex, nofollow">
+
+	<link rel="stylesheet" href="/css/style.css">
+	{{ range .Site.Params.customCSS -}}
+	<link rel="stylesheet" href="{{ . | relURL }}">
+	{{- end }}
+
+	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<div class="wrapper">
+			<aside class="sidebar">
+				{{ partial "widgets/sponsors.html" . }}
+			</aside>
+		</div>
+	</div>
+</body>
+</html>
