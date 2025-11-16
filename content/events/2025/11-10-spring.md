@@ -9,7 +9,7 @@ owner:
 title: "Soirée Spéciale Spring"
 videos:
  - https://www.youtube.com/watch?v=687mwbaZo8g
- - https://www.youtube.com/watch?v=1vqLZ1BtGxs&t
+ - https://www.youtube.com/watch?v=1vqLZ1BtGxs
 ---
 
 ## Date et lieu
