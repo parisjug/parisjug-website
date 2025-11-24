@@ -9,7 +9,9 @@ tags:
  - tools
 owner: 
 title: "Soirée Software Craft"
-#videos:
+videos:
+ - https://www.youtube.com/watch?v=FUT2HUSdGA8
+ - https://www.youtube.com/watch?v=eePuXt7-2bs
 ---
 
 ## Date et lieu
