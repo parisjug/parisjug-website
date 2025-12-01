@@ -49,13 +49,10 @@ This journey through Jetty’s evolution showcases not just a timeline of featur
 
 Par [Greg Wilkins]({{< ref "/speakers/greg-wilkins.md" >}})
 
-### 20h30 : Buffet
+### 20h30 : Buffet offert par [Datadog]({{< ref "/location/datadog.md" >}})
 
-<!--
-### 20h30 : Buffet offert par [todo]({{< ref "/location/todo.md" >}})
+[{{< figure src="/img/sponsors/2025/datadog.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/datadog.md" >}}) 
 
-[{{< figure src="/img/sponsors/2025/sponsor.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/sponsor.md" >}}) 
--->
 
 ### 21h00 : The Past, Present, and Future of Enterprise Java
 
