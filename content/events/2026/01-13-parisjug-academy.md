@@ -2,7 +2,6 @@
 date: 2026-01-13T19:00:00
 publishDate: 2026-01-06
 register: "https://www.helloasso.com/associations/bjpc/evenements/janvier-2026"
-https://www.helloasso.com/associations/bjpc/evenements/janvier-2026
 tags:
 # TODO
 # - 
