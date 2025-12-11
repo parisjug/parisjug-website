@@ -1,19 +1,30 @@
 ---
 date: 2026-01-13T19:00:00
-publishDate: 2026-01-06
+publishDate: 2025-12-06
+publishFrontPageDate: 2026-01-05
+
 register: "https://www.helloasso.com/associations/bjpc/evenements/janvier-2026"
 tags:
-# TODO
-# - 
+ - parisjugacademy
+ - performance
+ - java
+ - craft
+ - spring AI
+ - docker model
+ - CVE
+ - security
+ - Clean Code
+ - koog
 owner: 
-title: "Soirée"
+title: "Soirée ParisJUG Academy 2026"
 #videos:
 ---
 
 ## Date et lieu
 
-* Mardi 09 Décembre 2025 à 19h00
-* Dans [les locaux de Exalt]({{< ref "/location/exalt.md" >}})
+* Mardi 13 Janvier 2026 à 19h00
+* Dans [les locaux de Exalt IT]({{< ref "/location/exalt.md" >}})
+
 > Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG.
 En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
@@ -45,15 +56,7 @@ L’objectif de cette présentation est de montrer comment développer facilemen
 
 Par Sreenu doosari
 
-### 20h10 à 20h30 : Un dojo de code
-
-Présentation et organisation d'un coding dojo
-
-Par Christelle Prut
-
-### 20h30 : Buffet 
-
-### 20h30 à 20h50 : CVE en hausse : comment maintenir un produit sûr sans Security Officer
+### 20h10 à 20h30 : CVE en hausse : comment maintenir un produit sûr sans Security Officer
 
 Avec plus de 40 000 CVE publiées en 2024 (soit +38% vs 2023), la question n’est plus ‘comment éviter toutes les vulnérabilités’, mais ‘comment organiser la veille et la correction dans une équipe où la sécurité n’est pas centralisée ?’.
 Dans ce talk, je partage un retour d’expérience concret sur la mise en place d’un workflow de veille et de correction des vulnérabilités dans une organisation horizontale.
@@ -69,20 +72,30 @@ Un talk pragmatique, basé sur un vrai projet, avec outils, retours d’erreurs,
 
 Par Chloé Delphis 
 
+### 20h30 : Buffet offert par [Exalt IT]({{< ref "/location/exalt.md" >}})
+
+[{{< figure   src="/img/sponsors/2026/exalt.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/exalt.md" >}})
+
 ### 20h50 à 21h10 : Clean Code Matters
 
 Bien que très répandu dans le monde de la programmation, le Clean Code est souvent à tort considéré comme facultatif ou comme un simple “nice to have”. Le but de cette présentation est de sensibiliser au Clean Code et à ses concepts fondamentaux, en montrant qu’il s’agit d’une véritable nécessité pour un code lisible et maintenable.
 
 Par Marc Lecanu
 
-### 21h10 à 21h30 : Construire des agents IA en Kotlin avec Koog
+### 21h10 à 21h30 : Un dojo de code
+
+Présentation et organisation d'un coding dojo
+
+Par Christelle Prut
+
+### 21h30 à 21h50 : Construire des agents IA en Kotlin avec Koog
 
 Koog est le framework open-source de JetBrains, conçu pour créer des agents d’IA en Kotlin, il est compatible avec la JVM, Android/iOS et JS/WASM.
 Dans cette présentation, je montrerai comment fonctionne Koog, comment structurer un agent avec la DSL avec l'intégration des outils externes, et comment l’orchestrer pour gérer des scénarios complexes. La présentation sera illustrée par une démo."
 
 Par Latfi Ghassane
 
-### 21h40: Vote et remise des diplômes
+### 21h50: Vote et remise des diplômes
 
 ### 22h00 : 3ème mi-temps des juggers
 
