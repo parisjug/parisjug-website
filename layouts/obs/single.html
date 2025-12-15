@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ .Title }} - {{ .Site.Title }}</title>
+	<meta name="description" content="{{ .Params.Description }}">
+	<meta name="robots" content="noindex, nofollow">
+
+	<link rel="stylesheet" href="/css/style.css">
+	{{ range .Site.Params.customCSS -}}
+	<link rel="stylesheet" href="{{ . | relURL }}">
+	{{- end }}
+
+	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+	<style>
+		body {
+			background: transparent !important;		
+			max-width: 300px;
+		}
+		.wrapper {
+			background: transparent !important;
+		}
+
+	</style>
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<div class="wrapper">
+			<aside class="sidebar">
+				{{ partial "widgets/sponsors.html" . }}
+			</aside>
+		</div>
+	</div>
+</body>
+</html>
