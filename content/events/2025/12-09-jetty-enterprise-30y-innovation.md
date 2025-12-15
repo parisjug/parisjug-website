@@ -7,7 +7,9 @@ tags:
 - jee
 owner: "Bruce"
 title: "Soirée Jetty & Enterprise Java: 30 Years of Innovation"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=OXCSnsPMW_4
+- https://www.youtube.com/watch?v=yOu6ft7ZyrM
 ---
 
 ## Date et lieu
