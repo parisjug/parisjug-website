@@ -3,18 +3,10 @@ title: "Antonio Goncalves"
 twitter: "agoncal"
 ---
 
-Architecte sénior et [Java
-Champion](https://java-champions.dev.java.net/), [Antonio
-Goncalves](http://www.antoniogoncalves.org/)
+Vivant à Paris, Antonio Goncalves est Principal Software Engineer chez Microsoft.
+Il a évolué dans l'écosystème Jakarta EE pendant un moment (Spring, Micronaut, Quarkus, etc.) avant de se tourner vers l'IA.
+Des systèmes distribués aux microservices et fonctions, il aide aujourd'hui ses clients à développer leurs applications intelligentes fonctionnant dans le Cloud.
 
-intervient chez ses clients comme développeur, architecte et formateur.
-Ancien consultant Weblogic chez BEA Systems, il s'est spécialisé depuis
-1998 dans les architectures distribuées et la plateforme Java. Antonio
-est l'auteur de [plusieurs livres](http://agoncal.teachable.com) sur
-Quarkus et Java EE. Il est le co-fondateur du [Paris Java User
-Group](https://www.parisjug.org/), [Devoxx
-France](https://www.devoxx.fr), [Voxxed
-Microservices](https://voxxeddays.com/microservices), et co-animateur
-des [Cast Codeurs](http://lescastcodeurs.com/).
-
-[Blog](https://antoniogoncalves.org)
+En dehors du développement, Antonio a écrit quelques livres (LangChain4j, Quarkus et Java EE), intervient dans des conférences internationales (Devoxx, JavaOne, GeeCon…), écrit des articles techniques, donne des cours en ligne (PluralSight, Udemy) et co-anime le podcast technique français Les Cast Codeurs.
+Il a co-créé le Paris JUG, Voxxed Microservices, Devoxx France et Café IA.
+Pour son travail pour la communauté, il a été nommé Java Champion il y a quelques décennies.
