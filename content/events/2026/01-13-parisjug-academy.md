@@ -61,17 +61,8 @@ Par Sreenu doosari
 
 ### 20h10 à 20h30 : CVE en hausse : comment maintenir un produit sûr sans Security Officer
 
-Avec plus de 40 000 CVE publiées en 2024 (soit +38% vs 2023), la question n’est plus ‘comment éviter toutes les vulnérabilités’, mais ‘comment organiser la veille et la correction dans une équipe où la sécurité n’est pas centralisée ?’.
-Dans ce talk, je partage un retour d’expérience concret sur la mise en place d’un workflow de veille et de correction des vulnérabilités dans une organisation horizontale.
-
-Nous verrons :
-- pourquoi mettre à jour toutes les dépendances “en aveugle” est une fausse bonne idée,
-- comment intégrer Dependency-Check et un miroir NVD dans la CI/CD,
-- comment surveiller aussi le runtime (pas seulement le build),
-- comment gérer les CVE JavaScript absentes de la NVD,
-- et comment instaurer une culture de sécurité partagée, quand personne n’est ’Security Officer’.
-
-Un talk pragmatique, basé sur un vrai projet, avec outils, retours d’erreurs, bonnes pratiques et limites d’une approche horizontale."
+Avec plus de 40 000 CVE publiées en 2024 (soit +38% par rapport à 2023), la question n'est plus « comment éviter toutes les vulnérabilités », mais « comment organiser la veille et la correction dans une équipe où la sécurité n'est pas centralisée ? ».
+Ce talk propose un retour d'expérience concret sur la mise en place d'un process horizontal de gestion des vulnérabilités des dépendances : détection continue, analyse, partage de la responsabilité et documentation des décisions.
 
 Par Chloé Delphis 
 
