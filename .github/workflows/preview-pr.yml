@@ -39,7 +39,7 @@ jobs:
 
       - name: Comment PR with preview starting
         id: start_comment
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const prNumber = Number(process.env.PR_NUMBER);
@@ -73,7 +73,7 @@ jobs:
             ${{ runner.os }}-hugomod-
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: '20'
 
@@ -121,7 +121,7 @@ jobs:
 
       - name: Update PR comment with preview link
         if: success()
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         env:
           COMMENT_ID: ${{ steps.start_comment.outputs.comment_id }}
           PREVIEW_URL: ${{ env.DEPLOY_URL }}
@@ -139,7 +139,7 @@ jobs:
 
       - name: Update PR comment on failure
         if: failure() && steps.start_comment.outputs.comment_id
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         env:
           COMMENT_ID: ${{ steps.start_comment.outputs.comment_id }}
         with:
