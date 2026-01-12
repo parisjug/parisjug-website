@@ -32,6 +32,22 @@ docker run --rm -it \
   server --bind 0.0.0.0
 ```  
 
+## PR Preview
+
+To generate a preview deployment of a pull request:
+
+1. Comment `/preview` on the pull request
+2. The GitHub Actions workflow will automatically build and deploy the site to Surge.sh
+3. A preview URL will be posted as a comment (e.g., `https://pr-123-parisjug-preview.surge.sh`)
+
+**Note for maintainers:** The `SURGE_TOKEN` secret must be configured in the repository settings. To generate a token:
+
+```shell
+npm install -g surge
+surge login
+surge token  # Add this to GitHub Secrets as SURGE_TOKEN
+```
+
 ## Creating Content
 
 ### Creating an Event
