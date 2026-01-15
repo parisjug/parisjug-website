@@ -1,6 +1,6 @@
 ---
 date: 2026-02-19T19:00:00
-publishDate: 2026-02-15
+publishDate: 2026-01-15
 publishFrontPageDate: 2026-02-11
 
 register: "https://www.helloasso.com/associations/bjpc/evenements/fevrier-18-2026"
@@ -14,7 +14,7 @@ title: "Soirée LangChain4j"
 ## Date et lieu
 
 * Jeudi 19 Février 2026 à 19h00
-* Dans [les locaux de Datadog]({{< ref "/location/microsoft.md" >}})
+* Dans [les locaux de Microsoft France]({{< ref "/location/microsoft.md" >}})
 
 > Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG.
