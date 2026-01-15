@@ -1,7 +1,9 @@
 ---
 date: 2026-02-19T19:00:00
-publishDate: 2026-02-11
-#register: "https://www.helloasso.com/associations/bjpc/evenements/fevrier-2026"
+publishDate: 2026-02-15
+publishFrontPageDate: 2026-02-11
+
+register: "https://www.helloasso.com/associations/bjpc/evenements/fevrier-18-2026"
 tags:
 - ai
 owner: Bruce
@@ -11,8 +13,8 @@ title: "Soirée LangChain4j"
 
 ## Date et lieu
 
-* Mardi 10 Février 2026 à 19h00
-* Dans [les locaux de Datadog]({{< ref "/location/datadog.md" >}})
+* Jeudi 19 Février 2026 à 19h00
+* Dans [les locaux de Datadog]({{< ref "/location/microsoft.md" >}})
 
 > Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG.
@@ -59,15 +61,15 @@ Par [Antonio Goncalves]({{< ref "/speakers/antonio-goncalves.md" >}})
 
 [{{< figure src="/img/sponsors/2026/datadog.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/datadog.md" >}}) 
 
-### 21h00 : Todo
+### 21h00 : LangChain4j et cdi
 
 ...
 
 ...
 
-...
+Par Yann Blazart et 
 
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+Par [Yann Blazart]({{< ref "/speakers/yann-blazart.md" >}}) et [Yann Blazart]({{< ref "/speakers/yann-blazart.md" >}})
 
 ### 22h00 : 3ème mi-temps des juggers
 

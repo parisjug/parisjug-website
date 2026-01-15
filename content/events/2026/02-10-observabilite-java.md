@@ -1,6 +1,7 @@
 ---
 date: 2026-02-10T19:00:00
-publishDate: 2026-02-01
+publishFrontPageDate: 2026-02-01
+publishDate: 2026-01-15
 register: "https://www.helloasso.com/associations/bjpc/evenements/fevrier-2026"
 tags:
 - cloud
