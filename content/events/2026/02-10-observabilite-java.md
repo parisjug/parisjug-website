@@ -1,7 +1,7 @@
 ---
 date: 2026-02-10T19:00:00
-publishFrontPageDate: 2026-02-01
 publishDate: 2026-01-15
+publishFrontPageDate: 2026-02-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/fevrier-2026"
 tags:
 - cloud
@@ -32,15 +32,8 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h00 : Accueil
 
-### 19h30 : Todo
+### 19h30 : L'histoire de l'observabilité de l'écosystème Java
 
-...
-
-...
-
-...
-
-Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
 
 ### 20h30 : Buffet offert par [Datadog]({{< ref "/location/datadog.md" >}})
 
