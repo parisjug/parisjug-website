@@ -1,5 +1,4 @@
-{{ if or
-	(not (isset .Params "publishFrontPageDate")) 
+{{ if 
 	(lt (.Params.publishFrontPageDate | time.AsTime) now)			
 }}
 <article class="list__item post">
