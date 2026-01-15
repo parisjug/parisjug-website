@@ -1,5 +1,6 @@
-{{ if 
-	(lt (.Params.publishFrontPageDate | time.AsTime) now)			
+{{ if or
+	(not .Params.publishFrontPageDate)
+	(lt (.Params.publishFrontPageDate | time.AsTime) now)
 }}
 <article class="list__item post">
 	{{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
@@ -17,13 +18,13 @@
 	<div class="content list__excerpt post__content clearfix">
 		{{/* Display registration page if the event is future and register link is defined */}}
 		{{- if and
-			(gt (.Date | time.AsTime) now)			
-			(isset .Params "register")
+			(gt (.Date | time.AsTime) now)
+			.Params.register
 		}}
 		<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="{{ .Params.register }}/widget" style="width: 100%; height: 750px; border: none;"></iframe>		
 		{{- end }}
 		{{/* Display video if defined */}}
-		{{- if isset .Params "videos"}}
+		{{- if .Params.videos }}
 		{{ partial "content/replay/list.html" (dict "videos" .Params.videos "header" "h3")}}
 		{{- else }}
 		{{/* Otherwise, display summary */}}
