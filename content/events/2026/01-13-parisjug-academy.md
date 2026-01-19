@@ -14,7 +14,10 @@ tags:
 - spring
 owner: 
 title: "Soirée ParisJUG Academy 2026"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=b1Iz3QKClg0
+- https://www.youtube.com/watch?v=zDl-xaBglIE
+- https://www.youtube.com/watch?v=_r8Bf7KBEpc
 ---
 
 ## Date et lieu
