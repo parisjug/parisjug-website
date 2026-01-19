@@ -1,5 +1,6 @@
 ---
 title: "Bruce Bujon"
+bluesky: "hardcoding.fr"
 twitter: "HardCoding"
 ---
 

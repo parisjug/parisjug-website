@@ -82,7 +82,10 @@ hugo new content/speakers/<first_name>-<last_name>.md
 2. Edit the speaker metadata:
 
 - `title`: The readable name of the speaker
+- `bluesky` (optional): The Bluesky handle of the speaker (full handle like username.bsky.social).
 - `twitter` (optional): The Twitter handle of the speaker (without `@`)
+
+ If both `bluesky` and `twitter` are specified, only the Bluesky profile will be displayed.
 
 3. Add the speaker biography as content.
 
@@ -107,7 +110,7 @@ Sponsors data are located in three locations:
   - The event summary otherwise.
 - Speakers page in an automatec alphabetic index.
 - Speaker conference list from the speaker page is updated if a speaker is mentioned in an event content.
-- Speaker profile picture comes from the Twitter and is regularly updated.
+- Speaker profile picture comes from Bluesky (if available) or Twitter and is regularly updated. When both are specified, only Bluesky is displayed.
 
 ### Custom Shortcodes
 

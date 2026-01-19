@@ -1,5 +1,6 @@
 ---
 title: "Pierre-Yves Fourmond"
+bluesky: "pyfourmond.bsky.social"
 twitter: "grumpyf0x48"
 ---
 

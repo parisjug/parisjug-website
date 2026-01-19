@@ -1,5 +1,6 @@
 ---
 title: "José Paumard"
+bluesky: "josepaumard.bsky.social"
 twitter: "JosePaumard"
 ---
 
