@@ -1,6 +1,6 @@
 {{- if and
     (gt (.Page.Date | time.AsTime) now)
-    (isset .Page.Params "register")
+    .Page.Params.register
 }}
 <h2 id="inscription">Inscription</h2>
 <iframe id="haWidget" allowtransparency="true" src="{{ .Page.Params.register }}/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
