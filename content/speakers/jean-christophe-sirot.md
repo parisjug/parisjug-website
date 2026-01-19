@@ -1,5 +1,6 @@
 ---
 title: "Jean Christophe Sirot"
+"bluesky": "sirot.org"
 twitter: "jcsirot"
 ---
 
