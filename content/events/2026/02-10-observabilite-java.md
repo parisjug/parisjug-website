@@ -32,8 +32,19 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h00 : Accueil
 
-### 19h30 : L'histoire de l'observabilité de l'écosystème Java
+### 19h30 : 25 ans de Java : Des monolithes aux microservices pilotés par l’observabilité
 
+Depuis plus de 25 ans, Java n’a cessé d’évoluer, des monolithes déployés sur des serveurs d'applications, aux microservices cloud-native exécutés sur des infrastructures éphémères.
+Si les frameworks, les runtimes et les modèles de déploiement ont profondément changé, un défi s’est considérablement complexifié: Comprendre le comportement réel des applications Java en production.
+
+Dans ce talk, Pejman Tabassomi partage son parcours personnel à travers quatre grandes vagues de l’écosystème Java : les systèmes J2EE d’entreprise, la révolution Spring et les conteneurs légers, l’essor des microservices et du cloud-native, puis l’ère actuelle de l’observabilité et de l’intelligence du runtime.
+À partir d’exemples concrets, il explique pourquoi les approches classiques de debugging ne fonctionnent plus dans des architectures distribuées, et pourquoi les logs et les métriques ne suffisent plus.
+
+La session explore les pratiques modernes d’observabilité pour les applications Java : tracing distribué, propagation de contexte, instrumentation OpenTelemetry, profiling continu et instrumentation dynamique. Elle met également en lumière des enseignements issus de systèmes observés à grande échelle, notamment autour des architectures asynchrones, des problèmes de performance et des idées reçues sur le rôle de la JVM.
+
+Ce talk s’adresse aux développeurs et ingénieurs Java qui souhaitent mieux comprendre les systèmes distribués modernes et découvrir comment l’observabilité est devenue un élément clé du développement, de l’exploitation et du troubleshooting des applications Java aujourd’hui.
+
+Par [Pejman Tabassomi]({{< ref "/speakers/pejman-tabassomi.md" >}})
 
 ### 20h30 : Buffet offert par [Datadog]({{< ref "/location/datadog.md" >}})
 
