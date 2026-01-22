@@ -61,15 +61,25 @@ Par [Antonio Goncalves]({{< ref "/speakers/antonio-goncalves.md" >}})
 
 [{{< figure src="/img/sponsors/2026/datadog.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/datadog.md" >}}) 
 
-### 21h00 : LangChain4j et cdi
+### 21h00 : LangChain4j-CDI : L'IA Générative Nativement Injectable dans Jakarta EE
 
-...
+Antonio vous a montré comment construire un chatbot intelligent avec LangChain4j et Quarkus.
+Maintenant, comment intégrer cette puissance IA dans n'importe quel serveur Jakarta EE ou MicroProfile ? C'est là qu'entre en jeu LangChain4j-CDI.
 
-...
+En tant que co-créateur de ce module avec Emmanuel Hugonnet et Buhake Sindi, je vous présente l'extension CDI qui réalise le pont entre LangChain4j et l'écosystème enterprise Java.
+Avec une simple annotation @RegisterAIService, injectez un agent IA aussi naturellement qu'un EntityManager.
+WildFly, Payara, Liberty, Helidon, GlassFish… tous les serveurs CDI sont compatibles.
 
-Par Yann Blazart et 
+Ce que vous apprendrez :
 
-Par [Yann Blazart]({{< ref "/speakers/yann-blazart.md" >}}) et [Yann Blazart]({{< ref "/speakers/yann-blazart.md" >}})
+* L'architecture des Build-time Compatible Extensions de CDI 4.1
+* Créer un agent IA injectable en quelques lignes
+* Intégrer MicroProfile Fault Tolerance et Telemetry pour la production
+* Connecter vos agents aux outils via le protocole MCP
+
+Et s'il nous reste du temps, on pourra aborder A2A ;)
+
+Par [Yann Blazart]({{< ref "/speakers/yann-blazart.md" >}})
 
 ### 22h00 : 3ème mi-temps des juggers
 
