@@ -57,9 +57,9 @@ Points techniques clés :
 
 Par [Antonio Goncalves]({{< ref "/speakers/antonio-goncalves.md" >}})
 
-### 20h30 : Buffet offert par [Datadog]({{< ref "/location/datadog.md" >}})
+### 20h30 : Buffet offert par [Microsoft]({{< ref "/location/microsoft.md" >}})
 
-[{{< figure src="/img/sponsors/2026/datadog.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/datadog.md" >}}) 
+[{{< figure src="/img/sponsors/2026/microsoft.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/microsoft.md" >}}) 
 
 ### 21h00 : LangChain4j-CDI : L'IA Générative Nativement Injectable dans Jakarta EE
 
