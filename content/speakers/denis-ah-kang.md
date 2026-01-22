@@ -1,5 +1,5 @@
 ---
-title: "denis-ah-kang"
+title: "Denis Ah Hang"
 #twitter: "dlresende"
 ---
 
