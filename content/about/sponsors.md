@@ -5,20 +5,22 @@ toc: true
 
 ## Sponsors Platinium
 
-### Agorapulse
+### Doctolib
 
-{{< figure src="/img/sponsors/2024/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2026/doctolib.svg" alt="Doctolib" class="sponsor-svg-logo" >}}
 
-Depuis 2011, Agorapulse propose une solution de Social Media Management, pour aider les marques, entreprises et agences à gérer efficacement leur présence sur les réseaux sociaux.
+No one should feel alone in their experience of care. At Doctolib, we’re setting a new pulse for healthcare, helping people be healthier and improving the daily lives of health professionals.
 
-Afin de supporter sa croissance (plus de 8 000 clients), la plate-forme technique s'appuie sur AWS pour l'infra, Angular pour le front et Java pour le back, notamment le framework Micronaut.
+With more than 3000 employees across France, Germany, Italy, and the Netherlands, we’re reinventing how care is delivered through a new generation of AI-powered technologies and services. Our Operating System supports health professionals in all their activities, from clinical, financial, to admin and care cooperation. Our Health Companion helps people prevent health problems, detect risks earlier, access care faster, and better follow treatments.
 
-[Site Web](https://www.agorapulse.com) - [Blog technique]( https://medium.com/agorapulse-stories/tech/home)
+Today, over 90 million people use Doctolib to manage their health and find care, while 420K health professionals use Doctolib to focus on what matters most: caring for patients.
+
+[Site Web](https://www.doctolib.fr/) - [Carrières](https://careers.doctolib.fr/)
 
 
 ### Mirakl
 
-{{< figure src="/img/sponsors/2024/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2026/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
 
 Nous développons une solution logicielle de marketplace en SaaS qui façonne l’e-commerce de demain.
 Déjà utilisée par des clients comme Carrefour, Darty, Galeries Lafayette ou Macy's, notre solution est développée par une équipe technique expérimentée pour supporter de fortes charges et volumétries de données en s’appuyant principalement sur les technologies Java, Go, PostgreSQL, Kafka, Elasticsearch…
@@ -27,7 +29,7 @@ Envie d'en savoir plus? Rendez-vous sur, visitez [www.mirakl.com](http://www.mir
 
 ### OCTO Technology Part of Accenture
 
-{{< figure src="/img/sponsors/2024/octo.svg" alt="Octo Technology" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2026/octo.svg" alt="Octo Technology" class="sponsor-svg-logo" >}}
 
 - Digital thinkers & doers.
 - Cabinet de conseil et de réalisation it
@@ -46,7 +48,7 @@ Si OCTO a acquis au fil des ans un positionnement de leader d’opinion, c’est
 
 ### Oxiane
 
-{{< figure src="/img/sponsors/2024/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2026/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
 
 Oxiane est depuis près de 20 ans une société de services en informatique qui s’attache à constituer une équipe de talents, autocritique et solidaire, animée par des gens qui cherchent à comprendre et à partager ce qu’ils font.  
 Notre activité porte sur l’ingénierie, le conseil et la formation autour des nouvelles technologies informatiques.  
@@ -60,7 +62,7 @@ Composée de plus de 50 consultants experts passionnés par le développement, n
 
 ### Renault Digital
 
-{{< figure src="/img/sponsors/2024/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2026/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
 
 Le développement du digital fait avancer notre métier de constructeur : les véhicules sont de plus en plus connectés et les outils de conception numérique, la robotique, l’analyse des données d’usage de nos véhicules ou des comportements des clients sont autant de moyens pour développer l’entreprise.
 Les outils de travail bénéficient de l’évolution des technologies; ils sont plus connectés, plus collaboratifs.
@@ -71,7 +73,7 @@ Elle doit devenir une communauté d’experts en terme de pratiques digitales, c
 
 ### Sciam
 
-{{< figure src="/img/sponsors/2024/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2026/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
 
 SCIAM est une société de conseil en innovation et transformation des organisations fondée sur le dialogue entre technologies et sciences humaines.
 
@@ -86,50 +88,6 @@ Nous observons que les entreprises qui dominent leurs marchés se reposent sur u
 Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SCIAM_FR) - [LinkedIn](https://www.linkedin.com/company/sciamfr/)
 
 
-### Worldline
-
-{{< figure src="/img/sponsors/2024/worldline.svg" alt="Sciam" class="sponsor-svg-logo" >}}
-
-Worldline est un leader mondial des paiements et le partenaire technologique de choix des commerçants, des banques et des acquéreurs.
-Avec 18 000 collaborateurs dans 40 pays, Worldline fournit à ses clients des solutions durables, fiables et innovantes qui contribuent à leur croissance. 
-
-[Site Web](https://www.worldline.com/)
-
-### i-Lead Consulting
-
-{{< figure src="/img/sponsors/2025/ilead.svg" alt="i-Lead Consulting" class="sponsor-svg-logo" >}}
-
-Chez i-Lead Consulting, l’innovation est au cœur de notre mission. Depuis notre création, nous nous engageons à accompagner nos clients dans la transformation digitale en leur proposant des solutions technologiques de pointe, adaptées aux défis d’un monde en constante évolution. 
-
-Notre expertise s’étend sur des domaines clés tels que le développement logiciel, les architectures Cloud, la data science, et surtout, les nouvelles technologies émergentes comme l’intelligence artificielle. Notre engagement envers les nouvelles technologies Dans un monde où l’innovation est un facteur déterminant de succès, i-Lead Consulting place les nouvelles technologies au centre de sa stratégie. 
-
-Nous explorons en permanence des solutions d’avant-garde pour répondre aux besoins spécifiques de nos clients, en mettant un accent particulier sur : 
-
-* L’intelligence artificielle (IA) : Développement d’applications intelligentes, automatisation des processus métiers, traitement du langage naturel (NLP), et systèmes prédictifs.
-* Le Cloud et la scalabilité : Conception d’infrastructures résilientes et évolutives grâce à des plateformes telles que GCP, AWS et Azure. 
-* L’innovation dans le développement logiciel : Utilisation des frameworks et des technologies modernes pour créer des solutions performantes, sécurisées et adaptées aux besoins métiers. 
-
-#### À propos de i-Lead Consulting 
-
-Avec une équipe d’experts passionnés, i-Lead Consulting aide ses clients à relever les défis complexes de leur transformation digitale. 
-
-Grâce à notre approche centrée sur l’humain et notre expertise en technologie, nous développons des solutions qui répondent aux enjeux de performance, d’évolutivité et d’innovation. Notre vision est simple : construire un avenir technologique meilleur grâce à l’innovation et au talent collectif. Nous sommes ravis de participer à cette formidable aventure avec le Paris JUG et de continuer à pousser les limites de la technologie pour offrir des solutions innovantes à la communauté et à nos partenaires. 
-
-[Site Web](https://www.i-leadconsulting.com/)
-
-### Capco
-
-{{< figure src="/img/sponsors/2025/capco.svg" alt="capco" class="sponsor-svg-logo" >}}
-
-Capco est un cabinet de conseil international en management et organisation spécialisé dans les services financiers.
-
-Capco se concentre sur les changements complexes de l’industrie financière. Plus de 5 000 experts aident les clients à se transformer, se développer et à améliorer leurs activités en agissant sur différents leviers : accroissement des revenus, amélioration de l’efficacité, maîtrise des coûts, gestion des risques, mise en conformité et gestion des changements réglementaires.
-
-Capco intervient auprès des acteurs de la banque, des marchés de capitaux, de la gestion de patrimoine et d’actifs. D'autres expertises sont développées, comme c’est le cas pour l’énergie aux Etats-Unis.
-
-Le groupe Capco est basé à Londres (Royaume-Uni) et possède 27 bureaux implantés dans les principaux centres financiers en Europe, Asie Pacifique, Amérique du Nord et Amérique du Sud. 
-
-[Site Web](https://www.capco.com/)
 
 ## Devenez sponsors
 
