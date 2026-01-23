@@ -17,6 +17,21 @@ Today, over 90 million people use Doctolib to manage their health and find care,
 
 [Site Web](https://www.doctolib.fr/) - [Carrières](https://careers.doctolib.fr/)
 
+### Margo
+
+{{< figure src="/img/sponsors/2026/margo.svg" alt="Margo" class="sponsor-svg-logo" >}}
+
+Depuis 20 ans, MARGO intervient sur des défis technologiques majeurs, de la Data et l'IA aux architectures Cloud. Pour nous, l'excellence se traduit par la capacité à dompter ces enjeux critiques pour en faire des opportunités.
+
+Pour accompagner nos consultants dans ces environnements exigeants, nous avons créé le Pôle EXCELLENCE : 100% dédié au management et au développement des talents. Chaque consultant est rattaché à une Practice, pilotée par un Practice Manager (un expert issu du terrain). Sa mission principale est de faire grandir les compétences de sa Practice : suivi de carrière, accompagnement projet, formations certifiantes, plan d’évolution...
+
+Vous progressez ainsi en continu sur des missions stratégiques et boostez votre expertise aux côtés d'experts métiers. 
+
+Notre promesse : du sur-mesure au service de votre ambition. L'excellence ne s'acquiert pas, elle se cultive.
+Rejoindre MARGO, c’est la garantie de rester à la pointe de votre expertise.
+
+[Site Web](https://www.margo.com/)
+
 
 ### Mirakl
 
