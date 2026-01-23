@@ -3742,13 +3742,20 @@ plusieurs autres projets impliquant des BRMS, que ce soit avec JRules ou
 Drools.&lt;/p&gt;</description></item><item><title>Laurent Mercier</title><link>https://www.parisjug.org/speakers/laurent-mercier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/laurent-mercier/</guid><description>&lt;p&gt;Je suis Laurent Mercier, je possède plus de 20 ans d&amp;rsquo;expérience dans le développement de logiciels et l&amp;rsquo;analyse de données, ainsi que dans le domaine de la linguistique-informatique.&lt;/p&gt;
 &lt;p&gt;J’ai travaillé en tant que formateur en développement d&amp;rsquo;applications JEE, avec une moyenne de huit à dix apprenants par session de neuf semaines. J’ai conçu et rédigé des supports de cours sur divers sujets NTIC.&lt;/p&gt;
 &lt;p&gt;J’ai travaillé en tant que prestataire pour des clients dans le monde bancaire, assurance, grande distribution et pharmaceutique, ce qui m’a permis d&amp;rsquo;acquérir une connaissance approfondie de leurs besoins et défis.&lt;/p&gt;</description></item><item><title>Les sponsors du JUG</title><link>https://www.parisjug.org/about/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/about/sponsors/</guid><description>&lt;h2 id="sponsors-platinium"&gt;Sponsors Platinium&lt;/h2&gt;
+&lt;h3 id="agorapulse"&gt;Agorapulse&lt;/h3&gt;
+&lt;figure class="sponsor-svg-logo"&gt;&lt;img src="https://www.parisjug.org/img/sponsors/2026/agorapulse.svg"
+ alt="Agorapulse"&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Depuis 2011, Agorapulse propose une solution de Social Media Management, pour aider les marques, entreprises et agences à gérer efficacement leur présence sur les réseaux sociaux.&lt;/p&gt;
+&lt;p&gt;Afin de supporter sa croissance (plus de 8 000 clients), la plate-forme technique s&amp;rsquo;appuie sur AWS pour l&amp;rsquo;infra, Angular pour le front et Java pour le back, notamment le framework Micronaut.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.agorapulse.com"&gt;Site Web&lt;/a&gt; - &lt;a href="https://medium.com/agorapulse-stories/tech/home"&gt;Blog technique&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id="doctolib"&gt;Doctolib&lt;/h3&gt;
 &lt;figure class="sponsor-svg-logo"&gt;&lt;img src="https://www.parisjug.org/img/sponsors/2026/doctolib.svg"
  alt="Doctolib"&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;No one should feel alone in their experience of care. At Doctolib, we’re setting a new pulse for healthcare, helping people be healthier and improving the daily lives of health professionals.&lt;/p&gt;
-&lt;p&gt;With more than 3000 employees across France, Germany, Italy, and the Netherlands, we’re reinventing how care is delivered through a new generation of AI-powered technologies and services. Our Operating System supports health professionals in all their activities, from clinical, financial, to admin and care cooperation. Our Health Companion helps people prevent health problems, detect risks earlier, access care faster, and better follow treatments.&lt;/p&gt;</description></item><item><title>Lilian Benoit</title><link>https://www.parisjug.org/speakers/lilian-benoit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/lilian-benoit/</guid><description>&lt;p&gt;Lilian a 19 ans d&amp;rsquo;expérience. Tech Leader dans une ESN Bordelaise. Il&lt;br&gt;
+&lt;p&gt;No one should feel alone in their experience of care. At Doctolib, we’re setting a new pulse for healthcare, helping people be healthier and improving the daily lives of health professionals.&lt;/p&gt;</description></item><item><title>Lilian Benoit</title><link>https://www.parisjug.org/speakers/lilian-benoit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/lilian-benoit/</guid><description>&lt;p&gt;Lilian a 19 ans d&amp;rsquo;expérience. Tech Leader dans une ESN Bordelaise. Il&lt;br&gt;
 est passionné par l&amp;rsquo;informatique depuis bien plus longtemps. Il aime&lt;br&gt;
 travailler sur la plateforme Java : JVM et JavaEE, notamment sur sa&lt;br&gt;
 distribution préférée : Debian.&lt;/p&gt;
