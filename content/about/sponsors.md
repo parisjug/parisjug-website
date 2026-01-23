@@ -5,6 +5,16 @@ toc: true
 
 ## Sponsors Platinium
 
+### Agorapulse
+
+{{< figure src="/img/sponsors/2026/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}
+
+Depuis 2011, Agorapulse propose une solution de Social Media Management, pour aider les marques, entreprises et agences à gérer efficacement leur présence sur les réseaux sociaux.
+
+Afin de supporter sa croissance (plus de 8 000 clients), la plate-forme technique s'appuie sur AWS pour l'infra, Angular pour le front et Java pour le back, notamment le framework Micronaut.
+
+[Site Web](https://www.agorapulse.com) - [Blog technique]( https://medium.com/agorapulse-stories/tech/home)
+
 ### Doctolib
 
 {{< figure src="/img/sponsors/2026/doctolib.svg" alt="Doctolib" class="sponsor-svg-logo" >}}
