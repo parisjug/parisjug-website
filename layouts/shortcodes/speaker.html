@@ -1,0 +1,50 @@
+{{- $slug := .Get 0 -}}
+{{- $speakerPath := printf "/speakers/%s" $slug -}}
+{{- with .Site.GetPage $speakerPath -}}
+	{{- /* Check if local avatar exists */ -}}
+	{{- $localPath := printf "images/speakers/%s.jpg" .File.BaseFileName -}}
+	{{- $avatarFound := false -}}
+	{{- with resources.Get $localPath -}}
+		{{- $avatarFound = true -}}
+	{{- end -}}
+<div class="speaker-widget">
+	{{- if $avatarFound -}}
+	<div class="avatar">
+		{{ partial "speaker-avatar.html" (dict
+			"slug" .File.BaseFileName
+			"title" .Title
+			"size" 96
+			"class" "avatar-img"
+			"showPlaceholder" false
+		) }}
+	</div>
+	{{- end -}}
+	<h3>
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+	</h3>
+	<div class="bio">
+		{{ .Content }}
+	</div>
+	{{- if or .Params.bluesky .Params.twitter .Params.linkedin -}}
+	<div class="social">
+		{{- if .Params.linkedin -}}
+		<a href="{{ .Params.linkedin }}" class="speaker-social-link" title="LinkedIn profile" aria-label="LinkedIn profile" target="_blank" rel="noopener noreferrer">
+			{{ partial "svg/linkedin.svg" (dict "class" "speaker-social-icon") }}
+		</a>
+		{{- end -}}
+		{{- if .Params.bluesky -}}
+		<a href="https://bsky.app/profile/{{ .Params.bluesky }}" class="speaker-social-link" title="Bluesky profile" aria-label="Bluesky profile" target="_blank" rel="noopener noreferrer">
+			{{ partial "svg/bluesky.svg" (dict "class" "speaker-social-icon") }}
+		</a>
+		{{- end -}}
+		{{- if .Params.twitter -}}
+		<a href="https://twitter.com/{{ .Params.twitter }}" class="speaker-social-link" title="Twitter profile" aria-label="Twitter profile" target="_blank" rel="noopener noreferrer">
+			{{ partial "svg/twitter.svg" (dict "class" "speaker-social-icon") }}
+		</a>
+		{{- end -}}
+	</div>
+	{{- end -}}
+</div>
+{{- else -}}
+<!-- Speaker "{{ $slug }}" not found -->
+{{- end -}}

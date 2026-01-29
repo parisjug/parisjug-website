@@ -1,29 +1,33 @@
 {{ define "main" }}
 <main class="main" role="main">
 	<article class="post">
-        {{- if .Params.bluesky }}
-			{{- $blueskyProfileUrl := printf "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=%s" .Params.bluesky }}
-			{{- $blueskyUser := resources.GetRemote $blueskyProfileUrl | transform.Unmarshal }}
-			{{- with $blueskyUser.avatar }}
-				{{- $originalImage := resources.GetRemote . }}
-				{{- with $originalImage }}
-					{{- $image := .Resize "128x128" }}
-		<a href="https://bsky.app/profile/{{ $.Params.bluesky }}" title="{{ $.Title }} Bluesky profile" target="_blank">
-			<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="speaker-profile avatar" alt="{{ $.Title }} profile picture">
-		</a>
-				{{- end }}
-			{{- end }}
-        {{- else if and .Params.twitter .Site.Params.Twitter }}
-			{{- $twitterApiHeaders := dict "authorization" (printf "%s%s" "Bearer " .Site.Params.Twitter) }}
-			{{- $twitterUser := resources.GetRemote (printf "https://api.twitter.com/1.1/users/show.json?screen_name=%s" .Params.twitter) $twitterApiHeaders | transform.Unmarshal }}
-			{{- $originalImage := resources.GetRemote (replace $twitterUser.profile_image_url_https "_normal" "") }}
-			{{- $image := $originalImage.Resize "128x128" }}
-		<a href="https://twitter.com/{{ .Params.twitter }}" title="{{ $.Title }} Twitter profile" target="_blank">
-			<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="speaker-profile avatar" alt="{{ $.Title }} profile picture">
-		</a>
-        {{- end }}
+		{{ partial "speaker-avatar.html" (dict
+			"slug" .File.BaseFileName
+			"title" .Title
+			"size" 128
+			"class" "speaker-profile avatar"
+		) }}
 		<header class="post__header">
 			<h1 class="post__title">{{ .Title }}</h1>
+			{{- if or .Params.linkedin .Params.bluesky .Params.twitter }}
+			<div class="speaker-social-links">
+				{{- if .Params.linkedin }}
+				<a href="{{ .Params.linkedin }}" title="LinkedIn profile" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer" class="speaker-social-link">
+					{{ partial "svg/linkedin.svg" (dict "class" "speaker-social-icon") }}
+				</a>
+				{{- end }}
+				{{- if .Params.bluesky }}
+				<a href="https://bsky.app/profile/{{ .Params.bluesky }}" title="Bluesky profile" aria-label="Bluesky" target="_blank" rel="noopener noreferrer" class="speaker-social-link">
+					{{ partial "svg/bluesky.svg" (dict "class" "speaker-social-icon") }}
+				</a>
+				{{- end }}
+				{{- if .Params.twitter }}
+				<a href="https://twitter.com/{{ .Params.twitter }}" title="Twitter profile" aria-label="Twitter" target="_blank" rel="noopener noreferrer" class="speaker-social-link">
+					{{ partial "svg/twitter.svg" (dict "class" "speaker-social-icon") }}
+				</a>
+				{{- end }}
+			</div>
+			{{- end }}
 			{{- with .Params.lead }}
 			<p class="post__lead">{{ . }}</p>
 			{{- end }}

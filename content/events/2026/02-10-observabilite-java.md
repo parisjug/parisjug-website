@@ -44,7 +44,7 @@ La session explore les pratiques modernes d’observabilité pour les applicatio
 
 Ce talk s’adresse aux développeurs et ingénieurs Java qui souhaitent mieux comprendre les systèmes distribués modernes et découvrir comment l’observabilité est devenue un élément clé du développement, de l’exploitation et du troubleshooting des applications Java aujourd’hui.
 
-Par [Pejman Tabassomi]({{< ref "/speakers/pejman-tabassomi.md" >}})
+{{< speaker "pejman-tabassomi" >}}
 
 ### 20h30 : Buffet offert par [Datadog]({{< ref "/location/datadog.md" >}})
 
@@ -62,7 +62,7 @@ Vous repartirez avec une vision claire de l’impact réel de ces changements en
 
 Si vous utilisez OpenTelemetry sans vraiment savoir ce qu’il se passe dans votre JVM, ou si vous voulez enfin comprendre comment un agent peut réécrire votre application en production, alors bienvenue : cette session vous ouvre la boîte noire et révèle la magie.
 
-Par [Bruce Bujon]({{< ref "/speakers/bruce-bujon.md" >}})
+{{< speaker "bruce-bujon" >}}
 
 ### 22h00 : 3ème mi-temps des juggers
 

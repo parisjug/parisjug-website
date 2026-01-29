@@ -104,8 +104,6 @@ jobs:
           echo "✓ SURGE_TOKEN is set"
 
       - name: Build Hugo site
-        env:
-          HUGO_PARAMS_TWITTER: ${{ secrets.TWITTER_TOKEN }}
         run: |
           DEPLOY_DOMAIN="pr-${{ env.PR_NUMBER }}-parisjug-preview.surge.sh"
           hugo --minify --baseURL "https://$DEPLOY_DOMAIN"

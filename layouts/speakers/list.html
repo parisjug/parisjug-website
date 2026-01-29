@@ -10,23 +10,35 @@
 		{{ . }}
 	</div>
 	{{- end }}
-    {{- $data := newScratch }}
-    {{- $data.Set "firstLetter" "" }}
-    {{- $data.Set "listStarted" false }}
-	{{- range .Pages }}
-        {{- $firstLetter := (substr .Title 0 1) }}
-        {{- if ne ($data.Get "firstLetter") $firstLetter }}
-        {{- if ($data.Get "listStarted") }}
-    </ul>
-        {{- else }}
-            {{ $data.Set "listStarted" true }}
-        {{- end}}
-    <h2>{{ $firstLetter }}</h2>
-    <ul class="speaker__list">
-            {{- $data.Set "firstLetter" $firstLetter }}
-        {{- end  }}
-        <li><a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a></li>
-	{{- end }}
-    </ul>
+
+	<div class="speaker-grid">
+		{{- range .Pages }}
+			{{- $speaker := . }}
+			{{- $speakerFileName := .File.BaseFileName }}
+
+			{{- /* Count events for this speaker */ -}}
+			{{- $eventCount := 0 }}
+			{{- range $.Site.Pages }}
+				{{- if and (eq .Type "events") (strings.Contains .Content $speakerFileName) }}
+					{{- $eventCount = add $eventCount 1 }}
+				{{- end }}
+			{{- end }}
+
+			<div class="speaker-item">
+				<a href="{{ .RelPermalink }}">
+					{{ partial "speaker-avatar.html" (dict
+						"slug" .File.BaseFileName
+						"title" .Title
+						"size" 80
+						"class" "avatar"
+					) }}
+					<div class="name">{{ .Title }}</div>
+					{{- if gt $eventCount 0 }}
+					<div class="talks">{{ $eventCount }} {{ if eq $eventCount 1 }}talk{{ else }}talks{{ end }}</div>
+					{{- end }}
+				</a>
+			</div>
+		{{- end }}
+	</div>
 </main>
 {{ end }}

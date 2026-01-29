@@ -1,0 +1,21 @@
+{{- $slug := .slug -}}
+{{- $title := .title -}}
+{{- $size := .size -}}
+{{- $class := .class -}}
+{{- $showPlaceholder := .showPlaceholder | default true -}}
+
+{{- /* Check for local avatar only */ -}}
+{{- $localPath := printf "images/speakers/%s.jpg" $slug -}}
+{{- with resources.Get $localPath -}}
+	{{- $resizeSpec := printf "%dx%d" $size $size -}}
+	{{- with .Resize $resizeSpec -}}
+		<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="{{ $class }}" alt="{{ $title }} profile picture">
+	{{- end -}}
+{{- else -}}
+	{{- /* Show placeholder only if requested */ -}}
+	{{- if $showPlaceholder -}}
+	<div class="avatar-placeholder {{ $class }}" style="width: {{ $size }}px; height: {{ $size }}px;">
+		<span>{{ substr $title 0 1 }}</span>
+	</div>
+	{{- end -}}
+{{- end -}}
