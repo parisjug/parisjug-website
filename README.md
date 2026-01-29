@@ -71,7 +71,7 @@ hugo new content/events/<year>/<month>-<day>-<name>.md
 
 3. Add the event details as content
 
-### Creating a Spearker
+### Creating a Speaker
 
 1. Create a document using:
 
@@ -83,9 +83,10 @@ hugo new content/speakers/<first_name>-<last_name>.md
 
 - `title`: The readable name of the speaker
 - `bluesky` (optional): The Bluesky handle of the speaker (full handle like username.bsky.social).
+- `linkedin` (optional): The LinkedIn profile URL of the speaker.
 - `twitter` (optional): The Twitter handle of the speaker (without `@`)
 
- If both `bluesky` and `twitter` are specified, only the Bluesky profile will be displayed.
+ If `bluesky` or `twitter` is specified, the speaker avatar will be fetched and displayed.
 
 3. Add the speaker biography as content.
 
@@ -110,7 +111,7 @@ Sponsors data are located in three locations:
   - The event summary otherwise.
 - Speakers page in an automatec alphabetic index.
 - Speaker conference list from the speaker page is updated if a speaker is mentioned in an event content.
-- Speaker profile picture comes from Bluesky (if available) or Twitter and is regularly updated. When both are specified, only Bluesky is displayed.
+- Speaker profile picture comes from Bluesky or Twitter/X (if available) and can be updated using `scritpts/update-speaker-avatars.sh`.
 
 ### Custom Shortcodes
 
@@ -150,6 +151,12 @@ Using the following parameters:
 - `title` _recommanded_: The description of the frame content for accessibility,
 - `width` _optional_: The width of the frame (using [CSS values](https://developer.mozilla.org/en-US/docs/Web/CSS/width#values) like `300px`or `100%`),
 - `height` _optional_: The height of the frame (using CSS values](https://developer.mozilla.org/en-US/docs/Web/CSS/height#values) like `300px` or `100%`).
+
+#### Speaker
+
+The `speaker` shortcode displays a speaker card with avatar, bio, and social links:
+
+`{{< speaker "jose-paumard" >}}`
 
 #### Section: Code of Conduct
 
