@@ -1,6 +1,7 @@
 ---
 title: "Cyrille Le clerc"
 twitter: "cyrilleleclerc"
+linkedin: "https://www.linkedin.com/in/cyrilleleclerc"
 ---
 
 Cyrille est Product Director chez Grafana Labs en charge de l’observabilité applicative.

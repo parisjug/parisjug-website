@@ -1,6 +1,7 @@
 ---
 title: "Edson Yanaga"
 twitter: "yanaga"
+linkedin: "https://www.linkedin.com/in/yanaga"
 ---
 
 Java Champion & Microsoft MVP.

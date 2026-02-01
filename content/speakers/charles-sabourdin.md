@@ -1,6 +1,7 @@
 ---
 title: "Charles Sabourdin"
 twitter: "kanedafromparis"
+linkedin: "https://www.linkedin.com/in/charles-s-bb2737"
 ---
 
 Investi depuis longtemps dans l’informatique, Linuxiens, Javaiste et

@@ -1,6 +1,7 @@
 ---
 title: "Denis Ah Hang"
 #twitter: "dlresende"
+linkedin: "https://www.linkedin.com/in/deniak"
 ---
 
 Denis Ah-Kang est consultant chez Atos Origin - Département Open Source. Intervient depuis 2 ans sur des missions de développement et d'intégration.

@@ -1,6 +1,7 @@
 ---
 title: "Didier Durand"
 twitter: "didierdurand"
+linkedin: "https://www.linkedin.com/in/ddurand"
 ---
 
 PJ. Ditscheid, D. Durand et JL. Vuattoux sont tous 3 de formation

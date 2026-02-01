@@ -1,5 +1,6 @@
 ---
 title: "Benoit Lacelle"
+linkedin: "https://www.linkedin.com/in/benoit-lacelle-360508b"
 ---
 
 Software Engineer Java/JVM depuis 12 ans, j'interviens comme consultant

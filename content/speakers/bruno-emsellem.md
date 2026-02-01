@@ -1,5 +1,6 @@
 ---
 title: "Bruno Emsellem"
+linkedin: "https://www.linkedin.com/in/brunoemsellem"
 ---
 
 Bruno est responsable du product management et de la R&D chez RSD, un

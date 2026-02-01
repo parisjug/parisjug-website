@@ -1,6 +1,7 @@
 ---
 title: "David Delabassée"
 twitter: "delabassee"
+linkedin: "https://www.linkedin.com/in/daviddelabassee"
 ---
 
 David Delabassee is a Software Evangelist working in the GlassFish and

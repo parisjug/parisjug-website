@@ -1,6 +1,7 @@
 ---
 title: "Audrey Neveu"
 twitter: "Audrey_Neveu"
+linkedin: "https://www.linkedin.com/in/audreyneveu"
 ---
 
 Développeur Java chez Sfeir, Audrey Neveu est passionnée par la

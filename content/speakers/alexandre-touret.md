@@ -1,6 +1,7 @@
 ---
 title: "Alexandre Touret"
 twitter: "touret_alex"
+linkedin: "https://www.linkedin.com/in/atouret"
 ---
 
 Je suis architecte et développeur sénior chez Worldline.

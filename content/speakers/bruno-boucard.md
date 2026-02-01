@@ -1,6 +1,7 @@
 ---
 title: "Bruno Boucard"
 twitter: "brunoboucard"
+linkedin: "https://www.linkedin.com/in/brunoboucard"
 ---
 
 Bruno est à la fois Coach Agile et développeur. C’est un spécialiste

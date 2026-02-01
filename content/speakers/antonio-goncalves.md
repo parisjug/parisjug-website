@@ -1,6 +1,7 @@
 ---
 title: "Antonio Goncalves"
 twitter: "agoncal"
+linkedin: "https://www.linkedin.com/in/agoncal"
 ---
 
 Vivant à Paris, Antonio Goncalves est Principal Software Engineer chez Microsoft.

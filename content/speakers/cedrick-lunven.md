@@ -1,6 +1,7 @@
 ---
 title: "Cedrick Lunven"
 twitter: "clunven"
+linkedin: "https://www.linkedin.com/in/clunven"
 ---
 
 Après 5 ans chez Octo Technology, Cédrick est aujourd'hui architecte Pre-sales chez

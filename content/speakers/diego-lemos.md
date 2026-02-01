@@ -1,6 +1,7 @@
 ---
 title: "Diego Lemos"
 twitter: "dlresende"
+linkedin: "https://www.linkedin.com/in/dlresende"
 ---
 
 Diego s’est forgé une solide expérience dans l'écosystème Java. Depuis

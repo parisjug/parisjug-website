@@ -1,6 +1,7 @@
 ---
 title: "Cagatay Civici"
 twitter: "cagataycivici"
+linkedin: "https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-%C3%A7ivici-1579b0129"
 ---
 
 Cagatay Civici is a member of JavaServer Faces Expert Group, the founder

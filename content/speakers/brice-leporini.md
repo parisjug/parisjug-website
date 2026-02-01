@@ -1,6 +1,7 @@
 ---
 title: "Brice Leporini"
 twitter: "blep"
+linkedin: "https://www.linkedin.com/in/bleporini"
 ---
 
 Brice est un développeur sénior qui totalise 20 ans d’expérience sur

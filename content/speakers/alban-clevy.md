@@ -1,5 +1,6 @@
 ---
 title: "Alban Clevy"
+linkedin: "https://www.linkedin.com/in/alban-clevy-97248110"
 ---
 
 Cela va bientôt faire 20 ans qu'Alban pratique la programmation informatique. 

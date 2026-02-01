@@ -2,6 +2,7 @@
 title: "Bruce Bujon"
 bluesky: "hardcoding.fr"
 twitter: "HardCoding"
+linkedin: "https://www.linkedin.com/in/bruce-bujon"
 ---
 
 Bruce Bujon est Senior Software Engineer chez [Datadog](https://www.datadoghq.com/).

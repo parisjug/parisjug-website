@@ -1,6 +1,7 @@
 ---
 title: "Alexandre Bertails"
 twitter: "bertails"
+linkedin: "https://www.linkedin.com/in/bertails"
 ---
 
 [Alexandre](http://www.bertails.org/) est ingénieur système et logiciel
@@ -12,4 +13,3 @@ communauté qu'aux [Membres](https://www.w3.org/Consortium/Member/List).
 Alexandre a permis l'adoption de [Scala](https://www.scala-lang.org/) au
 W3C et continue à travailler sur les technologies du [Web
 Sémantique](https://www.w3.org/2001/sw/).  
-  

@@ -1,6 +1,7 @@
 ---
 title: "Didier Girard"
 twitter: "DidierGirard"
+linkedin: "https://www.linkedin.com/in/didiergirard"
 ---
 
 Je suis, Didier Girard, j'ai un PhD en Machine Learning et je suis
