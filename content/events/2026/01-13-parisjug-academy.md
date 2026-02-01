@@ -18,6 +18,9 @@ videos:
 - https://www.youtube.com/watch?v=b1Iz3QKClg0
 - https://www.youtube.com/watch?v=zDl-xaBglIE
 - https://www.youtube.com/watch?v=_r8Bf7KBEpc
+- https://www.youtube.com/watch?v=uAidHF0BMpY
+- https://www.youtube.com/watch?v=rx4Yly_A36E
+- https://www.youtube.com/watch?v=MjO7EUHckw0
 ---
 
 ## Date et lieu
