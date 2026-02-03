@@ -55,7 +55,7 @@ Points techniques clés :
 * Parfait pour : les développeurs Java souhaitant ajouter des capacités d'IA à leurs applications existantes, les architectes concevant des systèmes d'IA conversationnelle, et toute personne curieuse des modèles d'intégration pratiques de l'IA.
 * Démo en direct incluse : découvrez le chatbot complet en action, des réponses en écho basiques au service client intelligent avec récupération de documents et intégration de systèmes métier.
 
-Par [Antonio Goncalves]({{< ref "/speakers/antonio-goncalves.md" >}})
+{{< speaker "antonio-goncalves" >}}
 
 ### 20h30 : Buffet offert par [Microsoft]({{< ref "/location/microsoft.md" >}})
 
@@ -79,7 +79,7 @@ Ce que vous apprendrez :
 
 Et s'il nous reste du temps, on pourra aborder A2A ;)
 
-Par [Yann Blazart]({{< ref "/speakers/yann-blazart.md" >}})
+{{< speaker "yann-blazart" >}}
 
 ### 22h00 : 3ème mi-temps des juggers
 
