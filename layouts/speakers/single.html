@@ -1,12 +1,16 @@
 {{ define "main" }}
 <main class="main" role="main">
 	<article class="post">
+		{{- /* Check if local avatar exists */ -}}
+		{{- $localPath := printf "images/speakers/%s.jpg" .File.BaseFileName -}}
+		{{- with resources.Get $localPath -}}
 		{{ partial "speaker-avatar.html" (dict
-			"slug" .File.BaseFileName
-			"title" .Title
+			"slug" $.File.BaseFileName
+			"title" $.Title
 			"size" 128
 			"class" "speaker-profile avatar"
 		) }}
+		{{- end -}}
 		<header class="post__header">
 			<h1 class="post__title">{{ .Title }}</h1>
 			{{- if or .Params.linkedin .Params.bluesky .Params.twitter }}
