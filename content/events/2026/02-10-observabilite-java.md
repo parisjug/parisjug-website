@@ -50,7 +50,7 @@ Ce talk s’adresse aux développeurs et ingénieurs Java qui souhaitent mieux c
 
 [{{< figure src="/img/sponsors/2026/datadog.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/datadog.md" >}}) 
 
-### 21h00 : La Magie d'OpenTelemetry
+### 21h00 : La Magie d'OpenTelemetry : réécrire votre app en production 
 
 OpenTelemetry fait apparaître des traces, des métriques et des logs comme par magie… mais que se passe-t-il réellement derrière cet agent JVM que nous ajoutons machinalement à nos applications ?
 
