@@ -1,6 +1,7 @@
 ---
 title: "Damien Gouyette"
 twitter: "cestpasdur"
+linkedin: "https://www.linkedin.com/in/dgouyette"
 ---
 
 Expert technique java / JEE au sein d'une grande société d'assurances.

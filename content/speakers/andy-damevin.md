@@ -1,5 +1,6 @@
 ---
 title: "Andy Damevin"
+linkedin: "https://www.linkedin.com/in/andy-damevin"
 ---
 
 J’adore mon job à Red Hat en tant que Senior Software Engineer, je

@@ -1,6 +1,7 @@
 ---
 title: "Arun Gupta"
 twitter: "arungupta"
+linkedin: "https://www.linkedin.com/in/arunpgupta"
 ---
 
 Arun Gupta is Director of Developer Advocacy at Red Hat and focuses on

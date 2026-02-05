@@ -1,5 +1,6 @@
 ---
 title: "David Dewalle"
+linkedin: "https://www.linkedin.com/in/ddewalle"
 ---
 
 Développeur Java et Architecte Swing, [David

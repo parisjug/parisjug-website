@@ -1,6 +1,7 @@
 ---
 title: "Cedric Thomas"
 twitter: "cedricth"
+linkedin: "https://www.linkedin.com/in/cedricthomas"
 ---
 
 A strategy consultant with twenty-five years of experience, Cedric

@@ -1,6 +1,7 @@
 ---
 title: "Cedric Beurtheret"
 twitter: "cbe317"
+linkedin: "https://www.linkedin.com/in/cedric-beurtheret"
 ---
 
 Tombé dans la marmite IT depuis tout petit, Cédric Beurtheret est expert

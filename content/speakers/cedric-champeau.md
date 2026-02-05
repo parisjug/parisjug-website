@@ -1,6 +1,7 @@
 ---
 title: "Cedric Champeau"
 twitter: "CedricChampeau"
+linkedin: "https://www.linkedin.com/in/cedricchampeau"
 ---
 
 Cédric Champeau est développeur Java chez Oracle Labs, dans l’équipe

@@ -1,6 +1,7 @@
 ---
 title: "Al Rubinger"
 twitter: "ALRubinger"
+linkedin: "https://www.linkedin.com/in/alrubinger"
 ---
 
 Open-source engineer; Developer Advocate and Program Manager at JBoss by

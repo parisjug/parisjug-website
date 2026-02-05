@@ -1,6 +1,7 @@
 ---
 title: "Dimitri Baeli"
 twitter: "dbaeli"
+linkedin: "https://www.linkedin.com/in/dbaeli"
 ---
 
 Dimitri Baeli (LesFurets.com) baigne dans l'univers Java depuis plus de
