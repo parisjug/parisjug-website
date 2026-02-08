@@ -1,6 +1,7 @@
 ---
 title: "Fabrice Sznajderman"
 twitter: "fsznajderman"
+linkedin: "https://www.linkedin.com/in/fsznajderman"
 ---
 
 Fabrice Sznajderman est un développeur passionné à Zenika Paris.

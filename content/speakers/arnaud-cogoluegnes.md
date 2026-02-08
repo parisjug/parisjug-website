@@ -1,6 +1,7 @@
 ---
 title: "Arnaud Cogoluegnes"
 twitter: "acogoluegnes"
+linkedin: "https://www.linkedin.com/in/arnaudcogoluegnes"
 ---
 
 Arnaud Cogoluègnes est architecte Java EE chez Zenika et expert Spring.

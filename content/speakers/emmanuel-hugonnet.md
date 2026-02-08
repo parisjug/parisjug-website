@@ -1,6 +1,6 @@
 ---
 title: "Emmanuel Hugonnet"
-linkedin: "https://www.linkedin.com/in/ehsavoie/"
+linkedin: "https://www.linkedin.com/in/ehsavoie"
 ---
 
 💼 Expert en solutions Jakarta EE & contributeur Open Source

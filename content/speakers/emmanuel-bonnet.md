@@ -1,5 +1,6 @@
 ---
 title: "Emmanuel Bonnet"
+linkedin: "https://www.linkedin.com/in/bonnetemmanuel"
 ---
 
 Emmanuel Bonnet est responsable de l'entité conseil de

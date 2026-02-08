@@ -1,6 +1,7 @@
 ---
 title: "Adrien Lecharpentier"
 twitter: "alecharp"
+linkedin: "https://www.linkedin.com/in/alecharp"
 ---
 
 

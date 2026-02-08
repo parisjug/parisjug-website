@@ -1,6 +1,7 @@
 ---
 title: "Adam Bien"
 twitter: "AdamBien"
+linkedin: "https://www.linkedin.com/in/adam-bien"
 ---
 
 Consultant and author [Adam Bien](http://blog.adam-bien.com) is an

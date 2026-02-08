@@ -1,6 +1,7 @@
 ---
 title: "Eric Mignot"
 twitter: "EricMinio"
+linkedin: "https://www.linkedin.com/in/ericmignot"
 ---
 
 Éric est ScrumMaster et accompagnateur Agile. Il aide les organisations

@@ -1,6 +1,7 @@
 ---
 title: "Carlos Sanchez"
 twitter: "csanchez"
+linkedin: "https://www.linkedin.com/in/carlossg"
 ---
 
 Carlos Sanchez is specialized in solving business challenges in a wide

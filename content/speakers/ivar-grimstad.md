@@ -1,6 +1,7 @@
 ---
 title: "Ivar Grimstad"
 bsky: "@theguywiththeduketattoo.com"
+linkedin: "https://www.linkedin.com/in/ivargrimstad"
 ---
 
 Ivar Grimstad is the Jakarta EE Developer Advocate at Eclipse Foundation.

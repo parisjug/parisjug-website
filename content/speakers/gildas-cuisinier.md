@@ -1,6 +1,7 @@
 ---
 title: "Gildas Cuisinier"
 twitter: "gcuisinier"
+linkedin: "https://www.linkedin.com/in/gcuisinier"
 ---
 
 Gildas Cuisinier, consultant au Luxembourg, est connu pour son activité

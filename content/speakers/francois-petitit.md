@@ -1,6 +1,7 @@
 ---
 title: "François Petitit"
 twitter: "francoispetitit"
+linkedin: "https://www.linkedin.com/in/francoispetitit"
 ---
 
 Consultant chez OCTO Technology, François s'intéresse tout

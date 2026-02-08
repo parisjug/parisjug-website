@@ -1,6 +1,7 @@
 ---
 title: "Geoffrey De Smet"
 twitter: "GeoffreyDeSmet"
+linkedin: "https://www.linkedin.com/in/ge0ffrey"
 ---
 
 Geoffrey De Smet (graduated in 2003) has been involved in several open

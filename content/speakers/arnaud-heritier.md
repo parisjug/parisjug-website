@@ -1,6 +1,7 @@
 ---
 title: "Arnaud Heritier"
 twitter: "aheritier"
+linkedin: "https://www.linkedin.com/in/aheritier"
 ---
 
 Spécialisé dans le développement logiciels et l'automatisation des

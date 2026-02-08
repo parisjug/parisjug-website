@@ -1,6 +1,7 @@
 ---
 title: "Hugo Cordier"
 twitter: "HugoCrd"
+linkedin: "https://www.linkedin.com/in/hugocordier"
 ---
 
 Hugo est directeur technique de Melusyn, éditeur de logiciels dédiés à

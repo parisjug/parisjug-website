@@ -1,6 +1,7 @@
 ---
 title: "Angelo Zerr"
 twitter: "angelozerr"
+linkedin: "https://www.linkedin.com/in/angelozerr"
 ---
 
 Je suis Angelo Zerr un développeur Java (JEE et Eclipse RCP) chez

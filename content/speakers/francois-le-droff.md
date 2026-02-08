@@ -1,6 +1,7 @@
 ---
 title: "François Le Droff"
 twitter: "francoisledroff"
+linkedin: "https://www.linkedin.com/in/francoisledroff"
 ---
 
 Brestois d’origine, Parisien d’adoption, François Le Droff est

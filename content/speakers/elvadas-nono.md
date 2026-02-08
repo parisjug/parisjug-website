@@ -1,6 +1,7 @@
 ---
 title: "Elvadas Nono"
 twitter: "nelvadas"
+linkedin: "https://www.linkedin.com/in/elvadasnono"
 ---
 
 Elvadas travaille chez Oracle autour des sujets Java et GraalVM après

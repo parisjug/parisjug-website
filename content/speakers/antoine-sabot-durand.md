@@ -1,6 +1,7 @@
 ---
 title: "Antoine Sabot Durand"
 twitter: "antoine_sd"
+linkedin: "https://www.linkedin.com/in/antoinesabotdurand"
 ---
 
 Antoine est un Java Champion et l’ancien spec lead de Jakarta EE CDI.

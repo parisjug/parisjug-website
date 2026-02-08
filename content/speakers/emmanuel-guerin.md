@@ -1,5 +1,6 @@
 ---
 title: "Emmanuel Guérin"
+linkedin: "https://www.linkedin.com/in/emmanuelguerin"
 ---
 
 Emmanuel est dans les ordinateurs depuis tout petit et il aime ça !

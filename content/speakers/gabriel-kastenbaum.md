@@ -1,5 +1,6 @@
 ---
 title: "Gabriel Kastenbaum"
+linkedin: "https://www.linkedin.com/in/gabriel-kastenbaum"
 ---
 
 Consultant-Formateur chez Oxiane, Gabriel a un parcours atypique.
@@ -8,4 +9,3 @@ les années start-up. Aujourd'hui, il est un développeur confirmé et
 passionné par à peu près tout ce qui sort dans le monde java : Wicket,
 jax-rs, Android & co. Il coordonne la rédaction du blog d'Oxiane et
 organise depuis 2008 la R&D et les projets sur Android.  
-  

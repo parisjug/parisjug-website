@@ -1,6 +1,7 @@
 ---
 title: "Fabrice Bellingard"
 twitter: "bellingard"
+linkedin: "https://www.linkedin.com/in/bellingard"
 ---
 
 Fabrice a commencé sa carrière dans le monde du logiciel en 2001, au

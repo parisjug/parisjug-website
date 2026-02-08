@@ -1,6 +1,7 @@
 ---
 title: "Clement Escoffier"
 twitter: "clementplop"
+linkedin: "https://www.linkedin.com/in/clementescoffier"
 ---
 
 Clement Escoffier is a senior principal software engineer

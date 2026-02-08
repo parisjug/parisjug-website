@@ -1,6 +1,7 @@
 ---
 title: "Florent Benoit"
 twitter: "florentbenoit"
+linkedin: "https://www.linkedin.com/in/florentbenoit"
 ---
 
 ## Interests

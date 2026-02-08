@@ -1,6 +1,7 @@
 ---
 title: "Frédéric Desbiens"
 twitter: "BlueberryCoder"
+linkedin: "https://www.linkedin.com/in/fredericdesbiens"
 ---
 
 Gestionnaire de Programmes, IoT et Edge Computing @ Eclipse Foundation

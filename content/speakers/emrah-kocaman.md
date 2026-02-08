@@ -1,5 +1,6 @@
 ---
 title: "Emrah Kocaman"
+linkedin: "https://www.linkedin.com/in/emrahkocaman"
 ---
 
 Emrah Kocaman is a Software Engineer living in Istanbul and working at

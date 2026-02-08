@@ -1,6 +1,7 @@
 ---
 title: "Daniel Selman"
 twitter: "danielselman"
+linkedin: "https://www.linkedin.com/in/dselman"
 ---
 
 Daniel Selman is a Product Architect, responsible for IBM WebSphere ILOG

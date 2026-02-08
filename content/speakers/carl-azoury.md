@@ -1,6 +1,7 @@
 ---
 title: "Carl Azoury"
 twitter: "cazoury"
+linkedin: "https://www.linkedin.com/in/cazoury"
 ---
 
 Carl Azoury est associé et co-fondateur de la société Zenika, un cabinet

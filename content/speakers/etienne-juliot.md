@@ -1,6 +1,7 @@
 ---
 title: "Etienne Juliot"
 twitter: "ejuliot"
+linkedin: "https://www.linkedin.com/in/etiennejuliot"
 ---
 
 Étienne juliot est un membre actif des communautés Eclipse et un

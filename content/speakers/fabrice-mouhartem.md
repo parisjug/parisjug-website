@@ -1,5 +1,6 @@
 ---
 title: "Fabrice Mouhartem"
+linkedin: "https://www.linkedin.com/in/fabrice-m-967948251"
 ---
 
 Fabrice Mouhartem got a PhD in privacy-preserving cryptography, mainly designing provable constructions from both pre and post-quantum assumptions. Since then, he worked both in academia and industry and he is now part of the CryptPad squad at XWiki SAS as a R&D engineer.

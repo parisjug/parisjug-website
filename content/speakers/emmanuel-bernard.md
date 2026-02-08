@@ -1,6 +1,7 @@
 ---
 title: "Emmanuel Bernard"
 twitter: "emmanuelbernard"
+linkedin: "https://www.linkedin.com/in/emmanuelbernard"
 ---
 
 Emmanuel est Java Champion, Distinguished Engineer et Chief Architect Données chez Red Hat (middleware). Son travail est Open Source. Il est connu pour ses contributions et sa direction des projets Hibernate ainsi qu'à ses contributions aux standards Java.

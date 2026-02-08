@@ -1,6 +1,7 @@
 ---
 title: "David Gageot"
 twitter: "dgageot"
+linkedin: "https://www.linkedin.com/in/davidgageot"
 ---
 
 Bonjour, je suis David Gageot, développeur indépendant et Java Champion.
