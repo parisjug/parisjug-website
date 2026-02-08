@@ -1,5 +1,6 @@
 ---
 title: "Guillaume Giamarchi"
+linkedin: "https://www.linkedin.com/in/ggiamarchi"
 ---
 
 Guillaume Giamarchi est consultant et formateur pour la société Zenika.

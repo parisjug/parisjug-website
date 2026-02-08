@@ -1,6 +1,7 @@
 ---
 title: "Guillaume Duquesnay"
 twitter: "duquesnay"
+linkedin: "https://www.linkedin.com/in/giomflyagile"
 ---
 
 Guillaume Duquesnay - Expert senior - OCTO.

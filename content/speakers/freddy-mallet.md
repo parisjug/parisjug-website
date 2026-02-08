@@ -1,6 +1,7 @@
 ---
 title: "Freddy Mallet"
 twitter: "FreddyMallet"
+linkedin: "https://www.linkedin.com/in/freddymallet"
 ---
 
 Freddy est le créateur de la plateforme SonarQube et est co-fondateur de

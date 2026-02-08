@@ -1,6 +1,7 @@
 ---
 title: "Frédéric Merizen"
 twitter: "fredZen"
+linkedin: "https://www.linkedin.com/in/fredericmerizen"
 ---
 
 Frédéric est consultant chez OCTO Technology depuis 2011. Il intervient

@@ -1,6 +1,7 @@
 ---
 title: "Herve Boutemy"
-twitter: "hboutemy"
+twitter: 
+linkedin: "https://www.linkedin.com/in/hboutemy"
 ---
 
 Après avoir open sourcé quelques projets personnels à la grande époque

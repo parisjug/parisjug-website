@@ -1,6 +1,7 @@
 ---
 title: "Robini Fabrice"
 twitter: "frobini"
+linkedin: "https://www.linkedin.com/in/fabrice-robini-01b8721"
 ---
 
 Fabrice Robini est architecte chez [OCTO](http://www.octo.fr/),

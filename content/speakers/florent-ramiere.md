@@ -1,6 +1,7 @@
 ---
 title: "Florent Ramière"
 twitter: "framiere"
+linkedin: "https://www.linkedin.com/in/framiere"
 ---
 
 Florent Ramière a plus de vingt années d'expérience dans le

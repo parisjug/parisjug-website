@@ -1,6 +1,7 @@
 ---
 title: "Herve Le Morvan"
 twitter: "hervelemorvan"
+linkedin: "https://www.linkedin.com/in/herv%C3%A9-le-morvan-96138930"
 ---
 
 Hervé LE MORVAN est aujourd'hui consultant en Développement fullstack et

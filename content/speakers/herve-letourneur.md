@@ -1,6 +1,7 @@
 ---
 title: "Hervé Letourneur"
 #twitter: ""
+linkedin: "https://www.linkedin.com/in/herve-letourneur-1a9b064"
 ---
 
 J'ai commencé ma vie professionnelle en tant qu'electro-chimiste puis enseignant. De ces expériences, j'ai développé une curiosité continue, une soif d'apprendre et une envie de transmettre.

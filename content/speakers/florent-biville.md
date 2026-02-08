@@ -1,6 +1,7 @@
 ---
 title: "Florent Biville"
 twitter: "fbiville"
+linkedin: "https://www.linkedin.com/in/florentbiville"
 ---
 
 Florent est, paraît-il, co-organisateur d'un certain Spring Meetup

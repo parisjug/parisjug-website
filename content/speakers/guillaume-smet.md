@@ -1,5 +1,6 @@
 ---
 title: "Guillaume Smet"
+linkedin: "https://www.linkedin.com/in/gsmet"
 ---
 
 Principal Software Engineer - Red Hat

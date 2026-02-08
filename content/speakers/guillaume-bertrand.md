@@ -1,5 +1,6 @@
 ---
 title: "Guillaume Bertrand"
+linkedin: "https://www.linkedin.com/pub/guillaume-bertrand-99471921/"
 ---
 
 Développeur d'applications serveur Java/JEE, j'ai pendant plusieurs  

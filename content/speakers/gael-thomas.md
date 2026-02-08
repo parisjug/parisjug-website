@@ -1,5 +1,6 @@
 ---
 title: "Gaël Thomas"
+linkedin: "https://www.linkedin.com/in/gael-thomas-3350664"
 ---
 
 Depuis 2014, Gaël Thomas est professeur à Telecom SudParis. 

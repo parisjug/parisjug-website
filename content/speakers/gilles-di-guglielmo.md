@@ -1,5 +1,6 @@
 ---
 title: "Gilles Di Guglielmo"
+linkedin: "https://www.linkedin.com/in/gilles-di-guglielmo"
 ---
 
 Gilles travaille depuis plus de 10 ans pour différents éditeurs de

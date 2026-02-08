@@ -1,6 +1,7 @@
 ---
 title: "Grégory Weinbach"
 twitter: "gweinbach"
+linkedin: "https://www.linkedin.com/in/gweinbach"
 ---
 
 [Grégory Weinbach](http://mdblog.fr/) est architecte senior et animateur

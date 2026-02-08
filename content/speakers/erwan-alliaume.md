@@ -1,6 +1,7 @@
 ---
 title: "Erwan Alliaume"
 twitter: "AlliaumeErwan"
+linkedin: "https://www.linkedin.com/in/erwanalliaume"
 ---
 
 Passionné par les technologies Java/JEE depuis sa sortie de l'EPITA,

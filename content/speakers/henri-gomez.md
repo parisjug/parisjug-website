@@ -1,6 +1,7 @@
 ---
 title: "Henri Gomez"
 twitter: "hgomez"
+linkedin: "https://www.linkedin.com/in/hgomez"
 ---
 
 Henri Gomez travaille dans l’industrie logicielle depuis plus de 20 ans.

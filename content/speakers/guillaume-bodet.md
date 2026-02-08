@@ -1,5 +1,6 @@
 ---
 title: "Guillaume Bodet"
+linkedin: "https://www.linkedin.com/in/guillaume-bodet"
 ---
 
 Après 5 années passées chez Borland, Guillaume a rejoint Xebia dont il

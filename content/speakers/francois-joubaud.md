@@ -1,7 +1,7 @@
 ---
 title: "Francois Joubaud"
 #twitter: "twitter-handle"
-linkedin: "francois-joubaud"
+linkedin: "https://www.linkedin.com/in/francois-joubaud"
 ---
 
 Actuellement Dev leader chez [Worldline](https://worldline.com/)

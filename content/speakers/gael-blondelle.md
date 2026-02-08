@@ -1,6 +1,7 @@
 ---
 title: "Gaël Blondelle"
 twitter: "gblondelle"
+linkedin: "https://www.linkedin.com/in/gblondelle"
 ---
 
 Gaël Blondelle - VP Ecosystem Development @ Eclipse Foundation

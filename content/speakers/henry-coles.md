@@ -1,6 +1,7 @@
 ---
 title: "Henry Coles"
 twitter: "_pitest"
+linkedin: "https://www.linkedin.com/in/henry-coles-474ab93"
 ---
 
 Henry is Head of Development Practice at NCR in Edinburgh where he also

@@ -1,5 +1,6 @@
 ---
 title: "Gabriel Plassard"
+linkedin: "https://www.linkedin.com/in/gplassard"
 ---
 
 Solution Architect & Développeur chez Groupe La Centrale. Ancien

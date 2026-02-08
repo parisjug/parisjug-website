@@ -1,6 +1,7 @@
 ---
 title: "Horacio Gonzalez"
 twitter: "LostInBrittany"
+linkedin: "https://www.linkedin.com/in/horaciogonzalez"
 ---
 
 Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio

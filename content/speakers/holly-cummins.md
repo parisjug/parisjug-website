@@ -1,6 +1,7 @@
 ---
 title: "Holly Cummins"
 twitter: "holly_cummins"
+linkedin: "https://www.linkedin.com/in/holly-k-cummins"
 ---
 
 Holly is a software engineer at IBM's Hursley labs. She contributes to
