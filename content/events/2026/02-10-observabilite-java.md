@@ -9,7 +9,9 @@ tags:
 - tools
 owner: Bruce
 title: "Soirée Observalibité Java"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=49s_5cF_i9o
+- https://www.youtube.com/watch?v=2frZV2pufVM
 ---
 
 ## Date et lieu
