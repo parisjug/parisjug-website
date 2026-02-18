@@ -54,7 +54,7 @@ Langchain4j permet de développer des applications Java à l'aide de LLM.
 
 Voyons avec un exemple concret, comment nous pouvons le faire avec Quarkus.
 
-Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}}) et [Emmanuel Hugonnet]({{< ref "/speakers/emmanuel-hugonnet.md" >}})
+Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}})
 
 ### 22h00 : 3ème mi-temps des juggers
 
