@@ -80,6 +80,7 @@ Ce que vous apprendrez :
 Et s'il nous reste du temps, on pourra aborder A2A ;)
 
 {{< speaker "yann-blazart" >}}
+{{< speaker "emmanuel-hugonnet" >}}
 
 ### 22h00 : 3ème mi-temps des juggers
 
