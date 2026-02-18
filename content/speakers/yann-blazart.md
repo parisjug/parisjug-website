@@ -1,6 +1,7 @@
 ---
 title: "Yann Blazart"
 linkedin: "https://www.linkedin.com/in/yblazart"
+bluesky: "yblazart.bsky.social"
 ---
 
 Dans le monde Java depuis plus de 25 ans, Yann Blazart est un passionné de Jakarta EE et plus particulièrement de CDI.
