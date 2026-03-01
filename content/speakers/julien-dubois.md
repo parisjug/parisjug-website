@@ -3,9 +3,20 @@ title: "Julien Dubois"
 twitter: "juliendubois"
 ---
 
-Julien Dubois est Cloud Developer Advocate chez Microsoft.
-Il dirige deux équipes de Developer Advocates chez Microsoft, focalisées sur les technologies Java et JavaScript.
+Julien Dubois est Java Champion et Principal Manager chez Microsoft, où il dirige
+l'équipe des relations développeurs Java au sein des organisations CoreAI et GitHub.
+Avec son équipe d'experts internationaux, Julien travaille directement avec les ingénieurs
+de la société pour améliorer la façon dont les développeurs Java peuvent exploiter l'IA
+en utilisant les solutions Microsoft et GitHub.  
 
-Il est connu pour être le créateur et principal développeur du projet JHipster, ainsi que pour être un Java Champion.
-Au cours des 20 dernières années, Julien a principalement travaillé sur les technologies Java et Spring, dirigeant des équipes techniques pour de nombreux clients à travers toutes les industries.
-Comme il aime partager sa passion, Julien a écrit un livre sur Spring, parlé à plus de 200 conférences internationales, et a créé plusieurs projets Open Source populaires.
+Avec plus de 25 ans d'expérience dans l'écosystème Java, Julien est surtout connu
+comme le créateur de JHipster, une plateforme Open Source avec plus de 22 000 étoiles
+sur GitHub qui a révolutionné la façon dont les développeurs construisent des applications Spring Boot.  
+Son travail récent se concentre sur l'intégration de l'IA avec les technologies Java, 
+grâce à ses contributions à LangChain4j et à Spring AI.  
+  
+Julien est un expert reconnu dans la communauté Java, ayant pris la parole
+lors de plus de 200 conférences internationales, dont Devoxx, Spring One et Microsoft Build.  
+Il est l'auteur de « Spring par la pratique », le premier livre français sur le framework Spring,
+devenu un best-seller. Ses présentations comportent généralement des sessions de live-coding
+et des ateliers pratiques qui aident les développeurs à appliquer immédiatement les nouvelles technologies.
