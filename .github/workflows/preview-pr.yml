@@ -63,6 +63,9 @@ jobs:
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.154.5'
+          extended: true
 
       - name: Restore Hugo cache
         uses: actions/cache@v5
