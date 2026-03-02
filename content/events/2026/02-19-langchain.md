@@ -8,7 +8,9 @@ tags:
 - ai
 owner: Bruce
 title: "Soirée LangChain4j"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=PcT5a2T9W4M
+- https://www.youtube.com/watch?v=L577FUy9SIQ
 ---
 
 ## Date et lieu
