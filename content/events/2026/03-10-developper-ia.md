@@ -47,7 +47,7 @@ Nous allons voir dans cette session (liste non garantie, en fonction des évolut
 - Les nouveaux modes d'utilisation de ces outils: le mode agent, le mode plan.
 - L'utilisation des serveurs MCPs.
 - Leur intégration avancée dans les IDEs, avec en particulier leur utilisation d'un debugger.
-- Le nouveau protocole ACP https://github.com/microsoft/vscode/issues/265496
+- Le [nouveau protocole ACP](https://github.com/microsoft/vscode/issues/265496)
 - L'outillage complémentaire qui commence à être proposé, par exemple pour la modernisation d'applications existantes.
 - Le spec-driven development avec SpecKit et BMad
 
