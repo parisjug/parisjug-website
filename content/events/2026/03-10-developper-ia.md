@@ -65,7 +65,7 @@ préparez vos questions et vos retours d'expérience pour en discuter ensemble!
 ### 20h45 : La transformation du metier de développeur avec les Agents AI
 
 Les Agents AI de code ont fait des progrès significatifs dans les 6 derniers mois, qui transforment
-complètement le role des développeurs : ce talk couvre quelques aspects de cette transformation.  
+complètement le rôle des développeurs : ce talk couvre quelques aspects de cette transformation.  
 Apprendre à gérer des équipes d'agents, travailler a un niveau d'abstraction supérieur, et développer
 une hygiene et des habitudes de travail différentes pour survivre à la fatigue de l'AI qui survient
 lorsqu'on travaille avec des machines qui vont plus vite que des collègues humains, 
