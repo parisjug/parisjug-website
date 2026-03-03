@@ -1,6 +1,7 @@
 ---
 title: "Julien Dubois"
 twitter: "juliendubois"
+bluesky: "jdubois.bsky.social"
 ---
 
 Julien Dubois est Java Champion et Principal Manager chez Microsoft, où il dirige

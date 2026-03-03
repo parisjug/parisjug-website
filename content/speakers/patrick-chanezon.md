@@ -1,5 +1,6 @@
 ---
 title: "Patrick Chanezon"
+bluesky: "chanezon.bsky.social"
 ---
 
 Patrick Chanezon leads the Developer Relations team at Microsoft, helping developers and technology communities achieve more with AI on Microsoft Cloud.  
