@@ -1,6 +1,6 @@
 ---
 date: 2026-03-10T19:00:00
-publishDate: 2026-03-01
+publishDate: 2026-03-05
 register: "https://www.helloasso.com/associations/bjpc/evenements/mars-2026"
 tags:
 # IA
