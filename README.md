@@ -28,7 +28,7 @@ or with docker
 docker run --rm -it \
   -v $(pwd):/src \
   -p 1313:1313 \
-  hugomods/hugo:std-ci-0.139.4 \
+  hugomods/hugo:std-ci-0.154.5 \
   server --bind 0.0.0.0
 ```  
 
