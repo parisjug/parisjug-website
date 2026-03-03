@@ -1,6 +1,6 @@
 ---
 date: 2026-03-10T19:00:00
-publishDate: 2026-03-01
+publishDate: 2026-03-05
 register: "https://www.helloasso.com/associations/bjpc/evenements/mars-2026"
 tags:
 # IA
@@ -47,7 +47,7 @@ Nous allons voir dans cette session (liste non garantie, en fonction des évolut
 - Les nouveaux modes d'utilisation de ces outils: le mode agent, le mode plan.
 - L'utilisation des serveurs MCPs.
 - Leur intégration avancée dans les IDEs, avec en particulier leur utilisation d'un debugger.
-- Le nouveau protocole ACP https://github.com/microsoft/vscode/issues/265496
+- Le [nouveau protocole ACP](https://github.com/microsoft/vscode/issues/265496)
 - L'outillage complémentaire qui commence à être proposé, par exemple pour la modernisation d'applications existantes.
 - Le spec-driven development avec SpecKit et BMad
 
@@ -65,7 +65,7 @@ préparez vos questions et vos retours d'expérience pour en discuter ensemble!
 ### 20h45 : La transformation du metier de développeur avec les Agents AI
 
 Les Agents AI de code ont fait des progrès significatifs dans les 6 derniers mois, qui transforment
-complètement le role des développeurs : ce talk couvre quelques aspects de cette transformation.  
+complètement le rôle des développeurs : ce talk couvre quelques aspects de cette transformation.  
 Apprendre à gérer des équipes d'agents, travailler a un niveau d'abstraction supérieur, et développer
 une hygiene et des habitudes de travail différentes pour survivre à la fatigue de l'AI qui survient
 lorsqu'on travaille avec des machines qui vont plus vite que des collègues humains, 
