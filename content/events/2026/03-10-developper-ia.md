@@ -3,10 +3,12 @@ date: 2026-03-10T19:00:00
 publishDate: 2026-03-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/mars-2026"
 tags:
-# IA
+- ai
 owner: Christophe
 title: "Soirée Développer avec l'IA"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=XOVUtSzkMVQ
+- https://www.youtube.com/watch?v=U1a-u-TyQXA
 ---
 
 ## Date et lieu
