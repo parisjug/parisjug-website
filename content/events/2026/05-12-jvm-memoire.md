@@ -14,7 +14,9 @@ title: "Soirée la mémoire dans la jvm"
 ## Date et lieu
 
 * Mardi 12 Mai 2026 à 19h00
-* Dans [les locaux de Margo]({{< ref "/location/margo.md" >}})
+* Dans [les locaux de MARGO]({{< ref "/location/margo.md" >}})
+
+**Une pièce d'identité est exigée par la sécurité**
 
 > Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG.
@@ -45,20 +47,24 @@ et en natif, on a besoin d'un GC ?
 
 {{< speaker "antoine-dessaigne" >}}
 
-### 20h30 : Buffet offert par [Margo]({{< ref "/location/margo.md" >}})
+### 20h30 : Buffet offert par [MARGO]({{< ref "/location/margo.md" >}})
 
 [{{< figure src="/img/sponsors/2026/margo.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/margo.md" >}}) 
 -->
 
-### 21h00 : Todo
+### 21h00 : Projet Lilliput : Et si vos objets Java prenaient moins de place ?
 
-...
+La performance des applications Java est étroitement liée à leur empreinte mémoire : plus une application consomme de heap, plus elle exerce de pression sur le garbage collector, le cache CPU, les temps de pause et les coûts d’infrastructure. Pourtant, une partie de cette mémoire est consommée avant même de stocker nos données métier : chaque objet Java porte avec lui un en-tête, invisible dans le code, mais bien réel en production.
 
-...
+Dans cette session, nous explorerons l’organisation des objets dans la heap. Nous verrons comment la JVM dispose les objets en mémoire, quelles règles gouvernent leur alignement, leur padding, leurs champs, leurs références et leurs en-têtes.
 
-...
+Enfin, nous étudierons l’apport du Projet Lilliput et des Compact Object Headers : introduits comme fonctionnalité expérimentale avec la JEP 450 dans JDK 24, puis transformés en fonctionnalité standard avec la JEP 519 dans JDK 25. Cette évolution réduit la taille des en-têtes d’objets dans HotSpot de 96 ou 128 bits à 64 bits sur les architectures 64 bits, avec des gains observés sur l’empreinte mémoire et la pression GC.
 
-{{< speaker "charles-sabourdin" >}}
+Pour rendre ces concepts concrets, nous nous appuierons sur JOL, la bibliothèque Java Object Layout d’OpenJDK, afin d’observer directement la représentation mémoire de différents objets selon plusieurs contextes d’exécution : avec ou sans compression des références, avec différentes configurations d’alignement mémoire et avec les Compact Object Headers.
+
+Vous repartirez avec une meilleure compréhension de ce que coûte réellement un objet Java en mémoire, des outils pour le mesurer, et des clés pour comprendre pourquoi quelques octets gagnés par objet peuvent avoir un impact majeur à l’échelle d’une application.
+
+{{< speaker "achraf-hasbi" >}}
 
 ### 22h00 : 3ème mi-temps des juggers
 

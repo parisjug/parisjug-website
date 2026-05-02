@@ -1,5 +1,5 @@
 ---
-title: "Margo"
+title: "MARGO"
 ---
 
 ## Adresse
