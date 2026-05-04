@@ -3,9 +3,9 @@ date: 2026-05-12T19:00:00
 publishDate: 2026-05-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/mai-2026"
 tags:
+- java
 - performance
 - tools
-- java
 owner: 
 title: "Soirée la mémoire dans la jvm"
 #videos:
@@ -35,30 +35,33 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h30 : G1, ZGC, Shenandoah, ... avec tous ces GCs dans Java, je choisis lequel ?
 
-On a l'impression qu'avec chaque version de Java il y a de plus en plus de Garbage Collectors (GCs) avec de plus en plus d'options. On entend des phrases cryptiques telles que "Oh trop bien ZGC est devenu générationnel alors que Shenandoah ne l'est pas" ou "T'as vu chez Netflix ils ont réduit leurs tail latencies avec ZGC".
+On a l'impression qu'avec chaque version de Java, il y a de plus en plus de Garbage Collectors (GCs) avec de plus en plus d'options.
+On entend des phrases cryptiques telles que "Oh trop bien ZGC est devenu générationnel alors que Shenandoah ne l'est pas" ou "T'as vu chez Netflix ils ont réduit leurs tail latencies avec ZGC".
 
 Du coup on se pose tout plein de questions:
 
-qu'est-ce qu'ils racontent ?
-ZGC c'est quoi ?
-si ce ZGC est si magique, pourquoi il y a d'autres GCs dans Java, hein ?
-pourquoi on ne parle toujours que des différents GCs de Java mais jamais pour Go ou JavaScript ? chez Java ils ne sont pas capables d'en choisir un ?
-et en natif, on a besoin d'un GC ?
+- Qu'est-ce qu'ils racontent ?
+- ZGC c'est quoi ?
+- Si ce ZGC est si magique, pourquoi il y a d'autres GCs dans Java, hein ?
+- Pourquoi on ne parle toujours que des différents GCs de Java mais jamais pour Go ou JavaScript ? chez Java ils ne sont pas capables d'en choisir un ?
+- Et en natif, on a besoin d'un GC ?
 
 {{< speaker "antoine-dessaigne" >}}
 
 ### 20h30 : Buffet offert par [MARGO]({{< ref "/location/margo.md" >}})
 
 [{{< figure src="/img/sponsors/2026/margo.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/margo.md" >}}) 
--->
 
 ### 21h00 : Projet Lilliput : Et si vos objets Java prenaient moins de place ?
 
-La performance des applications Java est étroitement liée à leur empreinte mémoire : plus une application consomme de heap, plus elle exerce de pression sur le garbage collector, le cache CPU, les temps de pause et les coûts d’infrastructure. Pourtant, une partie de cette mémoire est consommée avant même de stocker nos données métier : chaque objet Java porte avec lui un en-tête, invisible dans le code, mais bien réel en production.
+La performance des applications Java est étroitement liée à leur empreinte mémoire : plus une application consomme de heap, plus elle exerce de pression sur le garbage collector, le cache CPU, les temps de pause et les coûts d’infrastructure.
+Pourtant, une partie de cette mémoire est consommée avant même de stocker nos données métier : chaque objet Java porte avec lui un en-tête, invisible dans le code, mais bien réel en production.
 
-Dans cette session, nous explorerons l’organisation des objets dans la heap. Nous verrons comment la JVM dispose les objets en mémoire, quelles règles gouvernent leur alignement, leur padding, leurs champs, leurs références et leurs en-têtes.
+Dans cette session, nous explorerons l’organisation des objets dans la heap.
+Nous verrons comment la JVM dispose les objets en mémoire, quelles règles gouvernent leur alignement, leur padding, leurs champs, leurs références et leurs en-têtes.
 
-Enfin, nous étudierons l’apport du Projet Lilliput et des Compact Object Headers : introduits comme fonctionnalité expérimentale avec la JEP 450 dans JDK 24, puis transformés en fonctionnalité standard avec la JEP 519 dans JDK 25. Cette évolution réduit la taille des en-têtes d’objets dans HotSpot de 96 ou 128 bits à 64 bits sur les architectures 64 bits, avec des gains observés sur l’empreinte mémoire et la pression GC.
+Enfin, nous étudierons l’apport du Projet Lilliput et des Compact Object Headers : introduits comme fonctionnalité expérimentale avec la JEP 450 dans JDK 24, puis transformés en fonctionnalité standard avec la JEP 519 dans JDK 25.
+Cette évolution réduit la taille des en-têtes d’objets dans HotSpot de 96 ou 128 bits à 64 bits sur les architectures 64 bits, avec des gains observés sur l’empreinte mémoire et la pression GC.
 
 Pour rendre ces concepts concrets, nous nous appuierons sur JOL, la bibliothèque Java Object Layout d’OpenJDK, afin d’observer directement la représentation mémoire de différents objets selon plusieurs contextes d’exécution : avec ou sans compression des références, avec différentes configurations d’alignement mémoire et avec les Compact Object Headers.
 
