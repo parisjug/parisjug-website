@@ -1,5 +1,9 @@
 ---
 title: "Stéphane Phillipart"
+twitter: "wildagsx"
+bluesky: "wilda.bsky.social"
+github: https://github.com/philippart-s
+linkedin: "https://www.linkedin.com/in/philippartstephane/"
 ---
 
 Développeur un jour, développeur toujours !

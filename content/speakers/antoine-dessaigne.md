@@ -3,7 +3,7 @@ title: "Antoine Dessaigne"
 twitter: "adessaigne"
 bluesky: "adessaigne.bsky.social"
 github: https://github.com/adessaigne
-linkedin: "antoine-dessaigne-3618aa37"
+linkedin: "https://www.linkedin.com/in/antoine-dessaigne-3618aa37/"
 ---
 
 Antoine est développeur Java depuis une vingtaine d'années. Depuis 2012 il travaille sur un logiciel d'analytics chez Axway, un éditeur français de logiciels.
