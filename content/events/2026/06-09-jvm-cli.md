@@ -1,7 +1,7 @@
 ---
 date: 2026-06-09T19:00:00
 publishDate: 2026-06-01
-# register: "https://www.helloasso.com/associations/bjpc/evenements/juin-2026"
+register: "https://www.helloasso.com/associations/bjpc/evenements/juin-2026"
 tags:
 - java
 - jvm
