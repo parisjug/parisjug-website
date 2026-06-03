@@ -4,8 +4,6 @@ publishDate: 2026-06-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/juin-2026"
 tags:
 - java
-- jvm
-- cli
 - tools
 owner: 
 title: "Soirée JVM et CLI"
