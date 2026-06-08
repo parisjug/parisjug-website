@@ -39,7 +39,7 @@ jobs:
 
       - name: Comment PR with preview starting
         id: start_comment
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             const prNumber = Number(process.env.PR_NUMBER);
@@ -122,7 +122,7 @@ jobs:
 
       - name: Update PR comment with preview link
         if: success()
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         env:
           COMMENT_ID: ${{ steps.start_comment.outputs.comment_id }}
           PREVIEW_URL: ${{ env.DEPLOY_URL }}
@@ -140,7 +140,7 @@ jobs:
 
       - name: Update PR comment on failure
         if: failure() && steps.start_comment.outputs.comment_id
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         env:
           COMMENT_ID: ${{ steps.start_comment.outputs.comment_id }}
         with:
