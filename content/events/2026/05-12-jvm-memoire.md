@@ -8,7 +8,9 @@ tags:
 - tools
 owner: 
 title: "Soirée la mémoire dans la jvm"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=q9wCSnXIpkg
+- https://www.youtube.com/watch?v=Ni6NB3puDvU
 ---
 
 ## Date et lieu
