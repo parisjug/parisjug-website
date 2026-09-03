@@ -7,7 +7,7 @@ tags:
  - JVM
  - Valhalla
 owner: 
-title: "Soirée"
+title: "Soirée Vahalla, JEP et autres sujets"
 #videos:
 ---
 
