@@ -3,9 +3,7 @@ date: 2026-09-08T19:00:00
 publishDate: 2026-09-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/septembre-2026"
 tags:
- - valueType
- - JVM
- - Valhalla
+ - java
 owner: 
 title: "Soirée Vahalla, JEP et autres sujets"
 #videos:
