@@ -6,7 +6,8 @@ tags:
  - java
 owner: 
 title: "Soirée Vahalla, JEP et autres sujets"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=4PnMPoI7otI
 ---
 
 ## Date et lieu

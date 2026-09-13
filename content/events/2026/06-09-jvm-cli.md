@@ -7,7 +7,9 @@ tags:
 - tools
 owner: 
 title: "Soirée JVM et CLI"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=h_FW4jj6A9o
+- https://www.youtube.com/watch?v=RHCa5cCapxU
 ---
 
 ## Date et lieu
