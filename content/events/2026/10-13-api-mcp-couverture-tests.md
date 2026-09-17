@@ -4,17 +4,18 @@ draft: true
 publishDate: 2026-10-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/octobre-2026"
 tags:
-# TODO
-# - 
+- ai
+- tool
+- test
 owner: 
-title: "Soirée"
+title: "Soirée API via MCP et tests bien couverts"
 #videos:
 ---
 
 ## Date et lieu
 
 * Mardi 13 Octobre 2026 à 19h00
-* Dans <!--[les locaux de todo]({{< ref "/location/todo.md" >}})-->
+* Dans [les locaux de Exalt IT]({{< ref "/location/exalt.md" >}})
 
 > Les sessions sont filmées et le public est photographié.
 Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG.
@@ -41,21 +42,17 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 {{< speaker "charles-sabourdin" >}}
 
-<!--
-### 20h30 : Buffet offert par [todo]({{< ref "/location/todo.md" >}})
+### 20h30 : Buffet offert par [Exalt IT]({{< ref "/location/exalt.md" >}})
 
-[{{< figure src="/img/sponsors/2025/sponsor.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/sponsor.md" >}}) 
--->
+[{{< figure src="/img/sponsors/2026/exalt.svg" alt="sponsor" class="sponsor-svg-logo" width="250" >}}]({{< ref "/location/exalt.md" >}})
 
-### 21h00 : Todo
+### 21h00 : La couverture du code n'est jamais à 100%
 
-...
+En combinant tests unitaires et tests d'intégration sur une vraie application Java, un rapport de couverture (JUnit + Cucumber + JaCoCo, avec Sonar) permet de repérer concrètement les zones du code qui mériteraient d'être mieux testées, et de comprendre pourquoi viser 100% de couverture est autant un mythe qu'un mirage.
 
-...
+Pas de slides théoriques ici, mais une démo live : on lance le build, on affiche le rapport de couverture à l'écran et on décrypte en direct les trous qu'on y trouve.
 
-...
-
-{{< speaker "charles-sabourdin" >}}
+{{< speaker "sidney-cohen" >}}
 
 ### 22h00 : 3ème mi-temps des juggers
 
