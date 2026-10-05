@@ -32,15 +32,19 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h00 : Accueil
 
-### 19h30 : Todo
+### 19h30 : Reshap(e)r vos API en MCP Servers
 
-...
+Le Model Context Protocol (MCP) s'impose pour connecter les LLM à vos données. Mais comment transformer vos API existantes en serveurs MCP prêts pour la production ? C'est le rôle du projet open source Reshapr.
 
-...
+Durant cette heure, découvrez comment "reshaper" vos endpoints REST/GraphQL/gRPC pour l'IA :
 
-...
+ - **Architecture & Démo** : principes du reshaping, cas pratiques et retour d'expérience sur les bénéfices et limites.
 
-{{< speaker "charles-sabourdin" >}}
+ - **Quarkus everywhere** : compilation native GraalVM, moteur WASM, clustering et observabilité de pointe.
+
+ - **Cloud Native** : déploiement et gestion sur Kubernetes via un Operator et un Admission Controller (JOSDK).
+
+{{< speaker "laurent-broudoux" >}}
 
 ### 20h30 : Buffet offert par [Exalt IT]({{< ref "/location/exalt.md" >}})
 
