@@ -51,7 +51,11 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 Nous formerons ensuite pour chaque projet présent un groupe avec les 3 à 5 personnes souhaitant y contribuer.
 
-### 22h00 : 3ème mi-temps des juggers
+### 22h15 : Fin de la soirée
+
+Les groupes qui le souhaitent pourront présenter rapidement ce qu’ils ont réalisé et les étapes futures.
+
+### 22h30 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
