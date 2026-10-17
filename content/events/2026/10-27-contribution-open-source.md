@@ -44,7 +44,6 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 | Maven             | Hervé Boutemy         |
 | open-hospital     | Anicet Togue          |
 | Quickperf         | Jean Bisutti          |
-| samber            | Samuel Berthe         |
 | Vidocq            | Antoine Sabot-Durand  |
 
 ### 19h30 : « Hackathon »
