@@ -8,7 +8,9 @@ tags:
 - test
 owner: 
 title: "Soirée API via MCP et tests bien couverts"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=Np-s-Oc3MDQ
+- https://www.youtube.com/watch?v=GTxMwdPYrXU
 ---
 
 ## Date et lieu
