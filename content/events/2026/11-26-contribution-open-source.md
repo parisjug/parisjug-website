@@ -1,6 +1,6 @@
 ---
 date: 2026-11-26T18:30:00
-publishDate: 2026-11-21
+publishDate: 2026-10-21
 register: "https://www.helloasso.com/associations/bjpc/evenements/octobre-2026-27"
 tags:
 - Java
