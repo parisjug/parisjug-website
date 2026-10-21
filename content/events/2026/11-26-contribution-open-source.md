@@ -1,6 +1,6 @@
 ---
-date: 2026-10-27T18:30:00
-publishDate: 2026-10-15
+date: 2026-11-26T18:30:00
+publishDate: 2026-10-21
 register: "https://www.helloasso.com/associations/bjpc/evenements/octobre-2026-27"
 tags:
 - Java
@@ -12,7 +12,7 @@ title: "Soirée de contribution à l'Open Source"
 
 ## Date et lieu
 
-* Mardi 27 Octobre 2026 à 18h30
+* Jeudi 26 Novembre 2026 à 18h30
 * Dans les locaux d'[OCTO Technology]({{< ref "/location/octo.md" >}})
 
 > Le public pourra être photographié.
