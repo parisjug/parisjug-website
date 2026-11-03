@@ -1,6 +1,6 @@
 baseURL = 'https://parisjug.hardcoding.fr/'
 defaultContentLanguage = 'fr'
-languageCode = 'fr-fr'
+locale = 'fr-fr'
 title = 'Paris Java User Group'
 theme = 'mainroad'
 #googleAnalytics = "UA-62610761-1"
