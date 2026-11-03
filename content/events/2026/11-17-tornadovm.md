@@ -1,6 +1,6 @@
 ---
 date: 2026-11-17T19:00:00
-draft: true
+draft: false
 publishDate: 2026-11-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/novembre-2026"
 tags:
