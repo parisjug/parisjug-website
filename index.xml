@@ -21,6 +21,20 @@ En acceptant cette invitation, vous autorisez le Paris JUG à publier votre phot
 &lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.
 Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
+&lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée TornadoVM [en]</title><link>https://www.parisjug.org/events/2026/11-17-tornadovm/</link><pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2026/11-17-tornadovm/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mardi 17 Novembre 2026 à 19h00&lt;/li&gt;
+&lt;li&gt;Dans Dans &lt;a href="https://www.parisjug.org/location/criteo/"&gt;les locaux de Criteo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les sessions sont filmées et le public est photographié.
+Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l&amp;rsquo;associations Paris JUG.
+En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Les &lt;strong&gt;inscrits&lt;/strong&gt; à l&amp;rsquo;évènement non présents &lt;strong&gt;5 minutes avant le début de la session&lt;/strong&gt;, soit à 19h25, verront leurs &lt;strong&gt;places remises à disposition&lt;/strong&gt;.&lt;br&gt;
+Les &lt;strong&gt;non inscrits&lt;/strong&gt; à l&amp;rsquo;évènement ne pourront donc y assister que sous réserve de &lt;strong&gt;places disponibles&lt;/strong&gt; sur place &lt;strong&gt;5 min avant le début de la session&lt;/strong&gt;, soit à 19h25.&lt;br&gt;
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
 &lt;strong&gt;Toute inscription non confirmée ne sera pas prise en compte !&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Soirée API via MCP et tests bien couverts</title><link>https://www.parisjug.org/events/2026/10-13-api-mcp-couverture-tests/</link><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/events/2026/10-13-api-mcp-couverture-tests/</guid><description>&lt;h2 id="date-et-lieu"&gt;Date et lieu&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Mardi 13 Octobre 2026 à 19h00&lt;/li&gt;
@@ -4581,7 +4595,8 @@ So far, his team is involved in the database tooling development, the
 integration of Codemirror and Orion editor and a Codenvy Eclipse plugin.
 He is currently working on the integration of Eclipse Flux to Codenvy.&lt;/p&gt;</description></item><item><title>Sylvain Wallez</title><link>https://www.parisjug.org/speakers/sylvain-wallez/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/sylvain-wallez/</guid><description>&lt;p&gt;Sylvain Wallez est développeur et architecte passionné depuis trois décennies, membre de la Fondation Apache.&lt;br&gt;
 Développeur polyglotte, il code sur les machines de toutes tailles, du micro-contrôleur aux gros clusters.&lt;/p&gt;
-&lt;p&gt;Il travaile chez Elastic depuis 6 ans, d&amp;rsquo;abord tech lead dans l&amp;rsquo;équipe Cloud, et maintenant lead developer des librairies client Java et Rust.&lt;/p&gt;</description></item><item><title>Thierry Chantier</title><link>https://www.parisjug.org/speakers/thierry-chantier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/thierry-chantier/</guid><description>&lt;p&gt;Une passion née dans les lectures, le monde informatique et électronique
+&lt;p&gt;Il travaile chez Elastic depuis 6 ans, d&amp;rsquo;abord tech lead dans l&amp;rsquo;équipe Cloud, et maintenant lead developer des librairies client Java et Rust.&lt;/p&gt;</description></item><item><title>Thanos Stratikopoulos</title><link>https://www.parisjug.org/speakers/thanos-stratikopoulos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/thanos-stratikopoulos/</guid><description>&lt;p&gt;Dr. Thanos Stratikopoulos is a Principal Software Engineer at Beestream Ltd and Research Fellow at the University of Manchester with specialization on heterogeneous architectures and reconfigurable accelerators.
+He has authored more than 20 research articles in the field of hardware acceleration, system software and programming languages. He has also been involved in several EU Horizon 2020, EU Horizon Europe, and UKRI projects and his interests include computer architecture, high-performance computing, virtualization and cloud acceleration.&lt;/p&gt;</description></item><item><title>Thierry Chantier</title><link>https://www.parisjug.org/speakers/thierry-chantier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.parisjug.org/speakers/thierry-chantier/</guid><description>&lt;p&gt;Une passion née dans les lectures, le monde informatique et électronique
 m&amp;rsquo;a happé dès mon ZX Spectrum pour ne jamais me lâcher.&lt;br&gt;
 Développeur de métier, du jeu vidéo au monde du master data management,
 j&amp;rsquo;ai aussi touché aux univers de la QA et de la mise en production.&lt;/p&gt;
