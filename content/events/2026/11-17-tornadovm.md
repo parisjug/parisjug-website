@@ -39,7 +39,7 @@ In the AI era, accessing GPUs from Java is essential - but it still remains a ch
 
 This talk will present the key innovations that are offered by the TornadoVM runtime platform, and will focus on practical ways to optimize existing Java applications through its high-level API. Through hands-on examples, we will demonstrate how to offload computations, manage data efficiently, and achieve significant performance gains - entirely from Java.
 
-We will also showcase GPULlama3.java, a pure Java large language model (LLM) library accelerated with TornadoVM, illustrating how modern AI workloads can run efficiently within the JVM. Finally, a live-coding demo using IntelliJ IDEA will highlight TornadoVM’s integrated profiling and tooling ecosystem for seamless development experience.
+We will also showcase jitLLM, a pure Java large language model (LLM) library accelerated with TornadoVM, illustrating how modern AI workloads can run efficiently within the JVM. Finally, a live-coding demo using IntelliJ IDEA will highlight TornadoVM’s integrated profiling and tooling ecosystem for seamless development experience.
 
 {{< speaker "thanos-stratikopoulos" >}}
 
