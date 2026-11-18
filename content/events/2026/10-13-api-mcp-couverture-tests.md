@@ -4,7 +4,7 @@ publishDate: 2026-10-01
 register: "https://www.helloasso.com/associations/bjpc/evenements/octobre-2026"
 tags:
 - ai
-- tool
+- tools
 - test
 owner: 
 title: "Soirée API via MCP et tests bien couverts"

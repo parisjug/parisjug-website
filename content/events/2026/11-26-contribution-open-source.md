@@ -3,9 +3,10 @@ date: 2026-11-26T18:30:00
 publishDate: 2026-10-21
 register: "https://www.helloasso.com/associations/bjpc/evenements/octobre-2026-27"
 tags:
-- Java
-- OpenSource
-- DevCommunity
+- ai
+- jee
+- performance
+- tools
 owner: Pierre-Yves
 title: "Soirée de contribution à l'Open Source"
 ---
@@ -36,15 +37,15 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 À ce jour, les projets suivants se sont manifestés :
 
-| Projet            | Représentant          |
-|:------------------|:----------------------|
-| junit-mcp-server  | Clarence Charles      |
-| Kubo              | Renaud Fleury         |
-| Langchain4j-cdi   | Yann Blazart          |
-| Maven             | Hervé Boutemy         |
-| open-hospital     | Anicet Togue          |
-| Quickperf         | Jean Bisutti          |
-| Vidocq            | Antoine Sabot-Durand  |
+| Projet                                                            | Représentant          |
+|:------------------------------------------------------------------|:----------------------|
+| [junit-mcp-server](https://github.com/clarenced/junit-mcp-server) | Clarence Charles      |
+| Kubo                                                              | Renaud Fleury         |
+| [Langchain4j-cdi](https://github.com/langchain4j/langchain4j-cdi) | Yann Blazart          |
+| [Maven](https://maven.apache.org/)                                | Hervé Boutemy         |
+| [open-hospital](https://www.open-hospital.org/)                   | Anicet Togue          |
+| [Quickperf](https://quickperf.io/)                                | Jean Bisutti          |
+| [Vidocq](https://vidocq.dev/)                                     | Antoine Sabot-Durand  |
 
 ### 19h30 : « Hackathon »
 
