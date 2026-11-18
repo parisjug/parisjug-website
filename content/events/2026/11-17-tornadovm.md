@@ -10,7 +10,9 @@ tags:
  - TornadoVM
 owner: 
 title: "Soirée TornadoVM [en]"
-#videos:
+videos:
+ - https://www.youtube.com/watch?v=mWFDqYbw2LQ
+ - https://www.youtube.com/watch?v=8aX9zBF5ru0
 ---
 
 ## Date et lieu
