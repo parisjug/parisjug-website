@@ -4,7 +4,7 @@ title: "La Paris JUG Academy 2027"
 
 Le Mardi 12 Janvier 2027 aura lieu la 13ème édition de la Paris JUG Academy. 
 
-Vous pouvez soumettre votre candidature [sur ce formulaire](https://forms.gle/5t4Aww2NACcGxqf87)
+Vous pouvez soumettre votre candidature [sur ce formulaire](https://forms.gle/RXj1rTm9i4HH9JJk8)
 
 C'est la nouvelle édition de la désormais incontournable session de janvier du Paris JUG : la Paris JUG Academy. Cette année nous avons la chance d'être parrainé par [Jean-Philippe BEMPEL]({{< ref "/speakers/jean-philippe-bempel.md" >}}), [Java Champion](https://dev.java/community/jcs/). 
 
