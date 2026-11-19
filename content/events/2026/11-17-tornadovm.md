@@ -74,9 +74,14 @@ class platform for AI, accelerated computing, and high-performance machine learn
 
 ### 22h00 : 3ème mi-temps des juggers
 
+
 {{< replay-section >}}
 
 ## Feedback
+
+[Supports](https://github.com/beehive-lab/tornadovm-presentations/tree/main/slides/2026/jugparis)
+[Hand-on-labs](https://github.com/beehive-lab/tornadovm-hands-on-lab)
+
 
 {{< sponsor-section >}}
 
